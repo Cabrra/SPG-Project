@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="flashH.png" />
+    <Width Value="16" />
+    <Height Value="16" />
+    <PositionX Value="-200" />
+    <PositionY Value="-200" />
+    <ImageSizeWidh Value="64" />
+    <ImageSizeHeight Value="64" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="20" />
+    <SpawnRate Value="0.7" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="0.8" />
+      <MaxLife Value="1.2" />
+      <ColorStartA Value="230" />
+      <ColorStartR Value="0" />
+      <ColorStartG Value="128" />
+      <ColorStartB Value="255" />
+      <ColorEndA Value="50" />
+      <ColorEndR Value="255" />
+      <ColorEndG Value="255" />
+      <ColorEndB Value="20" />
+      <ScaleStart Value="0.4" />
+      <ScaleEnd Value="0.8" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="45" />
+      <VelocityStartMinX Value="-140" />
+      <VelocityStartMaxX Value="80" />
+      <VelocityStartMinY Value="-170" />
+      <VelocityStartMaxY Value="-150" />
+      <VelocityEndMinX Value="50" />
+      <VelocityEndMaxX Value="100" />
+      <VelocityEndMinY Value="80" />
+      <VelocityEndMaxY Value="100" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

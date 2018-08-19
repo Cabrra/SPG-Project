@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="Swirl.png" />
+    <Width Value="16" />
+    <Height Value="16" />
+    <PositionX Value="-200" />
+    <PositionY Value="-200" />
+    <ImageSizeWidh Value="64" />
+    <ImageSizeHeight Value="64" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="20" />
+    <SpawnRate Value="0.7" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="0.4" />
+      <MaxLife Value="0.65" />
+      <ColorStartA Value="220" />
+      <ColorStartR Value="255" />
+      <ColorStartG Value="10" />
+      <ColorStartB Value="10" />
+      <ColorEndA Value="20" />
+      <ColorEndR Value="20" />
+      <ColorEndG Value="10" />
+      <ColorEndB Value="255" />
+      <ScaleStart Value="0.3" />
+      <ScaleEnd Value="1.2" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="45" />
+      <VelocityStartMinX Value="-140" />
+      <VelocityStartMaxX Value="180" />
+      <VelocityStartMinY Value="-170" />
+      <VelocityStartMaxY Value="150" />
+      <VelocityEndMinX Value="-150" />
+      <VelocityEndMaxX Value="130" />
+      <VelocityEndMinY Value="-180" />
+      <VelocityEndMaxY Value="100" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

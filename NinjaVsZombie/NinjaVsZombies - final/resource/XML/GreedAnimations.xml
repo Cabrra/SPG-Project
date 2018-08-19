@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="2">
+  <Animation Name="GreedRun" Path="fatrun.png" Looping="0" NumberofFrames="2">
+    <Frame FrameRectX="46" FrameRectY="0" FrameRectWidth="57" FrameRectHeight="63" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="64" AnchorpointY="58" Duration="0.4" EventTrigger="" />
+    <Frame FrameRectX="160" FrameRectY="0" FrameRectWidth="55" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="179" AnchorpointY="58" Duration="0.4" EventTrigger="" />
+  </Animation>
+  <Animation Name="GreedTired" Path="fatrun.png" Looping="0" NumberofFrames="2">
+    <Frame FrameRectX="271" FrameRectY="10" FrameRectWidth="50" FrameRectHeight="55" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="292" AnchorpointY="61" Duration="0.4" EventTrigger="" />
+    <Frame FrameRectX="364" FrameRectY="13" FrameRectWidth="46" FrameRectHeight="53" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="382" AnchorpointY="61" Duration="0.4" EventTrigger="" />
+  </Animation>
+</Animation_info>

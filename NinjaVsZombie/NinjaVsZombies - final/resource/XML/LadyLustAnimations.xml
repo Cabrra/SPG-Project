@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="4">
+   <Animation Name="LadyKiss" Path="Kiss.png" Looping="0" NumberofFrames="2">
+    <Frame FrameRectX="73" FrameRectY="0" FrameRectWidth="46" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="100" AnchorpointY="60" Duration="0.6" EventTrigger="" />
+    <Frame FrameRectX="8" FrameRectY="0" FrameRectWidth="54" FrameRectHeight="62" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="48" AnchorpointY="60" Duration="0.3" EventTrigger="" />
+  </Animation>
+  <Animation Name="Walk_Left" Path="succubus_walk.png" Looping="0" NumberofFrames="3">
+    <Frame FrameRectX="2" FrameRectY="0" FrameRectWidth="33" FrameRectHeight="62" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="19" AnchorpointY="12" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="54" FrameRectY="0" FrameRectWidth="28" FrameRectHeight="62" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="67" AnchorpointY="12" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="106" FrameRectY="0" FrameRectWidth="29" FrameRectHeight="67" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="119" AnchorpointY="12" Duration="0.2" EventTrigger="" />
+  </Animation>
+ <Animation Name="Whip" Path="succubus_whip.png" Looping="0" NumberofFrames="3">
+    <Frame FrameRectX="0" FrameRectY="0" FrameRectWidth="56" FrameRectHeight="65" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="27" AnchorpointY="59" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="78" FrameRectY="0" FrameRectWidth="72" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="94" AnchorpointY="60" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="173" FrameRectY="0" FrameRectWidth="78" FrameRectHeight="66" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="191" AnchorpointY="61" Duration="0.5" EventTrigger="" />
+  </Animation>
+  <Animation Name="LadyIdle" Path="succubus_idle.png" Looping="0" NumberofFrames="3">
+    <Frame FrameRectX="24" FrameRectY="0" FrameRectWidth="58" FrameRectHeight="65" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="57" AnchorpointY="60" Duration="0.4" EventTrigger="" />
+    <Frame FrameRectX="100" FrameRectY="0" FrameRectWidth="59" FrameRectHeight="66" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="134" AnchorpointY="60" Duration="0.4" EventTrigger="" />
+    <Frame FrameRectX="174" FrameRectY="0" FrameRectWidth="54" FrameRectHeight="66" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="209" AnchorpointY="60" Duration="0.4" EventTrigger="" />
+  </Animation>
+</Animation_info>

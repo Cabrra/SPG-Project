@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D1898429-7864-14CF-ECA6-B51AD3AD0D7D}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>F:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>F:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Ambush_Ninja.cs" />
+     <Compile Include="Assets\Boss.cs" />
+     <Compile Include="Assets\CamControl.cs" />
+     <Compile Include="Assets\CountdownTimer.cs" />
+     <Compile Include="Assets\GameOverScreen.cs" />
+     <Compile Include="Assets\HUD.cs" />
+     <Compile Include="Assets\HealthBar.cs" />
+     <Compile Include="Assets\HideLogo.cs" />
+     <Compile Include="Assets\Hookbehaviour1.cs" />
+     <Compile Include="Assets\Instruct1.cs" />
+     <Compile Include="Assets\KeyboardInstrucc.cs" />
+     <Compile Include="Assets\Levelup.cs" />
+     <Compile Include="Assets\LeverBehavior.cs" />
+     <Compile Include="Assets\MeleeWeapon.cs" />
+     <Compile Include="Assets\Menu\TextController.cs" />
+     <Compile Include="Assets\Menu\instructionController.cs" />
+     <Compile Include="Assets\MiniMapCamera.cs" />
+     <Compile Include="Assets\Ninja_attack.cs" />
+     <Compile Include="Assets\Ninja_throw.cs" />
+     <Compile Include="Assets\ObjectInstruct.cs" />
+     <Compile Include="Assets\PauseKeyboardControls.cs" />
+     <Compile Include="Assets\PauseScreen.cs" />
+     <Compile Include="Assets\PauseXboxControls.cs" />
+     <Compile Include="Assets\PizzaBehaviour.cs" />
+     <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\Puzzle1Behavior.cs" />
+     <Compile Include="Assets\ROG_Assets\Prefabs\Other\Water\WaterAssets\WaterSimple.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\ObjectSpawner.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\ROG.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Enemy_SideScroll.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Enemy_TopDown.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Player_Rigidbody.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Player_SideScroll.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Player_TopDown.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Unit Scripts\Player_TopDownBasic.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\Billboard.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\ClickToMove.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\DestructableObject.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\FlickeringLight.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\FloatingText.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\FloatingTextComponent.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\HealthPickup.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\Instructions.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\MaterialTiling.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\PulseTrap.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\RotateAroundObject.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\Sprite.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Utility\ToolTip.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Weapons\BaseWeapon.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Weapons\Bullet.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Weapons\Grenade.cs" />
+     <Compile Include="Assets\ROG_Assets\Scripts\Weapons\Gun.cs" />
+     <Compile Include="Assets\RoomTrigger.cs" />
+     <Compile Include="Assets\ShowLogo.cs" />
+     <Compile Include="Assets\WIN.cs" />
+     <Compile Include="Assets\Zombie_cone.cs" />
+     <Compile Include="Assets\Zoombie.cs" />
+     <Compile Include="Assets\enemyinstruct.cs" />
+     <Compile Include="Assets\firedisappear.cs" />
+     <Compile Include="Assets\floorappear.cs" />
+     <Compile Include="Assets\instructionController2.cs" />
+     <Compile Include="Assets\roomSpawnControl.cs" />
+     <Compile Include="Assets\score_GUI.cs" />
+     <Compile Include="Assets\xbox.cs" />
+     <Compile Include="Assets\zombieSpawner.cs" />
+     <None Include="Assets\ROG_Assets\Prefabs\Other\Shadow Projector\Projector Multiply.shader" />
+     <None Include="Assets\ROG_Assets\Materials\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\ROG_Assets\Prefabs\Other\Water\WaterAssets\FX-IslandWaterSimple.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>F:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,2776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level_Info>
+  <Level Name="Pride" NumOfRooms="6" Boss="Puraido" Rows="48" Cols="75" Width="32" Height="32" />
+  <Tileset Path="resource/Graphics/NewTileSet.png" Rows="8" Cols="32" Width="32" Height="32" />
+  <Room_List>
+    <Room Name="start room" Unlocked="0" RoomNum="1" PosX="0" PosY="0" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="0" PosY="0" Id="30" Type="2" />
+        <Tile PosX="1" PosY="0" Id="30" Type="2" />
+        <Tile PosX="2" PosY="0" Id="30" Type="2" />
+        <Tile PosX="3" PosY="0" Id="30" Type="2" />
+        <Tile PosX="4" PosY="0" Id="30" Type="2" />
+        <Tile PosX="5" PosY="0" Id="30" Type="2" />
+        <Tile PosX="6" PosY="0" Id="30" Type="2" />
+        <Tile PosX="7" PosY="0" Id="30" Type="2" />
+        <Tile PosX="8" PosY="0" Id="30" Type="2" />
+        <Tile PosX="9" PosY="0" Id="30" Type="2" />
+        <Tile PosX="10" PosY="0" Id="30" Type="2" />
+        <Tile PosX="11" PosY="0" Id="30" Type="2" />
+        <Tile PosX="12" PosY="0" Id="30" Type="2" />
+        <Tile PosX="13" PosY="0" Id="30" Type="2" />
+        <Tile PosX="14" PosY="0" Id="30" Type="2" />
+        <Tile PosX="15" PosY="0" Id="30" Type="2" />
+        <Tile PosX="16" PosY="0" Id="30" Type="2" />
+        <Tile PosX="17" PosY="0" Id="30" Type="2" />
+        <Tile PosX="18" PosY="0" Id="30" Type="2" />
+        <Tile PosX="19" PosY="0" Id="30" Type="2" />
+        <Tile PosX="20" PosY="0" Id="30" Type="2" />
+        <Tile PosX="21" PosY="0" Id="30" Type="2" />
+        <Tile PosX="22" PosY="0" Id="30" Type="2" />
+        <Tile PosX="23" PosY="0" Id="30" Type="2" />
+        <Tile PosX="24" PosY="0" Id="30" Type="2" />
+        <Tile PosX="0" PosY="1" Id="30" Type="2" />
+        <Tile PosX="1" PosY="1" Id="160" Type="1" />
+        <Tile PosX="2" PosY="1" Id="160" Type="1" />
+        <Tile PosX="3" PosY="1" Id="160" Type="1" />
+        <Tile PosX="4" PosY="1" Id="160" Type="1" />
+        <Tile PosX="5" PosY="1" Id="160" Type="1" />
+        <Tile PosX="6" PosY="1" Id="160" Type="1" />
+        <Tile PosX="7" PosY="1" Id="160" Type="1" />
+        <Tile PosX="8" PosY="1" Id="160" Type="1" />
+        <Tile PosX="9" PosY="1" Id="160" Type="1" />
+        <Tile PosX="10" PosY="1" Id="160" Type="1" />
+        <Tile PosX="11" PosY="1" Id="160" Type="1" />
+        <Tile PosX="12" PosY="1" Id="160" Type="1" />
+        <Tile PosX="13" PosY="1" Id="160" Type="1" />
+        <Tile PosX="14" PosY="1" Id="160" Type="1" />
+        <Tile PosX="15" PosY="1" Id="160" Type="1" />
+        <Tile PosX="16" PosY="1" Id="160" Type="1" />
+        <Tile PosX="17" PosY="1" Id="160" Type="1" />
+        <Tile PosX="18" PosY="1" Id="160" Type="1" />
+        <Tile PosX="19" PosY="1" Id="160" Type="1" />
+        <Tile PosX="20" PosY="1" Id="160" Type="1" />
+        <Tile PosX="21" PosY="1" Id="160" Type="1" />
+        <Tile PosX="22" PosY="1" Id="160" Type="1" />
+        <Tile PosX="23" PosY="1" Id="160" Type="1" />
+        <Tile PosX="24" PosY="1" Id="30" Type="2" />
+        <Tile PosX="0" PosY="2" Id="30" Type="2" />
+        <Tile PosX="1" PosY="2" Id="160" Type="1" />
+        <Tile PosX="2" PosY="2" Id="160" Type="1" />
+        <Tile PosX="3" PosY="2" Id="160" Type="1" />
+        <Tile PosX="4" PosY="2" Id="160" Type="8" />
+        <Tile PosX="5" PosY="2" Id="160" Type="1" />
+        <Tile PosX="6" PosY="2" Id="160" Type="1" />
+        <Tile PosX="7" PosY="2" Id="160" Type="1" />
+        <Tile PosX="8" PosY="2" Id="160" Type="6" />
+        <Tile PosX="9" PosY="2" Id="160" Type="1" />
+        <Tile PosX="10" PosY="2" Id="160" Type="1" />
+        <Tile PosX="11" PosY="2" Id="160" Type="1" />
+        <Tile PosX="12" PosY="2" Id="160" Type="1" />
+        <Tile PosX="13" PosY="2" Id="160" Type="1" />
+        <Tile PosX="14" PosY="2" Id="160" Type="7" />
+        <Tile PosX="15" PosY="2" Id="160" Type="1" />
+        <Tile PosX="16" PosY="2" Id="160" Type="1" />
+        <Tile PosX="17" PosY="2" Id="160" Type="1" />
+        <Tile PosX="18" PosY="2" Id="160" Type="1" />
+        <Tile PosX="19" PosY="2" Id="160" Type="6" />
+        <Tile PosX="20" PosY="2" Id="160" Type="1" />
+        <Tile PosX="21" PosY="2" Id="160" Type="1" />
+        <Tile PosX="22" PosY="2" Id="160" Type="8" />
+        <Tile PosX="23" PosY="2" Id="160" Type="1" />
+        <Tile PosX="24" PosY="2" Id="30" Type="2" />
+        <Tile PosX="0" PosY="3" Id="30" Type="2" />
+        <Tile PosX="1" PosY="3" Id="160" Type="1" />
+        <Tile PosX="2" PosY="3" Id="160" Type="1" />
+        <Tile PosX="3" PosY="3" Id="160" Type="1" />
+        <Tile PosX="4" PosY="3" Id="160" Type="1" />
+        <Tile PosX="5" PosY="3" Id="160" Type="1" />
+        <Tile PosX="6" PosY="3" Id="160" Type="1" />
+        <Tile PosX="7" PosY="3" Id="160" Type="1" />
+        <Tile PosX="8" PosY="3" Id="160" Type="1" />
+        <Tile PosX="9" PosY="3" Id="160" Type="1" />
+        <Tile PosX="10" PosY="3" Id="160" Type="1" />
+        <Tile PosX="11" PosY="3" Id="160" Type="5" />
+        <Tile PosX="12" PosY="3" Id="160" Type="1" />
+        <Tile PosX="13" PosY="3" Id="160" Type="1" />
+        <Tile PosX="14" PosY="3" Id="160" Type="1" />
+        <Tile PosX="15" PosY="3" Id="160" Type="1" />
+        <Tile PosX="16" PosY="3" Id="160" Type="1" />
+        <Tile PosX="17" PosY="3" Id="160" Type="1" />
+        <Tile PosX="18" PosY="3" Id="160" Type="1" />
+        <Tile PosX="19" PosY="3" Id="160" Type="1" />
+        <Tile PosX="20" PosY="3" Id="160" Type="1" />
+        <Tile PosX="21" PosY="3" Id="160" Type="1" />
+        <Tile PosX="22" PosY="3" Id="160" Type="1" />
+        <Tile PosX="23" PosY="3" Id="160" Type="1" />
+        <Tile PosX="24" PosY="3" Id="30" Type="2" />
+        <Tile PosX="0" PosY="4" Id="30" Type="2" />
+        <Tile PosX="1" PosY="4" Id="160" Type="1" />
+        <Tile PosX="2" PosY="4" Id="160" Type="1" />
+        <Tile PosX="3" PosY="4" Id="160" Type="1" />
+        <Tile PosX="4" PosY="4" Id="160" Type="1" />
+        <Tile PosX="5" PosY="4" Id="160" Type="1" />
+        <Tile PosX="6" PosY="4" Id="160" Type="7" />
+        <Tile PosX="7" PosY="4" Id="160" Type="1" />
+        <Tile PosX="8" PosY="4" Id="160" Type="1" />
+        <Tile PosX="9" PosY="4" Id="160" Type="1" />
+        <Tile PosX="10" PosY="4" Id="160" Type="1" />
+        <Tile PosX="11" PosY="4" Id="160" Type="1" />
+        <Tile PosX="12" PosY="4" Id="160" Type="1" />
+        <Tile PosX="13" PosY="4" Id="160" Type="1" />
+        <Tile PosX="14" PosY="4" Id="160" Type="1" />
+        <Tile PosX="15" PosY="4" Id="160" Type="1" />
+        <Tile PosX="16" PosY="4" Id="160" Type="1" />
+        <Tile PosX="17" PosY="4" Id="160" Type="7" />
+        <Tile PosX="18" PosY="4" Id="160" Type="1" />
+        <Tile PosX="19" PosY="4" Id="160" Type="1" />
+        <Tile PosX="20" PosY="4" Id="160" Type="1" />
+        <Tile PosX="21" PosY="4" Id="160" Type="1" />
+        <Tile PosX="22" PosY="4" Id="160" Type="1" />
+        <Tile PosX="23" PosY="4" Id="160" Type="1" />
+        <Tile PosX="24" PosY="4" Id="30" Type="2" />
+        <Tile PosX="0" PosY="5" Id="30" Type="2" />
+        <Tile PosX="1" PosY="5" Id="160" Type="1" />
+        <Tile PosX="2" PosY="5" Id="160" Type="1" />
+        <Tile PosX="3" PosY="5" Id="160" Type="1" />
+        <Tile PosX="4" PosY="5" Id="160" Type="1" />
+        <Tile PosX="5" PosY="5" Id="160" Type="1" />
+        <Tile PosX="6" PosY="5" Id="160" Type="1" />
+        <Tile PosX="7" PosY="5" Id="160" Type="1" />
+        <Tile PosX="8" PosY="5" Id="160" Type="1" />
+        <Tile PosX="9" PosY="5" Id="160" Type="1" />
+        <Tile PosX="10" PosY="5" Id="160" Type="1" />
+        <Tile PosX="11" PosY="5" Id="160" Type="1" />
+        <Tile PosX="12" PosY="5" Id="160" Type="1" />
+        <Tile PosX="13" PosY="5" Id="160" Type="1" />
+        <Tile PosX="14" PosY="5" Id="160" Type="1" />
+        <Tile PosX="15" PosY="5" Id="160" Type="1" />
+        <Tile PosX="16" PosY="5" Id="160" Type="1" />
+        <Tile PosX="17" PosY="5" Id="160" Type="1" />
+        <Tile PosX="18" PosY="5" Id="160" Type="1" />
+        <Tile PosX="19" PosY="5" Id="160" Type="1" />
+        <Tile PosX="20" PosY="5" Id="160" Type="1" />
+        <Tile PosX="21" PosY="5" Id="160" Type="1" />
+        <Tile PosX="22" PosY="5" Id="160" Type="5" />
+        <Tile PosX="23" PosY="5" Id="160" Type="1" />
+        <Tile PosX="24" PosY="5" Id="30" Type="2" />
+        <Tile PosX="0" PosY="6" Id="30" Type="2" />
+        <Tile PosX="1" PosY="6" Id="160" Type="1" />
+        <Tile PosX="2" PosY="6" Id="160" Type="1" />
+        <Tile PosX="3" PosY="6" Id="160" Type="1" />
+        <Tile PosX="4" PosY="6" Id="160" Type="1" />
+        <Tile PosX="5" PosY="6" Id="160" Type="1" />
+        <Tile PosX="6" PosY="6" Id="160" Type="1" />
+        <Tile PosX="7" PosY="6" Id="160" Type="1" />
+        <Tile PosX="8" PosY="6" Id="160" Type="1" />
+        <Tile PosX="9" PosY="6" Id="160" Type="1" />
+        <Tile PosX="10" PosY="6" Id="160" Type="1" />
+        <Tile PosX="11" PosY="6" Id="160" Type="1" />
+        <Tile PosX="12" PosY="6" Id="5" Type="1" />
+        <Tile PosX="13" PosY="6" Id="5" Type="1" />
+        <Tile PosX="14" PosY="6" Id="160" Type="1" />
+        <Tile PosX="15" PosY="6" Id="160" Type="1" />
+        <Tile PosX="16" PosY="6" Id="160" Type="1" />
+        <Tile PosX="17" PosY="6" Id="160" Type="1" />
+        <Tile PosX="18" PosY="6" Id="160" Type="1" />
+        <Tile PosX="19" PosY="6" Id="160" Type="1" />
+        <Tile PosX="20" PosY="6" Id="160" Type="1" />
+        <Tile PosX="21" PosY="6" Id="160" Type="1" />
+        <Tile PosX="22" PosY="6" Id="160" Type="1" />
+        <Tile PosX="23" PosY="6" Id="160" Type="1" />
+        <Tile PosX="24" PosY="6" Id="30" Type="2" />
+        <Tile PosX="0" PosY="7" Id="30" Type="2" />
+        <Tile PosX="1" PosY="7" Id="160" Type="1" />
+        <Tile PosX="2" PosY="7" Id="160" Type="1" />
+        <Tile PosX="3" PosY="7" Id="160" Type="1" />
+        <Tile PosX="4" PosY="7" Id="160" Type="1" />
+        <Tile PosX="5" PosY="7" Id="160" Type="1" />
+        <Tile PosX="6" PosY="7" Id="160" Type="1" />
+        <Tile PosX="7" PosY="7" Id="160" Type="1" />
+        <Tile PosX="8" PosY="7" Id="160" Type="1" />
+        <Tile PosX="9" PosY="7" Id="160" Type="1" />
+        <Tile PosX="10" PosY="7" Id="160" Type="1" />
+        <Tile PosX="11" PosY="7" Id="5" Type="1" />
+        <Tile PosX="12" PosY="7" Id="5" Type="1" />
+        <Tile PosX="13" PosY="7" Id="5" Type="1" />
+        <Tile PosX="14" PosY="7" Id="5" Type="1" />
+        <Tile PosX="15" PosY="7" Id="160" Type="1" />
+        <Tile PosX="16" PosY="7" Id="160" Type="1" />
+        <Tile PosX="17" PosY="7" Id="160" Type="1" />
+        <Tile PosX="18" PosY="7" Id="160" Type="1" />
+        <Tile PosX="19" PosY="7" Id="160" Type="1" />
+        <Tile PosX="20" PosY="7" Id="160" Type="1" />
+        <Tile PosX="21" PosY="7" Id="160" Type="1" />
+        <Tile PosX="22" PosY="7" Id="160" Type="1" />
+        <Tile PosX="23" PosY="7" Id="160" Type="1" />
+        <Tile PosX="24" PosY="7" Id="30" Type="2" />
+        <Tile PosX="0" PosY="8" Id="30" Type="2" />
+        <Tile PosX="1" PosY="8" Id="160" Type="1" />
+        <Tile PosX="2" PosY="8" Id="160" Type="1" />
+        <Tile PosX="3" PosY="8" Id="160" Type="1" />
+        <Tile PosX="4" PosY="8" Id="160" Type="1" />
+        <Tile PosX="5" PosY="8" Id="160" Type="1" />
+        <Tile PosX="6" PosY="8" Id="160" Type="1" />
+        <Tile PosX="7" PosY="8" Id="160" Type="1" />
+        <Tile PosX="8" PosY="8" Id="160" Type="1" />
+        <Tile PosX="9" PosY="8" Id="160" Type="1" />
+        <Tile PosX="10" PosY="8" Id="5" Type="1" />
+        <Tile PosX="11" PosY="8" Id="5" Type="1" />
+        <Tile PosX="12" PosY="8" Id="5" Type="1" />
+        <Tile PosX="13" PosY="8" Id="5" Type="1" />
+        <Tile PosX="14" PosY="8" Id="5" Type="1" />
+        <Tile PosX="15" PosY="8" Id="5" Type="1" />
+        <Tile PosX="16" PosY="8" Id="160" Type="1" />
+        <Tile PosX="17" PosY="8" Id="160" Type="1" />
+        <Tile PosX="18" PosY="8" Id="160" Type="1" />
+        <Tile PosX="19" PosY="8" Id="160" Type="1" />
+        <Tile PosX="20" PosY="8" Id="160" Type="1" />
+        <Tile PosX="21" PosY="8" Id="160" Type="1" />
+        <Tile PosX="22" PosY="8" Id="160" Type="1" />
+        <Tile PosX="23" PosY="8" Id="160" Type="1" />
+        <Tile PosX="24" PosY="8" Id="160" Type="1" />
+        <Tile PosX="0" PosY="9" Id="30" Type="2" />
+        <Tile PosX="1" PosY="9" Id="160" Type="1" />
+        <Tile PosX="2" PosY="9" Id="160" Type="1" />
+        <Tile PosX="3" PosY="9" Id="160" Type="1" />
+        <Tile PosX="4" PosY="9" Id="160" Type="1" />
+        <Tile PosX="5" PosY="9" Id="160" Type="1" />
+        <Tile PosX="6" PosY="9" Id="160" Type="1" />
+        <Tile PosX="7" PosY="9" Id="160" Type="1" />
+        <Tile PosX="8" PosY="9" Id="160" Type="1" />
+        <Tile PosX="9" PosY="9" Id="5" Type="1" />
+        <Tile PosX="10" PosY="9" Id="5" Type="1" />
+        <Tile PosX="11" PosY="9" Id="5" Type="1" />
+        <Tile PosX="12" PosY="9" Id="5" Type="1" />
+        <Tile PosX="13" PosY="9" Id="5" Type="1" />
+        <Tile PosX="14" PosY="9" Id="5" Type="1" />
+        <Tile PosX="15" PosY="9" Id="5" Type="1" />
+        <Tile PosX="16" PosY="9" Id="5" Type="1" />
+        <Tile PosX="17" PosY="9" Id="160" Type="1" />
+        <Tile PosX="18" PosY="9" Id="160" Type="1" />
+        <Tile PosX="19" PosY="9" Id="160" Type="1" />
+        <Tile PosX="20" PosY="9" Id="160" Type="1" />
+        <Tile PosX="21" PosY="9" Id="160" Type="1" />
+        <Tile PosX="22" PosY="9" Id="160" Type="1" />
+        <Tile PosX="23" PosY="9" Id="160" Type="1" />
+        <Tile PosX="24" PosY="9" Id="160" Type="1" />
+        <Tile PosX="0" PosY="10" Id="30" Type="2" />
+        <Tile PosX="1" PosY="10" Id="160" Type="1" />
+        <Tile PosX="2" PosY="10" Id="160" Type="1" />
+        <Tile PosX="3" PosY="10" Id="160" Type="1" />
+        <Tile PosX="4" PosY="10" Id="160" Type="1" />
+        <Tile PosX="5" PosY="10" Id="160" Type="1" />
+        <Tile PosX="6" PosY="10" Id="160" Type="1" />
+        <Tile PosX="7" PosY="10" Id="160" Type="1" />
+        <Tile PosX="8" PosY="10" Id="5" Type="1" />
+        <Tile PosX="9" PosY="10" Id="5" Type="1" />
+        <Tile PosX="10" PosY="10" Id="5" Type="1" />
+        <Tile PosX="11" PosY="10" Id="5" Type="1" />
+        <Tile PosX="12" PosY="10" Id="5" Type="1" />
+        <Tile PosX="13" PosY="10" Id="5" Type="1" />
+        <Tile PosX="14" PosY="10" Id="5" Type="1" />
+        <Tile PosX="15" PosY="10" Id="5" Type="1" />
+        <Tile PosX="16" PosY="10" Id="5" Type="1" />
+        <Tile PosX="17" PosY="10" Id="5" Type="1" />
+        <Tile PosX="18" PosY="10" Id="160" Type="1" />
+        <Tile PosX="19" PosY="10" Id="160" Type="1" />
+        <Tile PosX="20" PosY="10" Id="160" Type="1" />
+        <Tile PosX="21" PosY="10" Id="160" Type="1" />
+        <Tile PosX="22" PosY="10" Id="160" Type="1" />
+        <Tile PosX="23" PosY="10" Id="160" Type="1" />
+        <Tile PosX="24" PosY="10" Id="30" Type="2" />
+        <Tile PosX="0" PosY="11" Id="30" Type="2" />
+        <Tile PosX="1" PosY="11" Id="160" Type="1" />
+        <Tile PosX="2" PosY="11" Id="160" Type="1" />
+        <Tile PosX="3" PosY="11" Id="160" Type="1" />
+        <Tile PosX="4" PosY="11" Id="160" Type="1" />
+        <Tile PosX="5" PosY="11" Id="160" Type="1" />
+        <Tile PosX="6" PosY="11" Id="160" Type="1" />
+        <Tile PosX="7" PosY="11" Id="160" Type="1" />
+        <Tile PosX="8" PosY="11" Id="160" Type="1" />
+        <Tile PosX="9" PosY="11" Id="160" Type="1" />
+        <Tile PosX="10" PosY="11" Id="160" Type="1" />
+        <Tile PosX="11" PosY="11" Id="160" Type="1" />
+        <Tile PosX="12" PosY="11" Id="160" Type="1" />
+        <Tile PosX="13" PosY="11" Id="160" Type="1" />
+        <Tile PosX="14" PosY="11" Id="160" Type="1" />
+        <Tile PosX="15" PosY="11" Id="160" Type="1" />
+        <Tile PosX="16" PosY="11" Id="160" Type="1" />
+        <Tile PosX="17" PosY="11" Id="160" Type="1" />
+        <Tile PosX="18" PosY="11" Id="160" Type="1" />
+        <Tile PosX="19" PosY="11" Id="160" Type="1" />
+        <Tile PosX="20" PosY="11" Id="160" Type="1" />
+        <Tile PosX="21" PosY="11" Id="160" Type="1" />
+        <Tile PosX="22" PosY="11" Id="160" Type="7" />
+        <Tile PosX="23" PosY="11" Id="160" Type="1" />
+        <Tile PosX="24" PosY="11" Id="30" Type="2" />
+        <Tile PosX="0" PosY="12" Id="30" Type="2" />
+        <Tile PosX="1" PosY="12" Id="160" Type="1" />
+        <Tile PosX="2" PosY="12" Id="160" Type="1" />
+        <Tile PosX="3" PosY="12" Id="160" Type="1" />
+        <Tile PosX="4" PosY="12" Id="160" Type="1" />
+        <Tile PosX="5" PosY="12" Id="160" Type="1" />
+        <Tile PosX="6" PosY="12" Id="160" Type="5" />
+        <Tile PosX="7" PosY="12" Id="160" Type="1" />
+        <Tile PosX="8" PosY="12" Id="160" Type="1" />
+        <Tile PosX="9" PosY="12" Id="160" Type="1" />
+        <Tile PosX="10" PosY="12" Id="160" Type="1" />
+        <Tile PosX="11" PosY="12" Id="160" Type="1" />
+        <Tile PosX="12" PosY="12" Id="160" Type="1" />
+        <Tile PosX="13" PosY="12" Id="160" Type="5" />
+        <Tile PosX="14" PosY="12" Id="160" Type="1" />
+        <Tile PosX="15" PosY="12" Id="160" Type="1" />
+        <Tile PosX="16" PosY="12" Id="160" Type="1" />
+        <Tile PosX="17" PosY="12" Id="160" Type="1" />
+        <Tile PosX="18" PosY="12" Id="160" Type="1" />
+        <Tile PosX="19" PosY="12" Id="160" Type="1" />
+        <Tile PosX="20" PosY="12" Id="160" Type="1" />
+        <Tile PosX="21" PosY="12" Id="160" Type="1" />
+        <Tile PosX="22" PosY="12" Id="160" Type="1" />
+        <Tile PosX="23" PosY="12" Id="160" Type="1" />
+        <Tile PosX="24" PosY="12" Id="30" Type="2" />
+        <Tile PosX="0" PosY="13" Id="30" Type="2" />
+        <Tile PosX="1" PosY="13" Id="160" Type="1" />
+        <Tile PosX="2" PosY="13" Id="160" Type="1" />
+        <Tile PosX="3" PosY="13" Id="160" Type="1" />
+        <Tile PosX="4" PosY="13" Id="160" Type="6" />
+        <Tile PosX="5" PosY="13" Id="160" Type="1" />
+        <Tile PosX="6" PosY="13" Id="160" Type="1" />
+        <Tile PosX="7" PosY="13" Id="160" Type="1" />
+        <Tile PosX="8" PosY="13" Id="160" Type="1" />
+        <Tile PosX="9" PosY="13" Id="160" Type="7" />
+        <Tile PosX="10" PosY="13" Id="160" Type="1" />
+        <Tile PosX="11" PosY="13" Id="160" Type="1" />
+        <Tile PosX="12" PosY="13" Id="160" Type="1" />
+        <Tile PosX="13" PosY="13" Id="160" Type="1" />
+        <Tile PosX="14" PosY="13" Id="160" Type="1" />
+        <Tile PosX="15" PosY="13" Id="160" Type="1" />
+        <Tile PosX="16" PosY="13" Id="160" Type="1" />
+        <Tile PosX="17" PosY="13" Id="160" Type="8" />
+        <Tile PosX="18" PosY="13" Id="160" Type="1" />
+        <Tile PosX="19" PosY="13" Id="160" Type="1" />
+        <Tile PosX="20" PosY="13" Id="160" Type="1" />
+        <Tile PosX="21" PosY="13" Id="160" Type="6" />
+        <Tile PosX="22" PosY="13" Id="160" Type="1" />
+        <Tile PosX="23" PosY="13" Id="160" Type="1" />
+        <Tile PosX="24" PosY="13" Id="30" Type="2" />
+        <Tile PosX="0" PosY="14" Id="30" Type="2" />
+        <Tile PosX="1" PosY="14" Id="160" Type="1" />
+        <Tile PosX="2" PosY="14" Id="160" Type="1" />
+        <Tile PosX="3" PosY="14" Id="160" Type="1" />
+        <Tile PosX="4" PosY="14" Id="160" Type="1" />
+        <Tile PosX="5" PosY="14" Id="160" Type="1" />
+        <Tile PosX="6" PosY="14" Id="160" Type="1" />
+        <Tile PosX="7" PosY="14" Id="160" Type="1" />
+        <Tile PosX="8" PosY="14" Id="160" Type="1" />
+        <Tile PosX="9" PosY="14" Id="160" Type="1" />
+        <Tile PosX="10" PosY="14" Id="160" Type="1" />
+        <Tile PosX="11" PosY="14" Id="160" Type="1" />
+        <Tile PosX="12" PosY="14" Id="160" Type="1" />
+        <Tile PosX="13" PosY="14" Id="160" Type="1" />
+        <Tile PosX="14" PosY="14" Id="160" Type="1" />
+        <Tile PosX="15" PosY="14" Id="160" Type="1" />
+        <Tile PosX="16" PosY="14" Id="160" Type="1" />
+        <Tile PosX="17" PosY="14" Id="160" Type="1" />
+        <Tile PosX="18" PosY="14" Id="160" Type="1" />
+        <Tile PosX="19" PosY="14" Id="160" Type="1" />
+        <Tile PosX="20" PosY="14" Id="160" Type="1" />
+        <Tile PosX="21" PosY="14" Id="160" Type="1" />
+        <Tile PosX="22" PosY="14" Id="160" Type="1" />
+        <Tile PosX="23" PosY="14" Id="160" Type="1" />
+        <Tile PosX="24" PosY="14" Id="30" Type="2" />
+        <Tile PosX="0" PosY="15" Id="30" Type="2" />
+        <Tile PosX="1" PosY="15" Id="30" Type="2" />
+        <Tile PosX="2" PosY="15" Id="30" Type="2" />
+        <Tile PosX="3" PosY="15" Id="30" Type="2" />
+        <Tile PosX="4" PosY="15" Id="30" Type="2" />
+        <Tile PosX="5" PosY="15" Id="30" Type="2" />
+        <Tile PosX="6" PosY="15" Id="30" Type="2" />
+        <Tile PosX="7" PosY="15" Id="30" Type="2" />
+        <Tile PosX="8" PosY="15" Id="30" Type="2" />
+        <Tile PosX="9" PosY="15" Id="30" Type="2" />
+        <Tile PosX="10" PosY="15" Id="30" Type="2" />
+        <Tile PosX="11" PosY="15" Id="30" Type="2" />
+        <Tile PosX="12" PosY="15" Id="30" Type="2" />
+        <Tile PosX="13" PosY="15" Id="30" Type="2" />
+        <Tile PosX="14" PosY="15" Id="30" Type="2" />
+        <Tile PosX="15" PosY="15" Id="30" Type="2" />
+        <Tile PosX="16" PosY="15" Id="30" Type="2" />
+        <Tile PosX="17" PosY="15" Id="30" Type="2" />
+        <Tile PosX="18" PosY="15" Id="30" Type="2" />
+        <Tile PosX="19" PosY="15" Id="30" Type="2" />
+        <Tile PosX="20" PosY="15" Id="30" Type="2" />
+        <Tile PosX="21" PosY="15" Id="30" Type="2" />
+        <Tile PosX="22" PosY="15" Id="30" Type="2" />
+        <Tile PosX="23" PosY="15" Id="30" Type="2" />
+        <Tile PosX="24" PosY="15" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List>
+        <Respawn PosX="86" PosY="255" />
+      </Respawn_List>
+      <Escapepoint_List />
+      <Spawn_List>
+        <Spawn Name="kentaro" Type="1" SpawnRate="1" SpawnAmount="1" PosX="118" PosY="241">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="zombie1" Type="2" SpawnRate="1" SpawnAmount="1" PosX="642" PosY="217">
+          <HeadPoint PosX="642" PosY="217" />
+          <Waypoint_List>
+            <Waypoint PosX="642" PosY="217">
+              <PrevPoint PosX="423" PosY="223" />
+              <NextPoint PosX="423" PosY="223" />
+            </Waypoint>
+            <Waypoint PosX="423" PosY="223">
+              <PrevPoint PosX="642" PosY="217" />
+              <NextPoint PosX="642" PosY="217" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="ambush1" Type="5" SpawnRate="1" SpawnAmount="1" PosX="496" PosY="420">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="armz1" Type="3" SpawnRate="1" SpawnAmount="1" PosX="424" PosY="278">
+          <HeadPoint PosX="424" PosY="278" />
+          <Waypoint_List>
+            <Waypoint PosX="424" PosY="278">
+              <PrevPoint PosX="397" PosY="163" />
+              <NextPoint PosX="351" PosY="330" />
+            </Waypoint>
+            <Waypoint PosX="351" PosY="330">
+              <PrevPoint PosX="424" PosY="278" />
+              <NextPoint PosX="397" PosY="163" />
+            </Waypoint>
+            <Waypoint PosX="397" PosY="163">
+              <PrevPoint PosX="351" PosY="330" />
+              <NextPoint PosX="424" PosY="278" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="armz" Type="3" SpawnRate="1" SpawnAmount="1" PosX="627" PosY="343">
+          <HeadPoint PosX="627" PosY="343" />
+          <Waypoint_List>
+            <Waypoint PosX="627" PosY="343">
+              <PrevPoint PosX="465" PosY="323" />
+              <NextPoint PosX="465" PosY="323" />
+            </Waypoint>
+            <Waypoint PosX="465" PosY="323">
+              <PrevPoint PosX="627" PosY="343" />
+              <NextPoint PosX="627" PosY="343" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="pizza" Type="8" SpawnRate="1" SpawnAmount="1" PosX="88" PosY="145">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+    <Room Name="pride1 room" Unlocked="1" RoomNum="2" PosX="800" PosY="0" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="25" PosY="0" Id="30" Type="2" />
+        <Tile PosX="26" PosY="0" Id="30" Type="2" />
+        <Tile PosX="27" PosY="0" Id="30" Type="2" />
+        <Tile PosX="28" PosY="0" Id="30" Type="2" />
+        <Tile PosX="29" PosY="0" Id="30" Type="2" />
+        <Tile PosX="30" PosY="0" Id="30" Type="2" />
+        <Tile PosX="31" PosY="0" Id="30" Type="2" />
+        <Tile PosX="32" PosY="0" Id="30" Type="2" />
+        <Tile PosX="33" PosY="0" Id="30" Type="2" />
+        <Tile PosX="34" PosY="0" Id="30" Type="2" />
+        <Tile PosX="35" PosY="0" Id="30" Type="2" />
+        <Tile PosX="36" PosY="0" Id="30" Type="2" />
+        <Tile PosX="37" PosY="0" Id="30" Type="2" />
+        <Tile PosX="38" PosY="0" Id="30" Type="2" />
+        <Tile PosX="39" PosY="0" Id="30" Type="2" />
+        <Tile PosX="40" PosY="0" Id="30" Type="2" />
+        <Tile PosX="41" PosY="0" Id="30" Type="2" />
+        <Tile PosX="42" PosY="0" Id="30" Type="2" />
+        <Tile PosX="43" PosY="0" Id="30" Type="2" />
+        <Tile PosX="44" PosY="0" Id="30" Type="2" />
+        <Tile PosX="45" PosY="0" Id="30" Type="2" />
+        <Tile PosX="46" PosY="0" Id="30" Type="2" />
+        <Tile PosX="47" PosY="0" Id="30" Type="2" />
+        <Tile PosX="48" PosY="0" Id="30" Type="2" />
+        <Tile PosX="49" PosY="0" Id="30" Type="2" />
+        <Tile PosX="25" PosY="1" Id="30" Type="2" />
+        <Tile PosX="26" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="30" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="31" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="32" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="1" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="1" Id="196" Type="1" />
+        <Tile PosX="37" PosY="1" Id="196" Type="1" />
+        <Tile PosX="38" PosY="1" Id="196" Type="1" />
+        <Tile PosX="39" PosY="1" Id="196" Type="1" />
+        <Tile PosX="40" PosY="1" Id="108" Type="1" />
+        <Tile PosX="41" PosY="1" Id="108" Type="1" />
+        <Tile PosX="42" PosY="1" Id="108" Type="1" />
+        <Tile PosX="43" PosY="1" Id="108" Type="1" />
+        <Tile PosX="44" PosY="1" Id="108" Type="1" />
+        <Tile PosX="45" PosY="1" Id="108" Type="1" />
+        <Tile PosX="46" PosY="1" Id="108" Type="1" />
+        <Tile PosX="47" PosY="1" Id="108" Type="1" />
+        <Tile PosX="48" PosY="1" Id="108" Type="1" />
+        <Tile PosX="49" PosY="1" Id="164" Type="1" />
+        <Tile PosX="25" PosY="2" Id="30" Type="2" />
+        <Tile PosX="26" PosY="2" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="2" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="2" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="2" Id="165" Type="1" />
+        <Tile PosX="30" PosY="2" Id="165" Type="1" />
+        <Tile PosX="31" PosY="2" Id="165" Type="1" />
+        <Tile PosX="32" PosY="2" Id="165" Type="1" />
+        <Tile PosX="33" PosY="2" Id="165" Type="1" />
+        <Tile PosX="34" PosY="2" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="2" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="2" Id="196" Type="1" />
+        <Tile PosX="37" PosY="2" Id="196" Type="1" />
+        <Tile PosX="38" PosY="2" Id="196" Type="1" />
+        <Tile PosX="39" PosY="2" Id="196" Type="1" />
+        <Tile PosX="40" PosY="2" Id="140" Type="1" />
+        <Tile PosX="41" PosY="2" Id="140" Type="1" />
+        <Tile PosX="42" PosY="2" Id="140" Type="1" />
+        <Tile PosX="43" PosY="2" Id="140" Type="1" />
+        <Tile PosX="44" PosY="2" Id="140" Type="1" />
+        <Tile PosX="45" PosY="2" Id="140" Type="1" />
+        <Tile PosX="46" PosY="2" Id="140" Type="1" />
+        <Tile PosX="47" PosY="2" Id="140" Type="1" />
+        <Tile PosX="48" PosY="2" Id="140" Type="1" />
+        <Tile PosX="49" PosY="2" Id="164" Type="1" />
+        <Tile PosX="25" PosY="3" Id="30" Type="2" />
+        <Tile PosX="26" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="3" Id="165" Type="1" />
+        <Tile PosX="30" PosY="3" Id="165" Type="1" />
+        <Tile PosX="31" PosY="3" Id="165" Type="1" />
+        <Tile PosX="32" PosY="3" Id="165" Type="1" />
+        <Tile PosX="33" PosY="3" Id="165" Type="1" />
+        <Tile PosX="34" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="3" Id="196" Type="1" />
+        <Tile PosX="37" PosY="3" Id="196" Type="1" />
+        <Tile PosX="38" PosY="3" Id="196" Type="1" />
+        <Tile PosX="39" PosY="3" Id="196" Type="1" />
+        <Tile PosX="40" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="3" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="3" Id="30" Type="2" />
+        <Tile PosX="25" PosY="4" Id="30" Type="2" />
+        <Tile PosX="26" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="4" Id="165" Type="1" />
+        <Tile PosX="30" PosY="4" Id="165" Type="1" />
+        <Tile PosX="31" PosY="4" Id="165" Type="1" />
+        <Tile PosX="32" PosY="4" Id="165" Type="1" />
+        <Tile PosX="33" PosY="4" Id="165" Type="1" />
+        <Tile PosX="34" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="4" Id="196" Type="1" />
+        <Tile PosX="37" PosY="4" Id="196" Type="1" />
+        <Tile PosX="38" PosY="4" Id="196" Type="1" />
+        <Tile PosX="39" PosY="4" Id="196" Type="1" />
+        <Tile PosX="40" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="4" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="4" Id="30" Type="2" />
+        <Tile PosX="25" PosY="5" Id="30" Type="2" />
+        <Tile PosX="26" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="5" Id="165" Type="1" />
+        <Tile PosX="30" PosY="5" Id="165" Type="1" />
+        <Tile PosX="31" PosY="5" Id="165" Type="1" />
+        <Tile PosX="32" PosY="5" Id="165" Type="1" />
+        <Tile PosX="33" PosY="5" Id="165" Type="1" />
+        <Tile PosX="34" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="5" Id="196" Type="1" />
+        <Tile PosX="37" PosY="5" Id="196" Type="1" />
+        <Tile PosX="38" PosY="5" Id="196" Type="1" />
+        <Tile PosX="39" PosY="5" Id="196" Type="1" />
+        <Tile PosX="40" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="5" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="5" Id="30" Type="2" />
+        <Tile PosX="25" PosY="6" Id="30" Type="2" />
+        <Tile PosX="26" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="30" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="31" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="32" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="6" Id="196" Type="1" />
+        <Tile PosX="37" PosY="6" Id="196" Type="1" />
+        <Tile PosX="38" PosY="6" Id="196" Type="1" />
+        <Tile PosX="39" PosY="6" Id="196" Type="1" />
+        <Tile PosX="40" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="6" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="6" Id="30" Type="2" />
+        <Tile PosX="25" PosY="7" Id="30" Type="2" />
+        <Tile PosX="26" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="30" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="31" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="32" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="7" Id="196" Type="1" />
+        <Tile PosX="37" PosY="7" Id="196" Type="1" />
+        <Tile PosX="38" PosY="7" Id="196" Type="1" />
+        <Tile PosX="39" PosY="7" Id="196" Type="1" />
+        <Tile PosX="40" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="7" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="7" Id="30" Type="2" />
+        <Tile PosX="25" PosY="8" Id="164" Type="1" />
+        <Tile PosX="26" PosY="8" Id="164" Type="1" />
+        <Tile PosX="27" PosY="8" Id="164" Type="1" />
+        <Tile PosX="28" PosY="8" Id="164" Type="1" />
+        <Tile PosX="29" PosY="8" Id="164" Type="1" />
+        <Tile PosX="30" PosY="8" Id="164" Type="1" />
+        <Tile PosX="31" PosY="8" Id="164" Type="1" />
+        <Tile PosX="32" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="8" Id="196" Type="1" />
+        <Tile PosX="37" PosY="8" Id="196" Type="1" />
+        <Tile PosX="38" PosY="8" Id="196" Type="1" />
+        <Tile PosX="39" PosY="8" Id="196" Type="1" />
+        <Tile PosX="40" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="8" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="8" Id="30" Type="2" />
+        <Tile PosX="25" PosY="9" Id="164" Type="1" />
+        <Tile PosX="26" PosY="9" Id="164" Type="1" />
+        <Tile PosX="27" PosY="9" Id="164" Type="1" />
+        <Tile PosX="28" PosY="9" Id="164" Type="1" />
+        <Tile PosX="29" PosY="9" Id="164" Type="1" />
+        <Tile PosX="30" PosY="9" Id="164" Type="1" />
+        <Tile PosX="31" PosY="9" Id="164" Type="1" />
+        <Tile PosX="32" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="9" Id="196" Type="1" />
+        <Tile PosX="37" PosY="9" Id="196" Type="1" />
+        <Tile PosX="38" PosY="9" Id="196" Type="1" />
+        <Tile PosX="39" PosY="9" Id="196" Type="1" />
+        <Tile PosX="40" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="9" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="9" Id="30" Type="2" />
+        <Tile PosX="25" PosY="10" Id="30" Type="2" />
+        <Tile PosX="26" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="30" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="31" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="32" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="10" Id="196" Type="1" />
+        <Tile PosX="37" PosY="10" Id="196" Type="1" />
+        <Tile PosX="38" PosY="10" Id="196" Type="1" />
+        <Tile PosX="39" PosY="10" Id="196" Type="1" />
+        <Tile PosX="40" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="10" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="10" Id="30" Type="2" />
+        <Tile PosX="25" PosY="11" Id="30" Type="2" />
+        <Tile PosX="26" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="30" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="31" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="32" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="33" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="34" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="11" Id="196" Type="1" />
+        <Tile PosX="37" PosY="11" Id="196" Type="1" />
+        <Tile PosX="38" PosY="11" Id="196" Type="1" />
+        <Tile PosX="39" PosY="11" Id="196" Type="1" />
+        <Tile PosX="40" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="11" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="11" Id="30" Type="2" />
+        <Tile PosX="25" PosY="12" Id="30" Type="2" />
+        <Tile PosX="26" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="12" Id="165" Type="1" />
+        <Tile PosX="30" PosY="12" Id="165" Type="1" />
+        <Tile PosX="31" PosY="12" Id="165" Type="1" />
+        <Tile PosX="32" PosY="12" Id="165" Type="1" />
+        <Tile PosX="33" PosY="12" Id="165" Type="1" />
+        <Tile PosX="34" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="12" Id="196" Type="1" />
+        <Tile PosX="37" PosY="12" Id="196" Type="1" />
+        <Tile PosX="38" PosY="12" Id="196" Type="1" />
+        <Tile PosX="39" PosY="12" Id="196" Type="1" />
+        <Tile PosX="40" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="41" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="42" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="43" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="44" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="45" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="46" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="47" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="48" PosY="12" Id="-1" Type="3" />
+        <Tile PosX="49" PosY="12" Id="30" Type="2" />
+        <Tile PosX="25" PosY="13" Id="30" Type="2" />
+        <Tile PosX="26" PosY="13" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="13" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="13" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="13" Id="165" Type="1" />
+        <Tile PosX="30" PosY="13" Id="165" Type="1" />
+        <Tile PosX="31" PosY="13" Id="165" Type="1" />
+        <Tile PosX="32" PosY="13" Id="165" Type="1" />
+        <Tile PosX="33" PosY="13" Id="165" Type="1" />
+        <Tile PosX="34" PosY="13" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="13" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="13" Id="196" Type="1" />
+        <Tile PosX="37" PosY="13" Id="196" Type="1" />
+        <Tile PosX="38" PosY="13" Id="196" Type="1" />
+        <Tile PosX="39" PosY="13" Id="196" Type="1" />
+        <Tile PosX="40" PosY="13" Id="108" Type="1" />
+        <Tile PosX="41" PosY="13" Id="108" Type="1" />
+        <Tile PosX="42" PosY="13" Id="108" Type="1" />
+        <Tile PosX="43" PosY="13" Id="108" Type="1" />
+        <Tile PosX="44" PosY="13" Id="108" Type="1" />
+        <Tile PosX="45" PosY="13" Id="108" Type="1" />
+        <Tile PosX="46" PosY="13" Id="108" Type="1" />
+        <Tile PosX="47" PosY="13" Id="108" Type="1" />
+        <Tile PosX="48" PosY="13" Id="108" Type="1" />
+        <Tile PosX="49" PosY="13" Id="164" Type="1" />
+        <Tile PosX="25" PosY="14" Id="30" Type="2" />
+        <Tile PosX="26" PosY="14" Id="-1" Type="3" />
+        <Tile PosX="27" PosY="14" Id="-1" Type="3" />
+        <Tile PosX="28" PosY="14" Id="-1" Type="3" />
+        <Tile PosX="29" PosY="14" Id="165" Type="1" />
+        <Tile PosX="30" PosY="14" Id="165" Type="1" />
+        <Tile PosX="31" PosY="14" Id="165" Type="1" />
+        <Tile PosX="32" PosY="14" Id="165" Type="1" />
+        <Tile PosX="33" PosY="14" Id="165" Type="1" />
+        <Tile PosX="34" PosY="14" Id="-1" Type="3" />
+        <Tile PosX="35" PosY="14" Id="-1" Type="3" />
+        <Tile PosX="36" PosY="14" Id="196" Type="1" />
+        <Tile PosX="37" PosY="14" Id="196" Type="1" />
+        <Tile PosX="38" PosY="14" Id="196" Type="1" />
+        <Tile PosX="39" PosY="14" Id="196" Type="1" />
+        <Tile PosX="40" PosY="14" Id="140" Type="1" />
+        <Tile PosX="41" PosY="14" Id="140" Type="1" />
+        <Tile PosX="42" PosY="14" Id="140" Type="1" />
+        <Tile PosX="43" PosY="14" Id="140" Type="1" />
+        <Tile PosX="44" PosY="14" Id="140" Type="1" />
+        <Tile PosX="45" PosY="14" Id="140" Type="1" />
+        <Tile PosX="46" PosY="14" Id="140" Type="1" />
+        <Tile PosX="47" PosY="14" Id="140" Type="1" />
+        <Tile PosX="48" PosY="14" Id="140" Type="1" />
+        <Tile PosX="49" PosY="14" Id="164" Type="1" />
+        <Tile PosX="25" PosY="15" Id="30" Type="2" />
+        <Tile PosX="26" PosY="15" Id="30" Type="2" />
+        <Tile PosX="27" PosY="15" Id="30" Type="2" />
+        <Tile PosX="28" PosY="15" Id="30" Type="2" />
+        <Tile PosX="29" PosY="15" Id="30" Type="2" />
+        <Tile PosX="30" PosY="15" Id="30" Type="2" />
+        <Tile PosX="31" PosY="15" Id="30" Type="2" />
+        <Tile PosX="32" PosY="15" Id="30" Type="2" />
+        <Tile PosX="33" PosY="15" Id="30" Type="2" />
+        <Tile PosX="34" PosY="15" Id="30" Type="2" />
+        <Tile PosX="35" PosY="15" Id="30" Type="2" />
+        <Tile PosX="36" PosY="15" Id="30" Type="2" />
+        <Tile PosX="37" PosY="15" Id="196" Type="1" />
+        <Tile PosX="38" PosY="15" Id="196" Type="1" />
+        <Tile PosX="39" PosY="15" Id="30" Type="2" />
+        <Tile PosX="40" PosY="15" Id="30" Type="2" />
+        <Tile PosX="41" PosY="15" Id="30" Type="2" />
+        <Tile PosX="42" PosY="15" Id="30" Type="2" />
+        <Tile PosX="43" PosY="15" Id="30" Type="2" />
+        <Tile PosX="44" PosY="15" Id="30" Type="2" />
+        <Tile PosX="45" PosY="15" Id="30" Type="2" />
+        <Tile PosX="46" PosY="15" Id="30" Type="2" />
+        <Tile PosX="47" PosY="15" Id="30" Type="2" />
+        <Tile PosX="48" PosY="15" Id="30" Type="2" />
+        <Tile PosX="49" PosY="15" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List>
+        <Respawn PosX="870" PosY="285" />
+      </Respawn_List>
+      <Escapepoint_List>
+        <EscapePoint PosX="804" PosY="292" />
+      </Escapepoint_List>
+      <Spawn_List>
+        <Spawn Name="ninja1" Type="4" SpawnRate="1" SpawnAmount="1" PosX="1215" PosY="284">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="armz3" Type="3" SpawnRate="1" SpawnAmount="1" PosX="1210" PosY="101">
+          <HeadPoint PosX="1210" PosY="101" />
+          <Waypoint_List>
+            <Waypoint PosX="1210" PosY="101">
+              <PrevPoint PosX="1171" PosY="292" />
+              <NextPoint PosX="1261" PosY="266" />
+            </Waypoint>
+            <Waypoint PosX="1261" PosY="266">
+              <PrevPoint PosX="1210" PosY="101" />
+              <NextPoint PosX="1210" PosY="101" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="armz4" Type="3" SpawnRate="1" SpawnAmount="1" PosX="1247" PosY="403">
+          <HeadPoint PosX="1217" PosY="403" />
+          <Waypoint_List>
+            <Waypoint PosX="1247" PosY="403">
+              <PrevPoint PosX="1264" PosY="246" />
+              <NextPoint PosX="1172" PosY="284" />
+            </Waypoint>
+            <Waypoint PosX="1172" PosY="284">
+              <PrevPoint PosX="1247" PosY="403" />
+              <NextPoint PosX="1217" PosY="403" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="ibox1" Type="7" SpawnRate="1" SpawnAmount="1" PosX="945" PosY="123">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ibox2" Type="7" SpawnRate="1" SpawnAmount="1" PosX="942" PosY="445">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ibox3" Type="7" SpawnRate="1" SpawnAmount="1" PosX="1200" PosY="144">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ibox4" Type="7" SpawnRate="1" SpawnAmount="1" PosX="1200" PosY="400">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ranged man1" Type="4" SpawnRate="1" SpawnAmount="1" PosX="1020" PosY="121">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ranged man2" Type="4" SpawnRate="1" SpawnAmount="1" PosX="1025" PosY="432">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+    <Room Name="split puzzle room" Unlocked="1" RoomNum="3" PosX="1600" PosY="0" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="50" PosY="0" Id="30" Type="2" />
+        <Tile PosX="51" PosY="0" Id="30" Type="2" />
+        <Tile PosX="52" PosY="0" Id="30" Type="2" />
+        <Tile PosX="53" PosY="0" Id="30" Type="2" />
+        <Tile PosX="54" PosY="0" Id="30" Type="2" />
+        <Tile PosX="55" PosY="0" Id="30" Type="2" />
+        <Tile PosX="56" PosY="0" Id="30" Type="2" />
+        <Tile PosX="57" PosY="0" Id="30" Type="2" />
+        <Tile PosX="58" PosY="0" Id="30" Type="2" />
+        <Tile PosX="59" PosY="0" Id="30" Type="2" />
+        <Tile PosX="60" PosY="0" Id="30" Type="2" />
+        <Tile PosX="61" PosY="0" Id="30" Type="2" />
+        <Tile PosX="62" PosY="0" Id="30" Type="2" />
+        <Tile PosX="63" PosY="0" Id="30" Type="2" />
+        <Tile PosX="64" PosY="0" Id="30" Type="2" />
+        <Tile PosX="65" PosY="0" Id="30" Type="2" />
+        <Tile PosX="66" PosY="0" Id="30" Type="2" />
+        <Tile PosX="67" PosY="0" Id="30" Type="2" />
+        <Tile PosX="68" PosY="0" Id="30" Type="2" />
+        <Tile PosX="69" PosY="0" Id="30" Type="2" />
+        <Tile PosX="70" PosY="0" Id="30" Type="2" />
+        <Tile PosX="71" PosY="0" Id="30" Type="2" />
+        <Tile PosX="72" PosY="0" Id="30" Type="2" />
+        <Tile PosX="73" PosY="0" Id="30" Type="2" />
+        <Tile PosX="74" PosY="0" Id="30" Type="2" />
+        <Tile PosX="50" PosY="1" Id="164" Type="1" />
+        <Tile PosX="51" PosY="1" Id="164" Type="1" />
+        <Tile PosX="52" PosY="1" Id="164" Type="1" />
+        <Tile PosX="53" PosY="1" Id="164" Type="1" />
+        <Tile PosX="54" PosY="1" Id="164" Type="8" />
+        <Tile PosX="55" PosY="1" Id="164" Type="8" />
+        <Tile PosX="56" PosY="1" Id="164" Type="1" />
+        <Tile PosX="57" PosY="1" Id="164" Type="1" />
+        <Tile PosX="58" PosY="1" Id="164" Type="1" />
+        <Tile PosX="59" PosY="1" Id="164" Type="1" />
+        <Tile PosX="60" PosY="1" Id="164" Type="1" />
+        <Tile PosX="61" PosY="1" Id="164" Type="1" />
+        <Tile PosX="62" PosY="1" Id="164" Type="1" />
+        <Tile PosX="63" PosY="1" Id="164" Type="1" />
+        <Tile PosX="64" PosY="1" Id="164" Type="1" />
+        <Tile PosX="65" PosY="1" Id="164" Type="1" />
+        <Tile PosX="66" PosY="1" Id="164" Type="6" />
+        <Tile PosX="67" PosY="1" Id="164" Type="6" />
+        <Tile PosX="68" PosY="1" Id="164" Type="6" />
+        <Tile PosX="69" PosY="1" Id="164" Type="1" />
+        <Tile PosX="70" PosY="1" Id="164" Type="1" />
+        <Tile PosX="71" PosY="1" Id="164" Type="1" />
+        <Tile PosX="72" PosY="1" Id="164" Type="1" />
+        <Tile PosX="73" PosY="1" Id="164" Type="1" />
+        <Tile PosX="74" PosY="1" Id="30" Type="2" />
+        <Tile PosX="50" PosY="2" Id="164" Type="1" />
+        <Tile PosX="51" PosY="2" Id="164" Type="1" />
+        <Tile PosX="52" PosY="2" Id="164" Type="1" />
+        <Tile PosX="53" PosY="2" Id="164" Type="1" />
+        <Tile PosX="54" PosY="2" Id="164" Type="8" />
+        <Tile PosX="55" PosY="2" Id="164" Type="8" />
+        <Tile PosX="56" PosY="2" Id="164" Type="1" />
+        <Tile PosX="57" PosY="2" Id="164" Type="1" />
+        <Tile PosX="58" PosY="2" Id="164" Type="1" />
+        <Tile PosX="59" PosY="2" Id="164" Type="1" />
+        <Tile PosX="60" PosY="2" Id="164" Type="1" />
+        <Tile PosX="61" PosY="2" Id="164" Type="1" />
+        <Tile PosX="62" PosY="2" Id="164" Type="1" />
+        <Tile PosX="63" PosY="2" Id="164" Type="1" />
+        <Tile PosX="64" PosY="2" Id="164" Type="1" />
+        <Tile PosX="65" PosY="2" Id="164" Type="1" />
+        <Tile PosX="66" PosY="2" Id="164" Type="6" />
+        <Tile PosX="67" PosY="2" Id="164" Type="6" />
+        <Tile PosX="68" PosY="2" Id="164" Type="6" />
+        <Tile PosX="69" PosY="2" Id="164" Type="1" />
+        <Tile PosX="70" PosY="2" Id="164" Type="1" />
+        <Tile PosX="71" PosY="2" Id="232" Type="2" />
+        <Tile PosX="72" PosY="2" Id="232" Type="2" />
+        <Tile PosX="73" PosY="2" Id="232" Type="2" />
+        <Tile PosX="74" PosY="2" Id="30" Type="2" />
+        <Tile PosX="50" PosY="3" Id="30" Type="2" />
+        <Tile PosX="51" PosY="3" Id="164" Type="8" />
+        <Tile PosX="52" PosY="3" Id="164" Type="6" />
+        <Tile PosX="53" PosY="3" Id="164" Type="6" />
+        <Tile PosX="54" PosY="3" Id="164" Type="8" />
+        <Tile PosX="55" PosY="3" Id="164" Type="8" />
+        <Tile PosX="56" PosY="3" Id="164" Type="8" />
+        <Tile PosX="57" PosY="3" Id="164" Type="8" />
+        <Tile PosX="58" PosY="3" Id="164" Type="6" />
+        <Tile PosX="59" PosY="3" Id="164" Type="6" />
+        <Tile PosX="60" PosY="3" Id="164" Type="8" />
+        <Tile PosX="61" PosY="3" Id="164" Type="8" />
+        <Tile PosX="62" PosY="3" Id="164" Type="8" />
+        <Tile PosX="63" PosY="3" Id="164" Type="8" />
+        <Tile PosX="64" PosY="3" Id="164" Type="6" />
+        <Tile PosX="65" PosY="3" Id="164" Type="6" />
+        <Tile PosX="66" PosY="3" Id="164" Type="8" />
+        <Tile PosX="67" PosY="3" Id="164" Type="8" />
+        <Tile PosX="68" PosY="3" Id="164" Type="8" />
+        <Tile PosX="69" PosY="3" Id="164" Type="1" />
+        <Tile PosX="70" PosY="3" Id="164" Type="1" />
+        <Tile PosX="71" PosY="3" Id="88" Type="1" />
+        <Tile PosX="72" PosY="3" Id="89" Type="1" />
+        <Tile PosX="73" PosY="3" Id="232" Type="2" />
+        <Tile PosX="74" PosY="3" Id="30" Type="1" />
+        <Tile PosX="50" PosY="4" Id="30" Type="2" />
+        <Tile PosX="51" PosY="4" Id="164" Type="8" />
+        <Tile PosX="52" PosY="4" Id="164" Type="6" />
+        <Tile PosX="53" PosY="4" Id="164" Type="6" />
+        <Tile PosX="54" PosY="4" Id="164" Type="8" />
+        <Tile PosX="55" PosY="4" Id="164" Type="8" />
+        <Tile PosX="56" PosY="4" Id="164" Type="8" />
+        <Tile PosX="57" PosY="4" Id="164" Type="8" />
+        <Tile PosX="58" PosY="4" Id="164" Type="6" />
+        <Tile PosX="59" PosY="4" Id="164" Type="6" />
+        <Tile PosX="60" PosY="4" Id="164" Type="8" />
+        <Tile PosX="61" PosY="4" Id="164" Type="8" />
+        <Tile PosX="62" PosY="4" Id="164" Type="8" />
+        <Tile PosX="63" PosY="4" Id="164" Type="8" />
+        <Tile PosX="64" PosY="4" Id="164" Type="6" />
+        <Tile PosX="65" PosY="4" Id="164" Type="6" />
+        <Tile PosX="66" PosY="4" Id="164" Type="8" />
+        <Tile PosX="67" PosY="4" Id="164" Type="8" />
+        <Tile PosX="68" PosY="4" Id="164" Type="8" />
+        <Tile PosX="69" PosY="4" Id="164" Type="1" />
+        <Tile PosX="70" PosY="4" Id="164" Type="1" />
+        <Tile PosX="71" PosY="4" Id="120" Type="1" />
+        <Tile PosX="72" PosY="4" Id="121" Type="1" />
+        <Tile PosX="73" PosY="4" Id="232" Type="2" />
+        <Tile PosX="74" PosY="4" Id="30" Type="1" />
+        <Tile PosX="50" PosY="5" Id="30" Type="2" />
+        <Tile PosX="51" PosY="5" Id="164" Type="8" />
+        <Tile PosX="52" PosY="5" Id="164" Type="8" />
+        <Tile PosX="53" PosY="5" Id="164" Type="8" />
+        <Tile PosX="54" PosY="5" Id="164" Type="1" />
+        <Tile PosX="55" PosY="5" Id="164" Type="1" />
+        <Tile PosX="56" PosY="5" Id="164" Type="1" />
+        <Tile PosX="57" PosY="5" Id="164" Type="1" />
+        <Tile PosX="58" PosY="5" Id="164" Type="1" />
+        <Tile PosX="59" PosY="5" Id="164" Type="1" />
+        <Tile PosX="60" PosY="5" Id="164" Type="1" />
+        <Tile PosX="61" PosY="5" Id="164" Type="1" />
+        <Tile PosX="62" PosY="5" Id="164" Type="1" />
+        <Tile PosX="63" PosY="5" Id="164" Type="1" />
+        <Tile PosX="64" PosY="5" Id="164" Type="1" />
+        <Tile PosX="65" PosY="5" Id="164" Type="1" />
+        <Tile PosX="66" PosY="5" Id="164" Type="6" />
+        <Tile PosX="67" PosY="5" Id="164" Type="6" />
+        <Tile PosX="68" PosY="5" Id="164" Type="6" />
+        <Tile PosX="69" PosY="5" Id="164" Type="1" />
+        <Tile PosX="70" PosY="5" Id="164" Type="1" />
+        <Tile PosX="71" PosY="5" Id="232" Type="2" />
+        <Tile PosX="72" PosY="5" Id="232" Type="2" />
+        <Tile PosX="73" PosY="5" Id="232" Type="2" />
+        <Tile PosX="74" PosY="5" Id="30" Type="2" />
+        <Tile PosX="50" PosY="6" Id="30" Type="2" />
+        <Tile PosX="51" PosY="6" Id="164" Type="8" />
+        <Tile PosX="52" PosY="6" Id="164" Type="8" />
+        <Tile PosX="53" PosY="6" Id="164" Type="8" />
+        <Tile PosX="54" PosY="6" Id="164" Type="1" />
+        <Tile PosX="55" PosY="6" Id="164" Type="1" />
+        <Tile PosX="56" PosY="6" Id="164" Type="1" />
+        <Tile PosX="57" PosY="6" Id="164" Type="1" />
+        <Tile PosX="58" PosY="6" Id="164" Type="1" />
+        <Tile PosX="59" PosY="6" Id="164" Type="1" />
+        <Tile PosX="60" PosY="6" Id="164" Type="1" />
+        <Tile PosX="61" PosY="6" Id="164" Type="1" />
+        <Tile PosX="62" PosY="6" Id="164" Type="1" />
+        <Tile PosX="63" PosY="6" Id="164" Type="1" />
+        <Tile PosX="64" PosY="6" Id="164" Type="1" />
+        <Tile PosX="65" PosY="6" Id="164" Type="1" />
+        <Tile PosX="66" PosY="6" Id="164" Type="6" />
+        <Tile PosX="67" PosY="6" Id="164" Type="6" />
+        <Tile PosX="68" PosY="6" Id="164" Type="6" />
+        <Tile PosX="69" PosY="6" Id="164" Type="1" />
+        <Tile PosX="70" PosY="6" Id="164" Type="1" />
+        <Tile PosX="71" PosY="6" Id="164" Type="1" />
+        <Tile PosX="72" PosY="6" Id="164" Type="1" />
+        <Tile PosX="73" PosY="6" Id="164" Type="1" />
+        <Tile PosX="74" PosY="6" Id="30" Type="2" />
+        <Tile PosX="50" PosY="7" Id="30" Type="2" />
+        <Tile PosX="51" PosY="7" Id="30" Type="2" />
+        <Tile PosX="52" PosY="7" Id="30" Type="2" />
+        <Tile PosX="53" PosY="7" Id="30" Type="2" />
+        <Tile PosX="54" PosY="7" Id="30" Type="2" />
+        <Tile PosX="55" PosY="7" Id="30" Type="2" />
+        <Tile PosX="56" PosY="7" Id="30" Type="2" />
+        <Tile PosX="57" PosY="7" Id="30" Type="2" />
+        <Tile PosX="58" PosY="7" Id="30" Type="2" />
+        <Tile PosX="59" PosY="7" Id="30" Type="2" />
+        <Tile PosX="60" PosY="7" Id="30" Type="2" />
+        <Tile PosX="61" PosY="7" Id="30" Type="2" />
+        <Tile PosX="62" PosY="7" Id="30" Type="2" />
+        <Tile PosX="63" PosY="7" Id="30" Type="2" />
+        <Tile PosX="64" PosY="7" Id="30" Type="2" />
+        <Tile PosX="65" PosY="7" Id="30" Type="2" />
+        <Tile PosX="66" PosY="7" Id="30" Type="2" />
+        <Tile PosX="67" PosY="7" Id="30" Type="2" />
+        <Tile PosX="68" PosY="7" Id="30" Type="2" />
+        <Tile PosX="69" PosY="7" Id="30" Type="2" />
+        <Tile PosX="70" PosY="7" Id="30" Type="2" />
+        <Tile PosX="71" PosY="7" Id="30" Type="2" />
+        <Tile PosX="72" PosY="7" Id="30" Type="2" />
+        <Tile PosX="73" PosY="7" Id="30" Type="2" />
+        <Tile PosX="74" PosY="7" Id="30" Type="2" />
+        <Tile PosX="50" PosY="8" Id="30" Type="2" />
+        <Tile PosX="51" PosY="8" Id="30" Type="2" />
+        <Tile PosX="52" PosY="8" Id="30" Type="2" />
+        <Tile PosX="53" PosY="8" Id="30" Type="2" />
+        <Tile PosX="54" PosY="8" Id="30" Type="2" />
+        <Tile PosX="55" PosY="8" Id="30" Type="2" />
+        <Tile PosX="56" PosY="8" Id="30" Type="2" />
+        <Tile PosX="57" PosY="8" Id="30" Type="2" />
+        <Tile PosX="58" PosY="8" Id="30" Type="2" />
+        <Tile PosX="59" PosY="8" Id="30" Type="2" />
+        <Tile PosX="60" PosY="8" Id="30" Type="2" />
+        <Tile PosX="61" PosY="8" Id="30" Type="2" />
+        <Tile PosX="62" PosY="8" Id="30" Type="2" />
+        <Tile PosX="63" PosY="8" Id="30" Type="2" />
+        <Tile PosX="64" PosY="8" Id="30" Type="2" />
+        <Tile PosX="65" PosY="8" Id="30" Type="2" />
+        <Tile PosX="66" PosY="8" Id="30" Type="2" />
+        <Tile PosX="67" PosY="8" Id="30" Type="2" />
+        <Tile PosX="68" PosY="8" Id="30" Type="2" />
+        <Tile PosX="69" PosY="8" Id="30" Type="2" />
+        <Tile PosX="70" PosY="8" Id="30" Type="2" />
+        <Tile PosX="71" PosY="8" Id="30" Type="2" />
+        <Tile PosX="72" PosY="8" Id="30" Type="2" />
+        <Tile PosX="73" PosY="8" Id="30" Type="2" />
+        <Tile PosX="74" PosY="8" Id="30" Type="2" />
+        <Tile PosX="50" PosY="9" Id="30" Type="2" />
+        <Tile PosX="51" PosY="9" Id="164" Type="7" />
+        <Tile PosX="52" PosY="9" Id="164" Type="7" />
+        <Tile PosX="53" PosY="9" Id="164" Type="7" />
+        <Tile PosX="54" PosY="9" Id="164" Type="1" />
+        <Tile PosX="55" PosY="9" Id="164" Type="1" />
+        <Tile PosX="56" PosY="9" Id="164" Type="1" />
+        <Tile PosX="57" PosY="9" Id="164" Type="1" />
+        <Tile PosX="58" PosY="9" Id="164" Type="1" />
+        <Tile PosX="59" PosY="9" Id="164" Type="1" />
+        <Tile PosX="60" PosY="9" Id="164" Type="1" />
+        <Tile PosX="61" PosY="9" Id="164" Type="1" />
+        <Tile PosX="62" PosY="9" Id="164" Type="1" />
+        <Tile PosX="63" PosY="9" Id="164" Type="1" />
+        <Tile PosX="64" PosY="9" Id="164" Type="1" />
+        <Tile PosX="65" PosY="9" Id="164" Type="1" />
+        <Tile PosX="66" PosY="9" Id="164" Type="1" />
+        <Tile PosX="67" PosY="9" Id="164" Type="1" />
+        <Tile PosX="68" PosY="9" Id="164" Type="1" />
+        <Tile PosX="69" PosY="9" Id="164" Type="1" />
+        <Tile PosX="70" PosY="9" Id="164" Type="1" />
+        <Tile PosX="71" PosY="9" Id="164" Type="1" />
+        <Tile PosX="72" PosY="9" Id="164" Type="1" />
+        <Tile PosX="73" PosY="9" Id="164" Type="1" />
+        <Tile PosX="74" PosY="9" Id="30" Type="2" />
+        <Tile PosX="50" PosY="10" Id="30" Type="2" />
+        <Tile PosX="51" PosY="10" Id="164" Type="7" />
+        <Tile PosX="52" PosY="10" Id="164" Type="7" />
+        <Tile PosX="53" PosY="10" Id="164" Type="7" />
+        <Tile PosX="54" PosY="10" Id="164" Type="1" />
+        <Tile PosX="55" PosY="10" Id="164" Type="1" />
+        <Tile PosX="56" PosY="10" Id="164" Type="1" />
+        <Tile PosX="57" PosY="10" Id="164" Type="1" />
+        <Tile PosX="58" PosY="10" Id="164" Type="1" />
+        <Tile PosX="59" PosY="10" Id="164" Type="1" />
+        <Tile PosX="60" PosY="10" Id="164" Type="7" />
+        <Tile PosX="61" PosY="10" Id="164" Type="7" />
+        <Tile PosX="62" PosY="10" Id="164" Type="1" />
+        <Tile PosX="63" PosY="10" Id="164" Type="1" />
+        <Tile PosX="64" PosY="10" Id="164" Type="1" />
+        <Tile PosX="65" PosY="10" Id="164" Type="1" />
+        <Tile PosX="66" PosY="10" Id="164" Type="1" />
+        <Tile PosX="67" PosY="10" Id="164" Type="1" />
+        <Tile PosX="68" PosY="10" Id="164" Type="1" />
+        <Tile PosX="69" PosY="10" Id="164" Type="1" />
+        <Tile PosX="70" PosY="10" Id="164" Type="1" />
+        <Tile PosX="71" PosY="10" Id="232" Type="2" />
+        <Tile PosX="72" PosY="10" Id="232" Type="2" />
+        <Tile PosX="73" PosY="10" Id="232" Type="2" />
+        <Tile PosX="74" PosY="10" Id="30" Type="2" />
+        <Tile PosX="50" PosY="11" Id="30" Type="2" />
+        <Tile PosX="51" PosY="11" Id="164" Type="7" />
+        <Tile PosX="52" PosY="11" Id="164" Type="7" />
+        <Tile PosX="53" PosY="11" Id="164" Type="7" />
+        <Tile PosX="54" PosY="11" Id="164" Type="1" />
+        <Tile PosX="55" PosY="11" Id="164" Type="1" />
+        <Tile PosX="56" PosY="11" Id="164" Type="1" />
+        <Tile PosX="57" PosY="11" Id="164" Type="1" />
+        <Tile PosX="58" PosY="11" Id="164" Type="1" />
+        <Tile PosX="59" PosY="11" Id="164" Type="1" />
+        <Tile PosX="60" PosY="11" Id="164" Type="7" />
+        <Tile PosX="61" PosY="11" Id="164" Type="7" />
+        <Tile PosX="62" PosY="11" Id="164" Type="1" />
+        <Tile PosX="63" PosY="11" Id="164" Type="1" />
+        <Tile PosX="64" PosY="11" Id="164" Type="1" />
+        <Tile PosX="65" PosY="11" Id="164" Type="1" />
+        <Tile PosX="66" PosY="11" Id="164" Type="1" />
+        <Tile PosX="67" PosY="11" Id="164" Type="1" />
+        <Tile PosX="68" PosY="11" Id="164" Type="1" />
+        <Tile PosX="69" PosY="11" Id="164" Type="7" />
+        <Tile PosX="70" PosY="11" Id="164" Type="7" />
+        <Tile PosX="71" PosY="11" Id="88" Type="1" />
+        <Tile PosX="72" PosY="11" Id="89" Type="1" />
+        <Tile PosX="73" PosY="11" Id="232" Type="2" />
+        <Tile PosX="74" PosY="11" Id="30" Type="1" />
+        <Tile PosX="50" PosY="12" Id="30" Type="2" />
+        <Tile PosX="51" PosY="12" Id="164" Type="7" />
+        <Tile PosX="52" PosY="12" Id="164" Type="7" />
+        <Tile PosX="53" PosY="12" Id="164" Type="7" />
+        <Tile PosX="54" PosY="12" Id="164" Type="1" />
+        <Tile PosX="55" PosY="12" Id="164" Type="1" />
+        <Tile PosX="56" PosY="12" Id="164" Type="1" />
+        <Tile PosX="57" PosY="12" Id="164" Type="1" />
+        <Tile PosX="58" PosY="12" Id="164" Type="1" />
+        <Tile PosX="59" PosY="12" Id="164" Type="1" />
+        <Tile PosX="60" PosY="12" Id="164" Type="1" />
+        <Tile PosX="61" PosY="12" Id="164" Type="1" />
+        <Tile PosX="62" PosY="12" Id="164" Type="1" />
+        <Tile PosX="63" PosY="12" Id="164" Type="1" />
+        <Tile PosX="64" PosY="12" Id="164" Type="1" />
+        <Tile PosX="65" PosY="12" Id="164" Type="1" />
+        <Tile PosX="66" PosY="12" Id="164" Type="1" />
+        <Tile PosX="67" PosY="12" Id="164" Type="1" />
+        <Tile PosX="68" PosY="12" Id="164" Type="1" />
+        <Tile PosX="69" PosY="12" Id="164" Type="7" />
+        <Tile PosX="70" PosY="12" Id="164" Type="7" />
+        <Tile PosX="71" PosY="12" Id="120" Type="1" />
+        <Tile PosX="72" PosY="12" Id="121" Type="1" />
+        <Tile PosX="73" PosY="12" Id="232" Type="2" />
+        <Tile PosX="74" PosY="12" Id="30" Type="1" />
+        <Tile PosX="50" PosY="13" Id="164" Type="1" />
+        <Tile PosX="51" PosY="13" Id="164" Type="1" />
+        <Tile PosX="52" PosY="13" Id="164" Type="7" />
+        <Tile PosX="53" PosY="13" Id="164" Type="7" />
+        <Tile PosX="54" PosY="13" Id="164" Type="1" />
+        <Tile PosX="55" PosY="13" Id="164" Type="1" />
+        <Tile PosX="56" PosY="13" Id="164" Type="7" />
+        <Tile PosX="57" PosY="13" Id="164" Type="7" />
+        <Tile PosX="58" PosY="13" Id="164" Type="1" />
+        <Tile PosX="59" PosY="13" Id="164" Type="1" />
+        <Tile PosX="60" PosY="13" Id="164" Type="1" />
+        <Tile PosX="61" PosY="13" Id="164" Type="1" />
+        <Tile PosX="62" PosY="13" Id="164" Type="1" />
+        <Tile PosX="63" PosY="13" Id="164" Type="1" />
+        <Tile PosX="64" PosY="13" Id="164" Type="7" />
+        <Tile PosX="65" PosY="13" Id="164" Type="7" />
+        <Tile PosX="66" PosY="13" Id="164" Type="1" />
+        <Tile PosX="67" PosY="13" Id="164" Type="1" />
+        <Tile PosX="68" PosY="13" Id="164" Type="1" />
+        <Tile PosX="69" PosY="13" Id="164" Type="1" />
+        <Tile PosX="70" PosY="13" Id="164" Type="1" />
+        <Tile PosX="71" PosY="13" Id="232" Type="2" />
+        <Tile PosX="72" PosY="13" Id="232" Type="2" />
+        <Tile PosX="73" PosY="13" Id="232" Type="2" />
+        <Tile PosX="74" PosY="13" Id="30" Type="2" />
+        <Tile PosX="50" PosY="14" Id="164" Type="1" />
+        <Tile PosX="51" PosY="14" Id="164" Type="1" />
+        <Tile PosX="52" PosY="14" Id="164" Type="7" />
+        <Tile PosX="53" PosY="14" Id="164" Type="7" />
+        <Tile PosX="54" PosY="14" Id="164" Type="1" />
+        <Tile PosX="55" PosY="14" Id="164" Type="1" />
+        <Tile PosX="56" PosY="14" Id="164" Type="7" />
+        <Tile PosX="57" PosY="14" Id="164" Type="7" />
+        <Tile PosX="58" PosY="14" Id="164" Type="1" />
+        <Tile PosX="59" PosY="14" Id="164" Type="1" />
+        <Tile PosX="60" PosY="14" Id="164" Type="1" />
+        <Tile PosX="61" PosY="14" Id="164" Type="1" />
+        <Tile PosX="62" PosY="14" Id="164" Type="1" />
+        <Tile PosX="63" PosY="14" Id="164" Type="1" />
+        <Tile PosX="64" PosY="14" Id="164" Type="7" />
+        <Tile PosX="65" PosY="14" Id="164" Type="7" />
+        <Tile PosX="66" PosY="14" Id="164" Type="1" />
+        <Tile PosX="67" PosY="14" Id="164" Type="1" />
+        <Tile PosX="68" PosY="14" Id="164" Type="1" />
+        <Tile PosX="69" PosY="14" Id="164" Type="1" />
+        <Tile PosX="70" PosY="14" Id="164" Type="1" />
+        <Tile PosX="71" PosY="14" Id="164" Type="1" />
+        <Tile PosX="72" PosY="14" Id="164" Type="1" />
+        <Tile PosX="73" PosY="14" Id="164" Type="1" />
+        <Tile PosX="74" PosY="14" Id="30" Type="2" />
+        <Tile PosX="50" PosY="15" Id="30" Type="2" />
+        <Tile PosX="51" PosY="15" Id="30" Type="2" />
+        <Tile PosX="52" PosY="15" Id="30" Type="2" />
+        <Tile PosX="53" PosY="15" Id="30" Type="2" />
+        <Tile PosX="54" PosY="15" Id="30" Type="2" />
+        <Tile PosX="55" PosY="15" Id="30" Type="2" />
+        <Tile PosX="56" PosY="15" Id="30" Type="2" />
+        <Tile PosX="57" PosY="15" Id="30" Type="2" />
+        <Tile PosX="58" PosY="15" Id="30" Type="2" />
+        <Tile PosX="59" PosY="15" Id="30" Type="2" />
+        <Tile PosX="60" PosY="15" Id="30" Type="2" />
+        <Tile PosX="61" PosY="15" Id="30" Type="2" />
+        <Tile PosX="62" PosY="15" Id="30" Type="2" />
+        <Tile PosX="63" PosY="15" Id="30" Type="2" />
+        <Tile PosX="64" PosY="15" Id="30" Type="2" />
+        <Tile PosX="65" PosY="15" Id="30" Type="2" />
+        <Tile PosX="66" PosY="15" Id="30" Type="2" />
+        <Tile PosX="67" PosY="15" Id="30" Type="2" />
+        <Tile PosX="68" PosY="15" Id="30" Type="2" />
+        <Tile PosX="69" PosY="15" Id="30" Type="2" />
+        <Tile PosX="70" PosY="15" Id="30" Type="2" />
+        <Tile PosX="71" PosY="15" Id="30" Type="2" />
+        <Tile PosX="72" PosY="15" Id="30" Type="2" />
+        <Tile PosX="73" PosY="15" Id="30" Type="2" />
+        <Tile PosX="74" PosY="15" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List>
+        <Respawn PosX="1633" PosY="63" />
+      </Respawn_List>
+      <Escapepoint_List>
+        <EscapePoint PosX="1604" PosY="65" />
+        <EscapePoint PosX="1603" PosY="448" />
+      </Escapepoint_List>
+      <Spawn_List>
+        <Spawn Name="ninja2" Type="4" SpawnRate="1" SpawnAmount="1" PosX="1961" PosY="443">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ninja3" Type="4" SpawnRate="1" SpawnAmount="1" PosX="2070" PosY="348">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="zombie4" Type="2" SpawnRate="1" SpawnAmount="1" PosX="1983" PosY="63">
+          <HeadPoint PosX="1983" PosY="63" />
+          <Waypoint_List>
+            <Waypoint PosX="1983" PosY="63">
+              <PrevPoint PosX="1748" PosY="65" />
+              <NextPoint PosX="2101" PosY="61" />
+            </Waypoint>
+            <Waypoint PosX="2101" PosY="61">
+              <PrevPoint PosX="1983" PosY="63" />
+              <NextPoint PosX="1748" PosY="65" />
+            </Waypoint>
+            <Waypoint PosX="1748" PosY="65">
+              <PrevPoint PosX="2101" PosY="61" />
+              <NextPoint PosX="1983" PosY="63" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="zombie5" Type="2" SpawnRate="1" SpawnAmount="1" PosX="1993" PosY="194">
+          <HeadPoint PosX="1993" PosY="194" />
+          <Waypoint_List>
+            <Waypoint PosX="1993" PosY="194">
+              <PrevPoint PosX="2105" PosY="192" />
+              <NextPoint PosX="1752" PosY="189" />
+            </Waypoint>
+            <Waypoint PosX="1752" PosY="189">
+              <PrevPoint PosX="1993" PosY="194" />
+              <NextPoint PosX="2105" PosY="192" />
+            </Waypoint>
+            <Waypoint PosX="2105" PosY="192">
+              <PrevPoint PosX="1752" PosY="189" />
+              <NextPoint PosX="1993" PosY="194" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+    <Room Name="pride 2 room" Unlocked="0" RoomNum="4" PosX="800" PosY="512" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="25" PosY="16" Id="30" Type="2" />
+        <Tile PosX="26" PosY="16" Id="30" Type="2" />
+        <Tile PosX="27" PosY="16" Id="30" Type="2" />
+        <Tile PosX="28" PosY="16" Id="30" Type="2" />
+        <Tile PosX="29" PosY="16" Id="30" Type="2" />
+        <Tile PosX="30" PosY="16" Id="30" Type="2" />
+        <Tile PosX="31" PosY="16" Id="30" Type="2" />
+        <Tile PosX="32" PosY="16" Id="30" Type="2" />
+        <Tile PosX="33" PosY="16" Id="30" Type="2" />
+        <Tile PosX="34" PosY="16" Id="30" Type="2" />
+        <Tile PosX="35" PosY="16" Id="30" Type="2" />
+        <Tile PosX="36" PosY="16" Id="30" Type="2" />
+        <Tile PosX="37" PosY="16" Id="160" Type="1" />
+        <Tile PosX="38" PosY="16" Id="160" Type="1" />
+        <Tile PosX="39" PosY="16" Id="30" Type="2" />
+        <Tile PosX="40" PosY="16" Id="30" Type="2" />
+        <Tile PosX="41" PosY="16" Id="30" Type="2" />
+        <Tile PosX="42" PosY="16" Id="30" Type="2" />
+        <Tile PosX="43" PosY="16" Id="30" Type="2" />
+        <Tile PosX="44" PosY="16" Id="30" Type="2" />
+        <Tile PosX="45" PosY="16" Id="30" Type="2" />
+        <Tile PosX="46" PosY="16" Id="30" Type="2" />
+        <Tile PosX="47" PosY="16" Id="30" Type="2" />
+        <Tile PosX="48" PosY="16" Id="30" Type="2" />
+        <Tile PosX="49" PosY="16" Id="30" Type="2" />
+        <Tile PosX="25" PosY="17" Id="30" Type="2" />
+        <Tile PosX="26" PosY="17" Id="160" Type="1" />
+        <Tile PosX="27" PosY="17" Id="160" Type="1" />
+        <Tile PosX="28" PosY="17" Id="160" Type="1" />
+        <Tile PosX="29" PosY="17" Id="160" Type="1" />
+        <Tile PosX="30" PosY="17" Id="160" Type="1" />
+        <Tile PosX="31" PosY="17" Id="160" Type="1" />
+        <Tile PosX="32" PosY="17" Id="160" Type="1" />
+        <Tile PosX="33" PosY="17" Id="160" Type="1" />
+        <Tile PosX="34" PosY="17" Id="160" Type="1" />
+        <Tile PosX="35" PosY="17" Id="160" Type="1" />
+        <Tile PosX="36" PosY="17" Id="160" Type="1" />
+        <Tile PosX="37" PosY="17" Id="160" Type="1" />
+        <Tile PosX="38" PosY="17" Id="160" Type="1" />
+        <Tile PosX="39" PosY="17" Id="160" Type="1" />
+        <Tile PosX="40" PosY="17" Id="160" Type="1" />
+        <Tile PosX="41" PosY="17" Id="160" Type="1" />
+        <Tile PosX="42" PosY="17" Id="160" Type="1" />
+        <Tile PosX="43" PosY="17" Id="160" Type="1" />
+        <Tile PosX="44" PosY="17" Id="160" Type="1" />
+        <Tile PosX="45" PosY="17" Id="160" Type="1" />
+        <Tile PosX="46" PosY="17" Id="160" Type="1" />
+        <Tile PosX="47" PosY="17" Id="160" Type="1" />
+        <Tile PosX="48" PosY="17" Id="160" Type="1" />
+        <Tile PosX="49" PosY="17" Id="30" Type="2" />
+        <Tile PosX="25" PosY="18" Id="30" Type="2" />
+        <Tile PosX="26" PosY="18" Id="160" Type="1" />
+        <Tile PosX="27" PosY="18" Id="160" Type="9" />
+        <Tile PosX="28" PosY="18" Id="160" Type="1" />
+        <Tile PosX="29" PosY="18" Id="160" Type="1" />
+        <Tile PosX="30" PosY="18" Id="160" Type="1" />
+        <Tile PosX="31" PosY="18" Id="160" Type="1" />
+        <Tile PosX="32" PosY="18" Id="160" Type="1" />
+        <Tile PosX="33" PosY="18" Id="66" Type="1" />
+        <Tile PosX="34" PosY="18" Id="160" Type="1" />
+        <Tile PosX="35" PosY="18" Id="160" Type="1" />
+        <Tile PosX="36" PosY="18" Id="160" Type="1" />
+        <Tile PosX="37" PosY="18" Id="160" Type="1" />
+        <Tile PosX="38" PosY="18" Id="160" Type="1" />
+        <Tile PosX="39" PosY="18" Id="66" Type="1" />
+        <Tile PosX="40" PosY="18" Id="160" Type="1" />
+        <Tile PosX="41" PosY="18" Id="160" Type="1" />
+        <Tile PosX="42" PosY="18" Id="160" Type="1" />
+        <Tile PosX="43" PosY="18" Id="160" Type="1" />
+        <Tile PosX="44" PosY="18" Id="160" Type="1" />
+        <Tile PosX="45" PosY="18" Id="160" Type="1" />
+        <Tile PosX="46" PosY="18" Id="160" Type="1" />
+        <Tile PosX="47" PosY="18" Id="160" Type="9" />
+        <Tile PosX="48" PosY="18" Id="160" Type="1" />
+        <Tile PosX="49" PosY="18" Id="30" Type="2" />
+        <Tile PosX="25" PosY="19" Id="30" Type="2" />
+        <Tile PosX="26" PosY="19" Id="160" Type="1" />
+        <Tile PosX="27" PosY="19" Id="160" Type="1" />
+        <Tile PosX="28" PosY="19" Id="160" Type="1" />
+        <Tile PosX="29" PosY="19" Id="66" Type="1" />
+        <Tile PosX="30" PosY="19" Id="160" Type="1" />
+        <Tile PosX="31" PosY="19" Id="160" Type="1" />
+        <Tile PosX="32" PosY="19" Id="160" Type="1" />
+        <Tile PosX="33" PosY="19" Id="160" Type="1" />
+        <Tile PosX="34" PosY="19" Id="160" Type="1" />
+        <Tile PosX="35" PosY="19" Id="160" Type="1" />
+        <Tile PosX="36" PosY="19" Id="160" Type="1" />
+        <Tile PosX="37" PosY="19" Id="160" Type="1" />
+        <Tile PosX="38" PosY="19" Id="160" Type="1" />
+        <Tile PosX="39" PosY="19" Id="160" Type="1" />
+        <Tile PosX="40" PosY="19" Id="160" Type="1" />
+        <Tile PosX="41" PosY="19" Id="160" Type="1" />
+        <Tile PosX="42" PosY="19" Id="160" Type="1" />
+        <Tile PosX="43" PosY="19" Id="66" Type="1" />
+        <Tile PosX="44" PosY="19" Id="160" Type="1" />
+        <Tile PosX="45" PosY="19" Id="160" Type="1" />
+        <Tile PosX="46" PosY="19" Id="160" Type="1" />
+        <Tile PosX="47" PosY="19" Id="160" Type="1" />
+        <Tile PosX="48" PosY="19" Id="160" Type="1" />
+        <Tile PosX="49" PosY="19" Id="30" Type="2" />
+        <Tile PosX="25" PosY="20" Id="30" Type="2" />
+        <Tile PosX="26" PosY="20" Id="160" Type="1" />
+        <Tile PosX="27" PosY="20" Id="160" Type="1" />
+        <Tile PosX="28" PosY="20" Id="160" Type="1" />
+        <Tile PosX="29" PosY="20" Id="160" Type="1" />
+        <Tile PosX="30" PosY="20" Id="160" Type="1" />
+        <Tile PosX="31" PosY="20" Id="160" Type="1" />
+        <Tile PosX="32" PosY="20" Id="160" Type="1" />
+        <Tile PosX="33" PosY="20" Id="160" Type="1" />
+        <Tile PosX="34" PosY="20" Id="160" Type="1" />
+        <Tile PosX="35" PosY="20" Id="160" Type="1" />
+        <Tile PosX="36" PosY="20" Id="160" Type="1" />
+        <Tile PosX="37" PosY="20" Id="160" Type="1" />
+        <Tile PosX="38" PosY="20" Id="160" Type="1" />
+        <Tile PosX="39" PosY="20" Id="160" Type="1" />
+        <Tile PosX="40" PosY="20" Id="160" Type="1" />
+        <Tile PosX="41" PosY="20" Id="160" Type="1" />
+        <Tile PosX="42" PosY="20" Id="160" Type="1" />
+        <Tile PosX="43" PosY="20" Id="160" Type="1" />
+        <Tile PosX="44" PosY="20" Id="160" Type="1" />
+        <Tile PosX="45" PosY="20" Id="160" Type="1" />
+        <Tile PosX="46" PosY="20" Id="160" Type="1" />
+        <Tile PosX="47" PosY="20" Id="160" Type="1" />
+        <Tile PosX="48" PosY="20" Id="160" Type="1" />
+        <Tile PosX="49" PosY="20" Id="30" Type="2" />
+        <Tile PosX="25" PosY="21" Id="30" Type="2" />
+        <Tile PosX="26" PosY="21" Id="160" Type="1" />
+        <Tile PosX="27" PosY="21" Id="66" Type="1" />
+        <Tile PosX="28" PosY="21" Id="160" Type="1" />
+        <Tile PosX="29" PosY="21" Id="160" Type="1" />
+        <Tile PosX="30" PosY="21" Id="160" Type="1" />
+        <Tile PosX="31" PosY="21" Id="160" Type="1" />
+        <Tile PosX="32" PosY="21" Id="160" Type="1" />
+        <Tile PosX="33" PosY="21" Id="160" Type="1" />
+        <Tile PosX="34" PosY="21" Id="160" Type="1" />
+        <Tile PosX="35" PosY="21" Id="160" Type="1" />
+        <Tile PosX="36" PosY="21" Id="160" Type="1" />
+        <Tile PosX="37" PosY="21" Id="160" Type="1" />
+        <Tile PosX="38" PosY="21" Id="160" Type="1" />
+        <Tile PosX="39" PosY="21" Id="160" Type="1" />
+        <Tile PosX="40" PosY="21" Id="160" Type="1" />
+        <Tile PosX="41" PosY="21" Id="160" Type="1" />
+        <Tile PosX="42" PosY="21" Id="160" Type="1" />
+        <Tile PosX="43" PosY="21" Id="160" Type="1" />
+        <Tile PosX="44" PosY="21" Id="160" Type="1" />
+        <Tile PosX="45" PosY="21" Id="160" Type="1" />
+        <Tile PosX="46" PosY="21" Id="160" Type="1" />
+        <Tile PosX="47" PosY="21" Id="66" Type="1" />
+        <Tile PosX="48" PosY="21" Id="160" Type="1" />
+        <Tile PosX="49" PosY="21" Id="30" Type="2" />
+        <Tile PosX="25" PosY="22" Id="30" Type="2" />
+        <Tile PosX="26" PosY="22" Id="160" Type="1" />
+        <Tile PosX="27" PosY="22" Id="160" Type="1" />
+        <Tile PosX="28" PosY="22" Id="160" Type="1" />
+        <Tile PosX="29" PosY="22" Id="160" Type="1" />
+        <Tile PosX="30" PosY="22" Id="160" Type="1" />
+        <Tile PosX="31" PosY="22" Id="160" Type="1" />
+        <Tile PosX="32" PosY="22" Id="160" Type="1" />
+        <Tile PosX="33" PosY="22" Id="160" Type="1" />
+        <Tile PosX="34" PosY="22" Id="160" Type="1" />
+        <Tile PosX="35" PosY="22" Id="160" Type="1" />
+        <Tile PosX="36" PosY="22" Id="160" Type="1" />
+        <Tile PosX="37" PosY="22" Id="160" Type="1" />
+        <Tile PosX="38" PosY="22" Id="160" Type="1" />
+        <Tile PosX="39" PosY="22" Id="160" Type="1" />
+        <Tile PosX="40" PosY="22" Id="160" Type="1" />
+        <Tile PosX="41" PosY="22" Id="160" Type="1" />
+        <Tile PosX="42" PosY="22" Id="160" Type="1" />
+        <Tile PosX="43" PosY="22" Id="160" Type="1" />
+        <Tile PosX="44" PosY="22" Id="160" Type="1" />
+        <Tile PosX="45" PosY="22" Id="160" Type="1" />
+        <Tile PosX="46" PosY="22" Id="160" Type="1" />
+        <Tile PosX="47" PosY="22" Id="160" Type="1" />
+        <Tile PosX="48" PosY="22" Id="160" Type="1" />
+        <Tile PosX="49" PosY="22" Id="30" Type="2" />
+        <Tile PosX="25" PosY="23" Id="160" Type="1" />
+        <Tile PosX="26" PosY="23" Id="160" Type="1" />
+        <Tile PosX="27" PosY="23" Id="160" Type="1" />
+        <Tile PosX="28" PosY="23" Id="160" Type="1" />
+        <Tile PosX="29" PosY="23" Id="160" Type="1" />
+        <Tile PosX="30" PosY="23" Id="160" Type="1" />
+        <Tile PosX="31" PosY="23" Id="160" Type="1" />
+        <Tile PosX="32" PosY="23" Id="160" Type="1" />
+        <Tile PosX="33" PosY="23" Id="160" Type="1" />
+        <Tile PosX="34" PosY="23" Id="160" Type="1" />
+        <Tile PosX="35" PosY="23" Id="160" Type="1" />
+        <Tile PosX="36" PosY="23" Id="160" Type="1" />
+        <Tile PosX="37" PosY="23" Id="160" Type="1" />
+        <Tile PosX="38" PosY="23" Id="160" Type="1" />
+        <Tile PosX="39" PosY="23" Id="160" Type="1" />
+        <Tile PosX="40" PosY="23" Id="160" Type="1" />
+        <Tile PosX="41" PosY="23" Id="160" Type="1" />
+        <Tile PosX="42" PosY="23" Id="160" Type="1" />
+        <Tile PosX="43" PosY="23" Id="160" Type="1" />
+        <Tile PosX="44" PosY="23" Id="160" Type="1" />
+        <Tile PosX="45" PosY="23" Id="160" Type="1" />
+        <Tile PosX="46" PosY="23" Id="160" Type="1" />
+        <Tile PosX="47" PosY="23" Id="160" Type="1" />
+        <Tile PosX="48" PosY="23" Id="160" Type="1" />
+        <Tile PosX="49" PosY="23" Id="30" Type="2" />
+        <Tile PosX="25" PosY="24" Id="160" Type="1" />
+        <Tile PosX="26" PosY="24" Id="160" Type="1" />
+        <Tile PosX="27" PosY="24" Id="160" Type="1" />
+        <Tile PosX="28" PosY="24" Id="160" Type="1" />
+        <Tile PosX="29" PosY="24" Id="160" Type="1" />
+        <Tile PosX="30" PosY="24" Id="160" Type="1" />
+        <Tile PosX="31" PosY="24" Id="160" Type="1" />
+        <Tile PosX="32" PosY="24" Id="160" Type="1" />
+        <Tile PosX="33" PosY="24" Id="160" Type="1" />
+        <Tile PosX="34" PosY="24" Id="160" Type="1" />
+        <Tile PosX="35" PosY="24" Id="160" Type="1" />
+        <Tile PosX="36" PosY="24" Id="160" Type="1" />
+        <Tile PosX="37" PosY="24" Id="160" Type="9" />
+        <Tile PosX="38" PosY="24" Id="160" Type="1" />
+        <Tile PosX="39" PosY="24" Id="160" Type="1" />
+        <Tile PosX="40" PosY="24" Id="160" Type="1" />
+        <Tile PosX="41" PosY="24" Id="160" Type="1" />
+        <Tile PosX="42" PosY="24" Id="160" Type="1" />
+        <Tile PosX="43" PosY="24" Id="160" Type="1" />
+        <Tile PosX="44" PosY="24" Id="160" Type="1" />
+        <Tile PosX="45" PosY="24" Id="160" Type="1" />
+        <Tile PosX="46" PosY="24" Id="160" Type="1" />
+        <Tile PosX="47" PosY="24" Id="160" Type="1" />
+        <Tile PosX="48" PosY="24" Id="160" Type="1" />
+        <Tile PosX="49" PosY="24" Id="30" Type="2" />
+        <Tile PosX="25" PosY="25" Id="30" Type="2" />
+        <Tile PosX="26" PosY="25" Id="160" Type="1" />
+        <Tile PosX="27" PosY="25" Id="160" Type="1" />
+        <Tile PosX="28" PosY="25" Id="160" Type="1" />
+        <Tile PosX="29" PosY="25" Id="160" Type="1" />
+        <Tile PosX="30" PosY="25" Id="160" Type="1" />
+        <Tile PosX="31" PosY="25" Id="160" Type="1" />
+        <Tile PosX="32" PosY="25" Id="160" Type="1" />
+        <Tile PosX="33" PosY="25" Id="160" Type="1" />
+        <Tile PosX="34" PosY="25" Id="160" Type="1" />
+        <Tile PosX="35" PosY="25" Id="160" Type="1" />
+        <Tile PosX="36" PosY="25" Id="160" Type="1" />
+        <Tile PosX="37" PosY="25" Id="160" Type="1" />
+        <Tile PosX="38" PosY="25" Id="160" Type="1" />
+        <Tile PosX="39" PosY="25" Id="160" Type="1" />
+        <Tile PosX="40" PosY="25" Id="160" Type="1" />
+        <Tile PosX="41" PosY="25" Id="160" Type="1" />
+        <Tile PosX="42" PosY="25" Id="160" Type="1" />
+        <Tile PosX="43" PosY="25" Id="160" Type="1" />
+        <Tile PosX="44" PosY="25" Id="160" Type="1" />
+        <Tile PosX="45" PosY="25" Id="160" Type="1" />
+        <Tile PosX="46" PosY="25" Id="160" Type="1" />
+        <Tile PosX="47" PosY="25" Id="66" Type="1" />
+        <Tile PosX="48" PosY="25" Id="160" Type="1" />
+        <Tile PosX="49" PosY="25" Id="30" Type="2" />
+        <Tile PosX="25" PosY="26" Id="30" Type="2" />
+        <Tile PosX="26" PosY="26" Id="160" Type="1" />
+        <Tile PosX="27" PosY="26" Id="66" Type="1" />
+        <Tile PosX="28" PosY="26" Id="160" Type="1" />
+        <Tile PosX="29" PosY="26" Id="160" Type="1" />
+        <Tile PosX="30" PosY="26" Id="160" Type="1" />
+        <Tile PosX="31" PosY="26" Id="160" Type="1" />
+        <Tile PosX="32" PosY="26" Id="160" Type="1" />
+        <Tile PosX="33" PosY="26" Id="160" Type="1" />
+        <Tile PosX="34" PosY="26" Id="160" Type="1" />
+        <Tile PosX="35" PosY="26" Id="160" Type="1" />
+        <Tile PosX="36" PosY="26" Id="160" Type="1" />
+        <Tile PosX="37" PosY="26" Id="160" Type="1" />
+        <Tile PosX="38" PosY="26" Id="160" Type="1" />
+        <Tile PosX="39" PosY="26" Id="160" Type="1" />
+        <Tile PosX="40" PosY="26" Id="160" Type="1" />
+        <Tile PosX="41" PosY="26" Id="160" Type="1" />
+        <Tile PosX="42" PosY="26" Id="160" Type="1" />
+        <Tile PosX="43" PosY="26" Id="160" Type="1" />
+        <Tile PosX="44" PosY="26" Id="160" Type="1" />
+        <Tile PosX="45" PosY="26" Id="160" Type="1" />
+        <Tile PosX="46" PosY="26" Id="160" Type="1" />
+        <Tile PosX="47" PosY="26" Id="160" Type="1" />
+        <Tile PosX="48" PosY="26" Id="160" Type="1" />
+        <Tile PosX="49" PosY="26" Id="30" Type="2" />
+        <Tile PosX="25" PosY="27" Id="30" Type="2" />
+        <Tile PosX="26" PosY="27" Id="160" Type="1" />
+        <Tile PosX="27" PosY="27" Id="160" Type="1" />
+        <Tile PosX="28" PosY="27" Id="160" Type="1" />
+        <Tile PosX="29" PosY="27" Id="160" Type="1" />
+        <Tile PosX="30" PosY="27" Id="160" Type="1" />
+        <Tile PosX="31" PosY="27" Id="160" Type="1" />
+        <Tile PosX="32" PosY="27" Id="160" Type="1" />
+        <Tile PosX="33" PosY="27" Id="160" Type="1" />
+        <Tile PosX="34" PosY="27" Id="160" Type="1" />
+        <Tile PosX="35" PosY="27" Id="160" Type="1" />
+        <Tile PosX="36" PosY="27" Id="160" Type="1" />
+        <Tile PosX="37" PosY="27" Id="160" Type="1" />
+        <Tile PosX="38" PosY="27" Id="160" Type="1" />
+        <Tile PosX="39" PosY="27" Id="160" Type="1" />
+        <Tile PosX="40" PosY="27" Id="160" Type="1" />
+        <Tile PosX="41" PosY="27" Id="160" Type="1" />
+        <Tile PosX="42" PosY="27" Id="160" Type="1" />
+        <Tile PosX="43" PosY="27" Id="160" Type="1" />
+        <Tile PosX="44" PosY="27" Id="160" Type="1" />
+        <Tile PosX="45" PosY="27" Id="160" Type="1" />
+        <Tile PosX="46" PosY="27" Id="160" Type="1" />
+        <Tile PosX="47" PosY="27" Id="160" Type="1" />
+        <Tile PosX="48" PosY="27" Id="160" Type="1" />
+        <Tile PosX="49" PosY="27" Id="30" Type="2" />
+        <Tile PosX="25" PosY="28" Id="30" Type="2" />
+        <Tile PosX="26" PosY="28" Id="160" Type="1" />
+        <Tile PosX="27" PosY="28" Id="160" Type="1" />
+        <Tile PosX="28" PosY="28" Id="160" Type="1" />
+        <Tile PosX="29" PosY="28" Id="66" Type="1" />
+        <Tile PosX="30" PosY="28" Id="160" Type="1" />
+        <Tile PosX="31" PosY="28" Id="160" Type="1" />
+        <Tile PosX="32" PosY="28" Id="160" Type="1" />
+        <Tile PosX="33" PosY="28" Id="160" Type="1" />
+        <Tile PosX="34" PosY="28" Id="160" Type="1" />
+        <Tile PosX="35" PosY="28" Id="160" Type="1" />
+        <Tile PosX="36" PosY="28" Id="160" Type="1" />
+        <Tile PosX="37" PosY="28" Id="160" Type="1" />
+        <Tile PosX="38" PosY="28" Id="160" Type="1" />
+        <Tile PosX="39" PosY="28" Id="160" Type="1" />
+        <Tile PosX="40" PosY="28" Id="160" Type="1" />
+        <Tile PosX="41" PosY="28" Id="160" Type="1" />
+        <Tile PosX="42" PosY="28" Id="160" Type="1" />
+        <Tile PosX="43" PosY="28" Id="66" Type="1" />
+        <Tile PosX="44" PosY="28" Id="160" Type="1" />
+        <Tile PosX="45" PosY="28" Id="160" Type="1" />
+        <Tile PosX="46" PosY="28" Id="160" Type="1" />
+        <Tile PosX="47" PosY="28" Id="160" Type="1" />
+        <Tile PosX="48" PosY="28" Id="160" Type="1" />
+        <Tile PosX="49" PosY="28" Id="30" Type="2" />
+        <Tile PosX="25" PosY="29" Id="30" Type="2" />
+        <Tile PosX="26" PosY="29" Id="160" Type="1" />
+        <Tile PosX="27" PosY="29" Id="160" Type="9" />
+        <Tile PosX="28" PosY="29" Id="160" Type="1" />
+        <Tile PosX="29" PosY="29" Id="160" Type="1" />
+        <Tile PosX="30" PosY="29" Id="160" Type="1" />
+        <Tile PosX="31" PosY="29" Id="160" Type="1" />
+        <Tile PosX="32" PosY="29" Id="160" Type="1" />
+        <Tile PosX="33" PosY="29" Id="66" Type="1" />
+        <Tile PosX="34" PosY="29" Id="160" Type="1" />
+        <Tile PosX="35" PosY="29" Id="160" Type="1" />
+        <Tile PosX="36" PosY="29" Id="160" Type="1" />
+        <Tile PosX="37" PosY="29" Id="160" Type="1" />
+        <Tile PosX="38" PosY="29" Id="160" Type="1" />
+        <Tile PosX="39" PosY="29" Id="66" Type="1" />
+        <Tile PosX="40" PosY="29" Id="160" Type="1" />
+        <Tile PosX="41" PosY="29" Id="160" Type="1" />
+        <Tile PosX="42" PosY="29" Id="160" Type="1" />
+        <Tile PosX="43" PosY="29" Id="160" Type="1" />
+        <Tile PosX="44" PosY="29" Id="160" Type="1" />
+        <Tile PosX="45" PosY="29" Id="160" Type="1" />
+        <Tile PosX="46" PosY="29" Id="160" Type="9" />
+        <Tile PosX="47" PosY="29" Id="160" Type="1" />
+        <Tile PosX="48" PosY="29" Id="160" Type="1" />
+        <Tile PosX="49" PosY="29" Id="30" Type="2" />
+        <Tile PosX="25" PosY="30" Id="30" Type="2" />
+        <Tile PosX="26" PosY="30" Id="160" Type="1" />
+        <Tile PosX="27" PosY="30" Id="160" Type="1" />
+        <Tile PosX="28" PosY="30" Id="160" Type="1" />
+        <Tile PosX="29" PosY="30" Id="160" Type="1" />
+        <Tile PosX="30" PosY="30" Id="160" Type="1" />
+        <Tile PosX="31" PosY="30" Id="160" Type="1" />
+        <Tile PosX="32" PosY="30" Id="160" Type="1" />
+        <Tile PosX="33" PosY="30" Id="160" Type="1" />
+        <Tile PosX="34" PosY="30" Id="160" Type="1" />
+        <Tile PosX="35" PosY="30" Id="160" Type="1" />
+        <Tile PosX="36" PosY="30" Id="160" Type="1" />
+        <Tile PosX="37" PosY="30" Id="160" Type="1" />
+        <Tile PosX="38" PosY="30" Id="160" Type="1" />
+        <Tile PosX="39" PosY="30" Id="160" Type="1" />
+        <Tile PosX="40" PosY="30" Id="160" Type="1" />
+        <Tile PosX="41" PosY="30" Id="160" Type="1" />
+        <Tile PosX="42" PosY="30" Id="160" Type="1" />
+        <Tile PosX="43" PosY="30" Id="160" Type="1" />
+        <Tile PosX="44" PosY="30" Id="160" Type="1" />
+        <Tile PosX="45" PosY="30" Id="160" Type="1" />
+        <Tile PosX="46" PosY="30" Id="160" Type="1" />
+        <Tile PosX="47" PosY="30" Id="160" Type="1" />
+        <Tile PosX="48" PosY="30" Id="160" Type="1" />
+        <Tile PosX="49" PosY="30" Id="30" Type="2" />
+        <Tile PosX="25" PosY="31" Id="30" Type="2" />
+        <Tile PosX="26" PosY="31" Id="30" Type="2" />
+        <Tile PosX="27" PosY="31" Id="30" Type="2" />
+        <Tile PosX="28" PosY="31" Id="30" Type="2" />
+        <Tile PosX="29" PosY="31" Id="30" Type="2" />
+        <Tile PosX="30" PosY="31" Id="30" Type="2" />
+        <Tile PosX="31" PosY="31" Id="30" Type="2" />
+        <Tile PosX="32" PosY="31" Id="30" Type="2" />
+        <Tile PosX="33" PosY="31" Id="30" Type="2" />
+        <Tile PosX="34" PosY="31" Id="30" Type="2" />
+        <Tile PosX="35" PosY="31" Id="30" Type="2" />
+        <Tile PosX="36" PosY="31" Id="30" Type="2" />
+        <Tile PosX="37" PosY="31" Id="160" Type="1" />
+        <Tile PosX="38" PosY="31" Id="160" Type="1" />
+        <Tile PosX="39" PosY="31" Id="30" Type="2" />
+        <Tile PosX="40" PosY="31" Id="30" Type="2" />
+        <Tile PosX="41" PosY="31" Id="30" Type="2" />
+        <Tile PosX="42" PosY="31" Id="30" Type="2" />
+        <Tile PosX="43" PosY="31" Id="30" Type="2" />
+        <Tile PosX="44" PosY="31" Id="30" Type="2" />
+        <Tile PosX="45" PosY="31" Id="30" Type="2" />
+        <Tile PosX="46" PosY="31" Id="30" Type="2" />
+        <Tile PosX="47" PosY="31" Id="30" Type="2" />
+        <Tile PosX="48" PosY="31" Id="30" Type="2" />
+        <Tile PosX="49" PosY="31" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List />
+      <Escapepoint_List>
+        <EscapePoint PosX="1216" PosY="1022" />
+        <EscapePoint PosX="801" PosY="765" />
+        <EscapePoint PosX="1217" PosY="515" />
+      </Escapepoint_List>
+      <Spawn_List>
+        <Spawn Name="ambush3" Type="5" SpawnRate="1" SpawnAmount="1" PosX="1011" PosY="842">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ambush 4" Type="5" SpawnRate="1" SpawnAmount="1" PosX="1368" PosY="683">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ninja 5" Type="4" SpawnRate="1" SpawnAmount="1" PosX="1368" PosY="867">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="zombie 10" Type="2" SpawnRate="1" SpawnAmount="1" PosX="1064" PosY="704">
+          <HeadPoint PosX="1064" PosY="704" />
+          <Waypoint_List>
+            <Waypoint PosX="1064" PosY="704">
+              <PrevPoint PosX="1152" PosY="825" />
+              <NextPoint PosX="1152" PosY="825" />
+            </Waypoint>
+            <Waypoint PosX="1152" PosY="825">
+              <PrevPoint PosX="1064" PosY="704" />
+              <NextPoint PosX="1064" PosY="704" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+        <Spawn Name="armz9" Type="3" SpawnRate="1" SpawnAmount="1" PosX="1260" PosY="751">
+          <HeadPoint PosX="1260" PosY="751" />
+          <Waypoint_List>
+            <Waypoint PosX="1260" PosY="751">
+              <PrevPoint PosX="1521" PosY="764" />
+              <NextPoint PosX="1521" PosY="764" />
+            </Waypoint>
+            <Waypoint PosX="1521" PosY="764">
+              <PrevPoint PosX="1260" PosY="751" />
+              <NextPoint PosX="1260" PosY="751" />
+            </Waypoint>
+          </Waypoint_List>
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+    <Room Name="pride 3 room" Unlocked="0" RoomNum="5" PosX="0" PosY="512" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="0" PosY="16" Id="30" Type="2" />
+        <Tile PosX="1" PosY="16" Id="30" Type="2" />
+        <Tile PosX="2" PosY="16" Id="30" Type="2" />
+        <Tile PosX="3" PosY="16" Id="30" Type="2" />
+        <Tile PosX="4" PosY="16" Id="30" Type="2" />
+        <Tile PosX="5" PosY="16" Id="30" Type="2" />
+        <Tile PosX="6" PosY="16" Id="30" Type="2" />
+        <Tile PosX="7" PosY="16" Id="30" Type="2" />
+        <Tile PosX="8" PosY="16" Id="30" Type="2" />
+        <Tile PosX="9" PosY="16" Id="30" Type="2" />
+        <Tile PosX="10" PosY="16" Id="30" Type="2" />
+        <Tile PosX="11" PosY="16" Id="30" Type="2" />
+        <Tile PosX="12" PosY="16" Id="30" Type="2" />
+        <Tile PosX="13" PosY="16" Id="30" Type="2" />
+        <Tile PosX="14" PosY="16" Id="30" Type="2" />
+        <Tile PosX="15" PosY="16" Id="30" Type="2" />
+        <Tile PosX="16" PosY="16" Id="30" Type="2" />
+        <Tile PosX="17" PosY="16" Id="30" Type="2" />
+        <Tile PosX="18" PosY="16" Id="30" Type="2" />
+        <Tile PosX="19" PosY="16" Id="30" Type="2" />
+        <Tile PosX="20" PosY="16" Id="30" Type="2" />
+        <Tile PosX="21" PosY="16" Id="30" Type="2" />
+        <Tile PosX="22" PosY="16" Id="30" Type="2" />
+        <Tile PosX="23" PosY="16" Id="30" Type="2" />
+        <Tile PosX="24" PosY="16" Id="30" Type="2" />
+        <Tile PosX="0" PosY="17" Id="30" Type="2" />
+        <Tile PosX="1" PosY="17" Id="160" Type="1" />
+        <Tile PosX="2" PosY="17" Id="160" Type="1" />
+        <Tile PosX="3" PosY="17" Id="160" Type="1" />
+        <Tile PosX="4" PosY="17" Id="160" Type="1" />
+        <Tile PosX="5" PosY="17" Id="160" Type="1" />
+        <Tile PosX="6" PosY="17" Id="160" Type="1" />
+        <Tile PosX="7" PosY="17" Id="160" Type="1" />
+        <Tile PosX="8" PosY="17" Id="160" Type="1" />
+        <Tile PosX="9" PosY="17" Id="160" Type="1" />
+        <Tile PosX="10" PosY="17" Id="160" Type="1" />
+        <Tile PosX="11" PosY="17" Id="160" Type="1" />
+        <Tile PosX="12" PosY="17" Id="160" Type="1" />
+        <Tile PosX="13" PosY="17" Id="160" Type="1" />
+        <Tile PosX="14" PosY="17" Id="160" Type="1" />
+        <Tile PosX="15" PosY="17" Id="160" Type="1" />
+        <Tile PosX="16" PosY="17" Id="160" Type="1" />
+        <Tile PosX="17" PosY="17" Id="160" Type="1" />
+        <Tile PosX="18" PosY="17" Id="160" Type="1" />
+        <Tile PosX="19" PosY="17" Id="160" Type="1" />
+        <Tile PosX="20" PosY="17" Id="160" Type="1" />
+        <Tile PosX="21" PosY="17" Id="160" Type="1" />
+        <Tile PosX="22" PosY="17" Id="160" Type="1" />
+        <Tile PosX="23" PosY="17" Id="160" Type="1" />
+        <Tile PosX="24" PosY="17" Id="30" Type="2" />
+        <Tile PosX="0" PosY="18" Id="30" Type="2" />
+        <Tile PosX="1" PosY="18" Id="160" Type="1" />
+        <Tile PosX="2" PosY="18" Id="160" Type="1" />
+        <Tile PosX="3" PosY="18" Id="160" Type="1" />
+        <Tile PosX="4" PosY="18" Id="160" Type="1" />
+        <Tile PosX="5" PosY="18" Id="160" Type="1" />
+        <Tile PosX="6" PosY="18" Id="160" Type="1" />
+        <Tile PosX="7" PosY="18" Id="160" Type="1" />
+        <Tile PosX="8" PosY="18" Id="160" Type="1" />
+        <Tile PosX="9" PosY="18" Id="160" Type="1" />
+        <Tile PosX="10" PosY="18" Id="160" Type="1" />
+        <Tile PosX="11" PosY="18" Id="160" Type="1" />
+        <Tile PosX="12" PosY="18" Id="44" Type="3" />
+        <Tile PosX="13" PosY="18" Id="45" Type="3" />
+        <Tile PosX="14" PosY="18" Id="160" Type="1" />
+        <Tile PosX="15" PosY="18" Id="160" Type="1" />
+        <Tile PosX="16" PosY="18" Id="160" Type="1" />
+        <Tile PosX="17" PosY="18" Id="160" Type="1" />
+        <Tile PosX="18" PosY="18" Id="160" Type="1" />
+        <Tile PosX="19" PosY="18" Id="160" Type="1" />
+        <Tile PosX="20" PosY="18" Id="160" Type="1" />
+        <Tile PosX="21" PosY="18" Id="160" Type="1" />
+        <Tile PosX="22" PosY="18" Id="160" Type="1" />
+        <Tile PosX="23" PosY="18" Id="160" Type="1" />
+        <Tile PosX="24" PosY="18" Id="30" Type="2" />
+        <Tile PosX="0" PosY="19" Id="30" Type="2" />
+        <Tile PosX="1" PosY="19" Id="160" Type="1" />
+        <Tile PosX="2" PosY="19" Id="160" Type="1" />
+        <Tile PosX="3" PosY="19" Id="160" Type="1" />
+        <Tile PosX="4" PosY="19" Id="160" Type="1" />
+        <Tile PosX="5" PosY="19" Id="160" Type="1" />
+        <Tile PosX="6" PosY="19" Id="160" Type="1" />
+        <Tile PosX="7" PosY="19" Id="160" Type="1" />
+        <Tile PosX="8" PosY="19" Id="160" Type="1" />
+        <Tile PosX="9" PosY="19" Id="160" Type="1" />
+        <Tile PosX="10" PosY="19" Id="160" Type="1" />
+        <Tile PosX="11" PosY="19" Id="160" Type="1" />
+        <Tile PosX="12" PosY="19" Id="76" Type="3" />
+        <Tile PosX="13" PosY="19" Id="77" Type="3" />
+        <Tile PosX="14" PosY="19" Id="160" Type="1" />
+        <Tile PosX="15" PosY="19" Id="160" Type="1" />
+        <Tile PosX="16" PosY="19" Id="160" Type="1" />
+        <Tile PosX="17" PosY="19" Id="160" Type="1" />
+        <Tile PosX="18" PosY="19" Id="160" Type="1" />
+        <Tile PosX="19" PosY="19" Id="160" Type="1" />
+        <Tile PosX="20" PosY="19" Id="160" Type="1" />
+        <Tile PosX="21" PosY="19" Id="160" Type="1" />
+        <Tile PosX="22" PosY="19" Id="160" Type="1" />
+        <Tile PosX="23" PosY="19" Id="160" Type="1" />
+        <Tile PosX="24" PosY="19" Id="30" Type="2" />
+        <Tile PosX="0" PosY="20" Id="30" Type="2" />
+        <Tile PosX="1" PosY="20" Id="160" Type="1" />
+        <Tile PosX="2" PosY="20" Id="160" Type="1" />
+        <Tile PosX="3" PosY="20" Id="160" Type="1" />
+        <Tile PosX="4" PosY="20" Id="160" Type="1" />
+        <Tile PosX="5" PosY="20" Id="160" Type="1" />
+        <Tile PosX="6" PosY="20" Id="44" Type="3" />
+        <Tile PosX="7" PosY="20" Id="45" Type="3" />
+        <Tile PosX="8" PosY="20" Id="160" Type="1" />
+        <Tile PosX="9" PosY="20" Id="160" Type="1" />
+        <Tile PosX="10" PosY="20" Id="160" Type="1" />
+        <Tile PosX="11" PosY="20" Id="160" Type="1" />
+        <Tile PosX="12" PosY="20" Id="160" Type="1" />
+        <Tile PosX="13" PosY="20" Id="160" Type="1" />
+        <Tile PosX="14" PosY="20" Id="160" Type="1" />
+        <Tile PosX="15" PosY="20" Id="160" Type="1" />
+        <Tile PosX="16" PosY="20" Id="160" Type="1" />
+        <Tile PosX="17" PosY="20" Id="160" Type="1" />
+        <Tile PosX="18" PosY="20" Id="44" Type="3" />
+        <Tile PosX="19" PosY="20" Id="45" Type="3" />
+        <Tile PosX="20" PosY="20" Id="160" Type="1" />
+        <Tile PosX="21" PosY="20" Id="160" Type="1" />
+        <Tile PosX="22" PosY="20" Id="160" Type="1" />
+        <Tile PosX="23" PosY="20" Id="160" Type="1" />
+        <Tile PosX="24" PosY="20" Id="30" Type="2" />
+        <Tile PosX="0" PosY="21" Id="30" Type="2" />
+        <Tile PosX="1" PosY="21" Id="160" Type="1" />
+        <Tile PosX="2" PosY="21" Id="160" Type="1" />
+        <Tile PosX="3" PosY="21" Id="160" Type="1" />
+        <Tile PosX="4" PosY="21" Id="160" Type="1" />
+        <Tile PosX="5" PosY="21" Id="160" Type="1" />
+        <Tile PosX="6" PosY="21" Id="76" Type="3" />
+        <Tile PosX="7" PosY="21" Id="77" Type="3" />
+        <Tile PosX="8" PosY="21" Id="160" Type="1" />
+        <Tile PosX="9" PosY="21" Id="160" Type="1" />
+        <Tile PosX="10" PosY="21" Id="160" Type="1" />
+        <Tile PosX="11" PosY="21" Id="160" Type="1" />
+        <Tile PosX="12" PosY="21" Id="160" Type="1" />
+        <Tile PosX="13" PosY="21" Id="160" Type="1" />
+        <Tile PosX="14" PosY="21" Id="160" Type="1" />
+        <Tile PosX="15" PosY="21" Id="160" Type="1" />
+        <Tile PosX="16" PosY="21" Id="160" Type="1" />
+        <Tile PosX="17" PosY="21" Id="160" Type="1" />
+        <Tile PosX="18" PosY="21" Id="76" Type="3" />
+        <Tile PosX="19" PosY="21" Id="77" Type="3" />
+        <Tile PosX="20" PosY="21" Id="160" Type="1" />
+        <Tile PosX="21" PosY="21" Id="160" Type="1" />
+        <Tile PosX="22" PosY="21" Id="160" Type="1" />
+        <Tile PosX="23" PosY="21" Id="160" Type="1" />
+        <Tile PosX="24" PosY="21" Id="30" Type="2" />
+        <Tile PosX="0" PosY="22" Id="30" Type="2" />
+        <Tile PosX="1" PosY="22" Id="160" Type="1" />
+        <Tile PosX="2" PosY="22" Id="160" Type="1" />
+        <Tile PosX="3" PosY="22" Id="160" Type="1" />
+        <Tile PosX="4" PosY="22" Id="160" Type="1" />
+        <Tile PosX="5" PosY="22" Id="160" Type="1" />
+        <Tile PosX="6" PosY="22" Id="160" Type="1" />
+        <Tile PosX="7" PosY="22" Id="160" Type="1" />
+        <Tile PosX="8" PosY="22" Id="160" Type="1" />
+        <Tile PosX="9" PosY="22" Id="160" Type="1" />
+        <Tile PosX="10" PosY="22" Id="160" Type="1" />
+        <Tile PosX="11" PosY="22" Id="160" Type="1" />
+        <Tile PosX="12" PosY="22" Id="160" Type="1" />
+        <Tile PosX="13" PosY="22" Id="160" Type="1" />
+        <Tile PosX="14" PosY="22" Id="160" Type="1" />
+        <Tile PosX="15" PosY="22" Id="160" Type="1" />
+        <Tile PosX="16" PosY="22" Id="160" Type="1" />
+        <Tile PosX="17" PosY="22" Id="160" Type="1" />
+        <Tile PosX="18" PosY="22" Id="160" Type="1" />
+        <Tile PosX="19" PosY="22" Id="160" Type="1" />
+        <Tile PosX="20" PosY="22" Id="160" Type="1" />
+        <Tile PosX="21" PosY="22" Id="160" Type="1" />
+        <Tile PosX="22" PosY="22" Id="160" Type="1" />
+        <Tile PosX="23" PosY="22" Id="160" Type="1" />
+        <Tile PosX="24" PosY="22" Id="30" Type="2" />
+        <Tile PosX="0" PosY="23" Id="30" Type="2" />
+        <Tile PosX="1" PosY="23" Id="160" Type="1" />
+        <Tile PosX="2" PosY="23" Id="94" Type="1" />
+        <Tile PosX="3" PosY="23" Id="95" Type="1" />
+        <Tile PosX="4" PosY="23" Id="160" Type="1" />
+        <Tile PosX="5" PosY="23" Id="160" Type="1" />
+        <Tile PosX="6" PosY="23" Id="160" Type="1" />
+        <Tile PosX="7" PosY="23" Id="160" Type="1" />
+        <Tile PosX="8" PosY="23" Id="160" Type="1" />
+        <Tile PosX="9" PosY="23" Id="160" Type="1" />
+        <Tile PosX="10" PosY="23" Id="160" Type="1" />
+        <Tile PosX="11" PosY="23" Id="160" Type="1" />
+        <Tile PosX="12" PosY="23" Id="160" Type="9" />
+        <Tile PosX="13" PosY="23" Id="160" Type="1" />
+        <Tile PosX="14" PosY="23" Id="160" Type="1" />
+        <Tile PosX="15" PosY="23" Id="160" Type="1" />
+        <Tile PosX="16" PosY="23" Id="160" Type="1" />
+        <Tile PosX="17" PosY="23" Id="160" Type="1" />
+        <Tile PosX="18" PosY="23" Id="160" Type="1" />
+        <Tile PosX="19" PosY="23" Id="160" Type="1" />
+        <Tile PosX="20" PosY="23" Id="160" Type="1" />
+        <Tile PosX="21" PosY="23" Id="160" Type="1" />
+        <Tile PosX="22" PosY="23" Id="160" Type="1" />
+        <Tile PosX="23" PosY="23" Id="160" Type="1" />
+        <Tile PosX="24" PosY="23" Id="160" Type="1" />
+        <Tile PosX="0" PosY="24" Id="30" Type="2" />
+        <Tile PosX="1" PosY="24" Id="160" Type="1" />
+        <Tile PosX="2" PosY="24" Id="126" Type="1" />
+        <Tile PosX="3" PosY="24" Id="127" Type="1" />
+        <Tile PosX="4" PosY="24" Id="160" Type="1" />
+        <Tile PosX="5" PosY="24" Id="160" Type="1" />
+        <Tile PosX="6" PosY="24" Id="160" Type="1" />
+        <Tile PosX="7" PosY="24" Id="160" Type="1" />
+        <Tile PosX="8" PosY="24" Id="160" Type="1" />
+        <Tile PosX="9" PosY="24" Id="160" Type="1" />
+        <Tile PosX="10" PosY="24" Id="160" Type="1" />
+        <Tile PosX="11" PosY="24" Id="160" Type="1" />
+        <Tile PosX="12" PosY="24" Id="160" Type="1" />
+        <Tile PosX="13" PosY="24" Id="160" Type="1" />
+        <Tile PosX="14" PosY="24" Id="160" Type="1" />
+        <Tile PosX="15" PosY="24" Id="160" Type="1" />
+        <Tile PosX="16" PosY="24" Id="160" Type="1" />
+        <Tile PosX="17" PosY="24" Id="160" Type="1" />
+        <Tile PosX="18" PosY="24" Id="160" Type="1" />
+        <Tile PosX="19" PosY="24" Id="160" Type="1" />
+        <Tile PosX="20" PosY="24" Id="160" Type="1" />
+        <Tile PosX="21" PosY="24" Id="160" Type="1" />
+        <Tile PosX="22" PosY="24" Id="160" Type="1" />
+        <Tile PosX="23" PosY="24" Id="160" Type="1" />
+        <Tile PosX="24" PosY="24" Id="160" Type="1" />
+        <Tile PosX="0" PosY="25" Id="30" Type="2" />
+        <Tile PosX="1" PosY="25" Id="160" Type="1" />
+        <Tile PosX="2" PosY="25" Id="160" Type="1" />
+        <Tile PosX="3" PosY="25" Id="160" Type="1" />
+        <Tile PosX="4" PosY="25" Id="160" Type="1" />
+        <Tile PosX="5" PosY="25" Id="160" Type="1" />
+        <Tile PosX="6" PosY="25" Id="160" Type="1" />
+        <Tile PosX="7" PosY="25" Id="160" Type="1" />
+        <Tile PosX="8" PosY="25" Id="160" Type="1" />
+        <Tile PosX="9" PosY="25" Id="160" Type="1" />
+        <Tile PosX="10" PosY="25" Id="160" Type="1" />
+        <Tile PosX="11" PosY="25" Id="160" Type="1" />
+        <Tile PosX="12" PosY="25" Id="160" Type="1" />
+        <Tile PosX="13" PosY="25" Id="160" Type="1" />
+        <Tile PosX="14" PosY="25" Id="160" Type="1" />
+        <Tile PosX="15" PosY="25" Id="160" Type="1" />
+        <Tile PosX="16" PosY="25" Id="160" Type="1" />
+        <Tile PosX="17" PosY="25" Id="160" Type="1" />
+        <Tile PosX="18" PosY="25" Id="160" Type="1" />
+        <Tile PosX="19" PosY="25" Id="160" Type="1" />
+        <Tile PosX="20" PosY="25" Id="160" Type="1" />
+        <Tile PosX="21" PosY="25" Id="160" Type="1" />
+        <Tile PosX="22" PosY="25" Id="160" Type="1" />
+        <Tile PosX="23" PosY="25" Id="160" Type="1" />
+        <Tile PosX="24" PosY="25" Id="30" Type="2" />
+        <Tile PosX="0" PosY="26" Id="30" Type="2" />
+        <Tile PosX="1" PosY="26" Id="160" Type="1" />
+        <Tile PosX="2" PosY="26" Id="160" Type="1" />
+        <Tile PosX="3" PosY="26" Id="160" Type="1" />
+        <Tile PosX="4" PosY="26" Id="160" Type="1" />
+        <Tile PosX="5" PosY="26" Id="160" Type="1" />
+        <Tile PosX="6" PosY="26" Id="44" Type="3" />
+        <Tile PosX="7" PosY="26" Id="45" Type="3" />
+        <Tile PosX="8" PosY="26" Id="160" Type="1" />
+        <Tile PosX="9" PosY="26" Id="160" Type="1" />
+        <Tile PosX="10" PosY="26" Id="160" Type="1" />
+        <Tile PosX="11" PosY="26" Id="160" Type="1" />
+        <Tile PosX="12" PosY="26" Id="160" Type="1" />
+        <Tile PosX="13" PosY="26" Id="160" Type="1" />
+        <Tile PosX="14" PosY="26" Id="160" Type="1" />
+        <Tile PosX="15" PosY="26" Id="160" Type="1" />
+        <Tile PosX="16" PosY="26" Id="160" Type="1" />
+        <Tile PosX="17" PosY="26" Id="160" Type="1" />
+        <Tile PosX="18" PosY="26" Id="44" Type="3" />
+        <Tile PosX="19" PosY="26" Id="45" Type="3" />
+        <Tile PosX="20" PosY="26" Id="160" Type="1" />
+        <Tile PosX="21" PosY="26" Id="160" Type="1" />
+        <Tile PosX="22" PosY="26" Id="160" Type="1" />
+        <Tile PosX="23" PosY="26" Id="160" Type="1" />
+        <Tile PosX="24" PosY="26" Id="30" Type="2" />
+        <Tile PosX="0" PosY="27" Id="30" Type="2" />
+        <Tile PosX="1" PosY="27" Id="160" Type="1" />
+        <Tile PosX="2" PosY="27" Id="160" Type="1" />
+        <Tile PosX="3" PosY="27" Id="160" Type="1" />
+        <Tile PosX="4" PosY="27" Id="160" Type="1" />
+        <Tile PosX="5" PosY="27" Id="160" Type="1" />
+        <Tile PosX="6" PosY="27" Id="76" Type="3" />
+        <Tile PosX="7" PosY="27" Id="77" Type="3" />
+        <Tile PosX="8" PosY="27" Id="160" Type="1" />
+        <Tile PosX="9" PosY="27" Id="160" Type="1" />
+        <Tile PosX="10" PosY="27" Id="160" Type="1" />
+        <Tile PosX="11" PosY="27" Id="160" Type="1" />
+        <Tile PosX="12" PosY="27" Id="160" Type="1" />
+        <Tile PosX="13" PosY="27" Id="160" Type="1" />
+        <Tile PosX="14" PosY="27" Id="160" Type="1" />
+        <Tile PosX="15" PosY="27" Id="160" Type="1" />
+        <Tile PosX="16" PosY="27" Id="160" Type="1" />
+        <Tile PosX="17" PosY="27" Id="160" Type="1" />
+        <Tile PosX="18" PosY="27" Id="76" Type="3" />
+        <Tile PosX="19" PosY="27" Id="77" Type="3" />
+        <Tile PosX="20" PosY="27" Id="160" Type="1" />
+        <Tile PosX="21" PosY="27" Id="160" Type="1" />
+        <Tile PosX="22" PosY="27" Id="160" Type="1" />
+        <Tile PosX="23" PosY="27" Id="160" Type="1" />
+        <Tile PosX="24" PosY="27" Id="30" Type="2" />
+        <Tile PosX="0" PosY="28" Id="30" Type="2" />
+        <Tile PosX="1" PosY="28" Id="160" Type="1" />
+        <Tile PosX="2" PosY="28" Id="160" Type="1" />
+        <Tile PosX="3" PosY="28" Id="160" Type="1" />
+        <Tile PosX="4" PosY="28" Id="160" Type="1" />
+        <Tile PosX="5" PosY="28" Id="160" Type="1" />
+        <Tile PosX="6" PosY="28" Id="160" Type="1" />
+        <Tile PosX="7" PosY="28" Id="160" Type="1" />
+        <Tile PosX="8" PosY="28" Id="160" Type="1" />
+        <Tile PosX="9" PosY="28" Id="160" Type="1" />
+        <Tile PosX="10" PosY="28" Id="160" Type="1" />
+        <Tile PosX="11" PosY="28" Id="160" Type="1" />
+        <Tile PosX="12" PosY="28" Id="44" Type="3" />
+        <Tile PosX="13" PosY="28" Id="45" Type="3" />
+        <Tile PosX="14" PosY="28" Id="160" Type="1" />
+        <Tile PosX="15" PosY="28" Id="160" Type="1" />
+        <Tile PosX="16" PosY="28" Id="160" Type="1" />
+        <Tile PosX="17" PosY="28" Id="160" Type="1" />
+        <Tile PosX="18" PosY="28" Id="160" Type="1" />
+        <Tile PosX="19" PosY="28" Id="160" Type="1" />
+        <Tile PosX="20" PosY="28" Id="160" Type="1" />
+        <Tile PosX="21" PosY="28" Id="160" Type="1" />
+        <Tile PosX="22" PosY="28" Id="160" Type="1" />
+        <Tile PosX="23" PosY="28" Id="160" Type="1" />
+        <Tile PosX="24" PosY="28" Id="30" Type="2" />
+        <Tile PosX="0" PosY="29" Id="30" Type="2" />
+        <Tile PosX="1" PosY="29" Id="160" Type="1" />
+        <Tile PosX="2" PosY="29" Id="160" Type="1" />
+        <Tile PosX="3" PosY="29" Id="160" Type="1" />
+        <Tile PosX="4" PosY="29" Id="160" Type="1" />
+        <Tile PosX="5" PosY="29" Id="160" Type="1" />
+        <Tile PosX="6" PosY="29" Id="160" Type="1" />
+        <Tile PosX="7" PosY="29" Id="160" Type="1" />
+        <Tile PosX="8" PosY="29" Id="160" Type="1" />
+        <Tile PosX="9" PosY="29" Id="160" Type="1" />
+        <Tile PosX="10" PosY="29" Id="160" Type="1" />
+        <Tile PosX="11" PosY="29" Id="160" Type="1" />
+        <Tile PosX="12" PosY="29" Id="76" Type="3" />
+        <Tile PosX="13" PosY="29" Id="77" Type="3" />
+        <Tile PosX="14" PosY="29" Id="160" Type="1" />
+        <Tile PosX="15" PosY="29" Id="160" Type="1" />
+        <Tile PosX="16" PosY="29" Id="160" Type="1" />
+        <Tile PosX="17" PosY="29" Id="160" Type="1" />
+        <Tile PosX="18" PosY="29" Id="160" Type="1" />
+        <Tile PosX="19" PosY="29" Id="160" Type="1" />
+        <Tile PosX="20" PosY="29" Id="160" Type="1" />
+        <Tile PosX="21" PosY="29" Id="160" Type="1" />
+        <Tile PosX="22" PosY="29" Id="160" Type="1" />
+        <Tile PosX="23" PosY="29" Id="160" Type="1" />
+        <Tile PosX="24" PosY="29" Id="30" Type="2" />
+        <Tile PosX="0" PosY="30" Id="30" Type="2" />
+        <Tile PosX="1" PosY="30" Id="160" Type="1" />
+        <Tile PosX="2" PosY="30" Id="160" Type="1" />
+        <Tile PosX="3" PosY="30" Id="160" Type="1" />
+        <Tile PosX="4" PosY="30" Id="160" Type="1" />
+        <Tile PosX="5" PosY="30" Id="160" Type="1" />
+        <Tile PosX="6" PosY="30" Id="160" Type="1" />
+        <Tile PosX="7" PosY="30" Id="160" Type="1" />
+        <Tile PosX="8" PosY="30" Id="160" Type="1" />
+        <Tile PosX="9" PosY="30" Id="160" Type="1" />
+        <Tile PosX="10" PosY="30" Id="160" Type="1" />
+        <Tile PosX="11" PosY="30" Id="160" Type="1" />
+        <Tile PosX="12" PosY="30" Id="160" Type="1" />
+        <Tile PosX="13" PosY="30" Id="160" Type="1" />
+        <Tile PosX="14" PosY="30" Id="160" Type="1" />
+        <Tile PosX="15" PosY="30" Id="160" Type="1" />
+        <Tile PosX="16" PosY="30" Id="160" Type="1" />
+        <Tile PosX="17" PosY="30" Id="160" Type="1" />
+        <Tile PosX="18" PosY="30" Id="160" Type="1" />
+        <Tile PosX="19" PosY="30" Id="160" Type="1" />
+        <Tile PosX="20" PosY="30" Id="160" Type="1" />
+        <Tile PosX="21" PosY="30" Id="160" Type="1" />
+        <Tile PosX="22" PosY="30" Id="160" Type="1" />
+        <Tile PosX="23" PosY="30" Id="160" Type="1" />
+        <Tile PosX="24" PosY="30" Id="30" Type="2" />
+        <Tile PosX="0" PosY="31" Id="30" Type="2" />
+        <Tile PosX="1" PosY="31" Id="30" Type="2" />
+        <Tile PosX="2" PosY="31" Id="30" Type="2" />
+        <Tile PosX="3" PosY="31" Id="30" Type="2" />
+        <Tile PosX="4" PosY="31" Id="30" Type="2" />
+        <Tile PosX="5" PosY="31" Id="30" Type="2" />
+        <Tile PosX="6" PosY="31" Id="30" Type="2" />
+        <Tile PosX="7" PosY="31" Id="30" Type="2" />
+        <Tile PosX="8" PosY="31" Id="30" Type="2" />
+        <Tile PosX="9" PosY="31" Id="30" Type="2" />
+        <Tile PosX="10" PosY="31" Id="30" Type="2" />
+        <Tile PosX="11" PosY="31" Id="30" Type="2" />
+        <Tile PosX="12" PosY="31" Id="30" Type="2" />
+        <Tile PosX="13" PosY="31" Id="30" Type="2" />
+        <Tile PosX="14" PosY="31" Id="30" Type="2" />
+        <Tile PosX="15" PosY="31" Id="30" Type="2" />
+        <Tile PosX="16" PosY="31" Id="30" Type="2" />
+        <Tile PosX="17" PosY="31" Id="30" Type="2" />
+        <Tile PosX="18" PosY="31" Id="30" Type="2" />
+        <Tile PosX="19" PosY="31" Id="30" Type="2" />
+        <Tile PosX="20" PosY="31" Id="30" Type="2" />
+        <Tile PosX="21" PosY="31" Id="30" Type="2" />
+        <Tile PosX="22" PosY="31" Id="30" Type="2" />
+        <Tile PosX="23" PosY="31" Id="30" Type="2" />
+        <Tile PosX="24" PosY="31" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List>
+        <Respawn PosX="726" PosY="766" />
+      </Respawn_List>
+      <Escapepoint_List />
+      <Spawn_List>
+        <Spawn Name="ambush2" Type="5" SpawnRate="1" SpawnAmount="1" PosX="709" PosY="937">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="ambush2" Type="5" SpawnRate="1" SpawnAmount="1" PosX="692" PosY="600">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="armz6" Type="3" SpawnRate="1" SpawnAmount="1" PosX="335" PosY="706">
+          <HeadPoint PosX="-1" PosY="-1" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="armz7" Type="3" SpawnRate="1" SpawnAmount="1" PosX="334" PosY="842">
+          <HeadPoint PosX="-1" PosY="-1" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="zombie8" Type="2" SpawnRate="1" SpawnAmount="1" PosX="510" PosY="692">
+          <HeadPoint PosX="-1" PosY="-1" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="zombie 0" Type="2" SpawnRate="1" SpawnAmount="1" PosX="511" PosY="843">
+          <HeadPoint PosX="-1" PosY="-1" />
+          <Waypoint_List />
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+    <Room Name="boss room" Unlocked="1" RoomNum="6" PosX="800" PosY="1024" Width="800" Height="512">
+      <Tile_List>
+        <Tile PosX="25" PosY="32" Id="30" Type="2" />
+        <Tile PosX="26" PosY="32" Id="30" Type="2" />
+        <Tile PosX="27" PosY="32" Id="30" Type="2" />
+        <Tile PosX="28" PosY="32" Id="30" Type="2" />
+        <Tile PosX="29" PosY="32" Id="30" Type="2" />
+        <Tile PosX="30" PosY="32" Id="30" Type="2" />
+        <Tile PosX="31" PosY="32" Id="30" Type="2" />
+        <Tile PosX="32" PosY="32" Id="30" Type="2" />
+        <Tile PosX="33" PosY="32" Id="30" Type="2" />
+        <Tile PosX="34" PosY="32" Id="30" Type="2" />
+        <Tile PosX="35" PosY="32" Id="30" Type="2" />
+        <Tile PosX="36" PosY="32" Id="30" Type="2" />
+        <Tile PosX="37" PosY="32" Id="160" Type="1" />
+        <Tile PosX="38" PosY="32" Id="160" Type="1" />
+        <Tile PosX="39" PosY="32" Id="30" Type="2" />
+        <Tile PosX="40" PosY="32" Id="30" Type="2" />
+        <Tile PosX="41" PosY="32" Id="30" Type="2" />
+        <Tile PosX="42" PosY="32" Id="30" Type="2" />
+        <Tile PosX="43" PosY="32" Id="30" Type="2" />
+        <Tile PosX="44" PosY="32" Id="30" Type="2" />
+        <Tile PosX="45" PosY="32" Id="30" Type="2" />
+        <Tile PosX="46" PosY="32" Id="30" Type="2" />
+        <Tile PosX="47" PosY="32" Id="30" Type="2" />
+        <Tile PosX="48" PosY="32" Id="30" Type="2" />
+        <Tile PosX="49" PosY="32" Id="30" Type="2" />
+        <Tile PosX="25" PosY="33" Id="30" Type="2" />
+        <Tile PosX="26" PosY="33" Id="160" Type="1" />
+        <Tile PosX="27" PosY="33" Id="160" Type="1" />
+        <Tile PosX="28" PosY="33" Id="160" Type="1" />
+        <Tile PosX="29" PosY="33" Id="160" Type="1" />
+        <Tile PosX="30" PosY="33" Id="160" Type="1" />
+        <Tile PosX="31" PosY="33" Id="160" Type="1" />
+        <Tile PosX="32" PosY="33" Id="160" Type="1" />
+        <Tile PosX="33" PosY="33" Id="160" Type="1" />
+        <Tile PosX="34" PosY="33" Id="160" Type="1" />
+        <Tile PosX="35" PosY="33" Id="160" Type="1" />
+        <Tile PosX="36" PosY="33" Id="160" Type="1" />
+        <Tile PosX="37" PosY="33" Id="160" Type="1" />
+        <Tile PosX="38" PosY="33" Id="160" Type="1" />
+        <Tile PosX="39" PosY="33" Id="160" Type="1" />
+        <Tile PosX="40" PosY="33" Id="160" Type="1" />
+        <Tile PosX="41" PosY="33" Id="160" Type="1" />
+        <Tile PosX="42" PosY="33" Id="160" Type="1" />
+        <Tile PosX="43" PosY="33" Id="160" Type="1" />
+        <Tile PosX="44" PosY="33" Id="160" Type="1" />
+        <Tile PosX="45" PosY="33" Id="160" Type="1" />
+        <Tile PosX="46" PosY="33" Id="160" Type="1" />
+        <Tile PosX="47" PosY="33" Id="160" Type="1" />
+        <Tile PosX="48" PosY="33" Id="160" Type="1" />
+        <Tile PosX="49" PosY="33" Id="30" Type="2" />
+        <Tile PosX="25" PosY="34" Id="30" Type="2" />
+        <Tile PosX="26" PosY="34" Id="160" Type="1" />
+        <Tile PosX="27" PosY="34" Id="160" Type="1" />
+        <Tile PosX="28" PosY="34" Id="160" Type="1" />
+        <Tile PosX="29" PosY="34" Id="160" Type="1" />
+        <Tile PosX="30" PosY="34" Id="160" Type="1" />
+        <Tile PosX="31" PosY="34" Id="160" Type="1" />
+        <Tile PosX="32" PosY="34" Id="160" Type="1" />
+        <Tile PosX="33" PosY="34" Id="160" Type="1" />
+        <Tile PosX="34" PosY="34" Id="160" Type="1" />
+        <Tile PosX="35" PosY="34" Id="160" Type="1" />
+        <Tile PosX="36" PosY="34" Id="160" Type="1" />
+        <Tile PosX="37" PosY="34" Id="160" Type="1" />
+        <Tile PosX="38" PosY="34" Id="160" Type="1" />
+        <Tile PosX="39" PosY="34" Id="160" Type="1" />
+        <Tile PosX="40" PosY="34" Id="160" Type="1" />
+        <Tile PosX="41" PosY="34" Id="160" Type="1" />
+        <Tile PosX="42" PosY="34" Id="160" Type="1" />
+        <Tile PosX="43" PosY="34" Id="160" Type="1" />
+        <Tile PosX="44" PosY="34" Id="160" Type="1" />
+        <Tile PosX="45" PosY="34" Id="160" Type="1" />
+        <Tile PosX="46" PosY="34" Id="160" Type="1" />
+        <Tile PosX="47" PosY="34" Id="160" Type="1" />
+        <Tile PosX="48" PosY="34" Id="160" Type="1" />
+        <Tile PosX="49" PosY="34" Id="30" Type="2" />
+        <Tile PosX="25" PosY="35" Id="30" Type="2" />
+        <Tile PosX="26" PosY="35" Id="160" Type="1" />
+        <Tile PosX="27" PosY="35" Id="160" Type="1" />
+        <Tile PosX="28" PosY="35" Id="160" Type="1" />
+        <Tile PosX="29" PosY="35" Id="160" Type="1" />
+        <Tile PosX="30" PosY="35" Id="160" Type="1" />
+        <Tile PosX="31" PosY="35" Id="160" Type="1" />
+        <Tile PosX="32" PosY="35" Id="160" Type="1" />
+        <Tile PosX="33" PosY="35" Id="160" Type="1" />
+        <Tile PosX="34" PosY="35" Id="160" Type="1" />
+        <Tile PosX="35" PosY="35" Id="160" Type="1" />
+        <Tile PosX="36" PosY="35" Id="160" Type="1" />
+        <Tile PosX="37" PosY="35" Id="160" Type="1" />
+        <Tile PosX="38" PosY="35" Id="160" Type="1" />
+        <Tile PosX="39" PosY="35" Id="160" Type="1" />
+        <Tile PosX="40" PosY="35" Id="160" Type="1" />
+        <Tile PosX="41" PosY="35" Id="160" Type="1" />
+        <Tile PosX="42" PosY="35" Id="160" Type="1" />
+        <Tile PosX="43" PosY="35" Id="160" Type="1" />
+        <Tile PosX="44" PosY="35" Id="160" Type="1" />
+        <Tile PosX="45" PosY="35" Id="160" Type="1" />
+        <Tile PosX="46" PosY="35" Id="160" Type="1" />
+        <Tile PosX="47" PosY="35" Id="160" Type="1" />
+        <Tile PosX="48" PosY="35" Id="160" Type="1" />
+        <Tile PosX="49" PosY="35" Id="30" Type="2" />
+        <Tile PosX="25" PosY="36" Id="30" Type="2" />
+        <Tile PosX="26" PosY="36" Id="160" Type="1" />
+        <Tile PosX="27" PosY="36" Id="160" Type="1" />
+        <Tile PosX="28" PosY="36" Id="160" Type="1" />
+        <Tile PosX="29" PosY="36" Id="160" Type="1" />
+        <Tile PosX="30" PosY="36" Id="160" Type="1" />
+        <Tile PosX="31" PosY="36" Id="160" Type="1" />
+        <Tile PosX="32" PosY="36" Id="160" Type="1" />
+        <Tile PosX="33" PosY="36" Id="160" Type="1" />
+        <Tile PosX="34" PosY="36" Id="160" Type="1" />
+        <Tile PosX="35" PosY="36" Id="160" Type="1" />
+        <Tile PosX="36" PosY="36" Id="160" Type="1" />
+        <Tile PosX="37" PosY="36" Id="160" Type="1" />
+        <Tile PosX="38" PosY="36" Id="160" Type="1" />
+        <Tile PosX="39" PosY="36" Id="160" Type="1" />
+        <Tile PosX="40" PosY="36" Id="160" Type="1" />
+        <Tile PosX="41" PosY="36" Id="160" Type="1" />
+        <Tile PosX="42" PosY="36" Id="160" Type="1" />
+        <Tile PosX="43" PosY="36" Id="160" Type="1" />
+        <Tile PosX="44" PosY="36" Id="160" Type="1" />
+        <Tile PosX="45" PosY="36" Id="160" Type="1" />
+        <Tile PosX="46" PosY="36" Id="160" Type="1" />
+        <Tile PosX="47" PosY="36" Id="160" Type="1" />
+        <Tile PosX="48" PosY="36" Id="160" Type="1" />
+        <Tile PosX="49" PosY="36" Id="30" Type="2" />
+        <Tile PosX="25" PosY="37" Id="30" Type="2" />
+        <Tile PosX="26" PosY="37" Id="160" Type="1" />
+        <Tile PosX="27" PosY="37" Id="160" Type="1" />
+        <Tile PosX="28" PosY="37" Id="160" Type="1" />
+        <Tile PosX="29" PosY="37" Id="160" Type="1" />
+        <Tile PosX="30" PosY="37" Id="160" Type="1" />
+        <Tile PosX="31" PosY="37" Id="160" Type="1" />
+        <Tile PosX="32" PosY="37" Id="160" Type="1" />
+        <Tile PosX="33" PosY="37" Id="160" Type="1" />
+        <Tile PosX="34" PosY="37" Id="160" Type="1" />
+        <Tile PosX="35" PosY="37" Id="160" Type="1" />
+        <Tile PosX="36" PosY="37" Id="160" Type="1" />
+        <Tile PosX="37" PosY="37" Id="160" Type="1" />
+        <Tile PosX="38" PosY="37" Id="160" Type="1" />
+        <Tile PosX="39" PosY="37" Id="160" Type="1" />
+        <Tile PosX="40" PosY="37" Id="160" Type="1" />
+        <Tile PosX="41" PosY="37" Id="160" Type="1" />
+        <Tile PosX="42" PosY="37" Id="160" Type="1" />
+        <Tile PosX="43" PosY="37" Id="160" Type="1" />
+        <Tile PosX="44" PosY="37" Id="160" Type="1" />
+        <Tile PosX="45" PosY="37" Id="160" Type="1" />
+        <Tile PosX="46" PosY="37" Id="160" Type="1" />
+        <Tile PosX="47" PosY="37" Id="160" Type="1" />
+        <Tile PosX="48" PosY="37" Id="160" Type="1" />
+        <Tile PosX="49" PosY="37" Id="30" Type="2" />
+        <Tile PosX="25" PosY="38" Id="30" Type="2" />
+        <Tile PosX="26" PosY="38" Id="160" Type="1" />
+        <Tile PosX="27" PosY="38" Id="160" Type="1" />
+        <Tile PosX="28" PosY="38" Id="160" Type="1" />
+        <Tile PosX="29" PosY="38" Id="160" Type="1" />
+        <Tile PosX="30" PosY="38" Id="160" Type="1" />
+        <Tile PosX="31" PosY="38" Id="160" Type="1" />
+        <Tile PosX="32" PosY="38" Id="160" Type="1" />
+        <Tile PosX="33" PosY="38" Id="160" Type="1" />
+        <Tile PosX="34" PosY="38" Id="160" Type="1" />
+        <Tile PosX="35" PosY="38" Id="160" Type="1" />
+        <Tile PosX="36" PosY="38" Id="160" Type="1" />
+        <Tile PosX="37" PosY="38" Id="160" Type="1" />
+        <Tile PosX="38" PosY="38" Id="160" Type="1" />
+        <Tile PosX="39" PosY="38" Id="160" Type="1" />
+        <Tile PosX="40" PosY="38" Id="160" Type="1" />
+        <Tile PosX="41" PosY="38" Id="160" Type="1" />
+        <Tile PosX="42" PosY="38" Id="160" Type="1" />
+        <Tile PosX="43" PosY="38" Id="160" Type="1" />
+        <Tile PosX="44" PosY="38" Id="160" Type="1" />
+        <Tile PosX="45" PosY="38" Id="160" Type="1" />
+        <Tile PosX="46" PosY="38" Id="160" Type="1" />
+        <Tile PosX="47" PosY="38" Id="160" Type="1" />
+        <Tile PosX="48" PosY="38" Id="160" Type="1" />
+        <Tile PosX="49" PosY="38" Id="30" Type="2" />
+        <Tile PosX="25" PosY="39" Id="30" Type="2" />
+        <Tile PosX="26" PosY="39" Id="160" Type="1" />
+        <Tile PosX="27" PosY="39" Id="160" Type="1" />
+        <Tile PosX="28" PosY="39" Id="160" Type="1" />
+        <Tile PosX="29" PosY="39" Id="160" Type="1" />
+        <Tile PosX="30" PosY="39" Id="160" Type="1" />
+        <Tile PosX="31" PosY="39" Id="160" Type="1" />
+        <Tile PosX="32" PosY="39" Id="160" Type="1" />
+        <Tile PosX="33" PosY="39" Id="160" Type="1" />
+        <Tile PosX="34" PosY="39" Id="160" Type="1" />
+        <Tile PosX="35" PosY="39" Id="160" Type="1" />
+        <Tile PosX="36" PosY="39" Id="160" Type="1" />
+        <Tile PosX="37" PosY="39" Id="160" Type="1" />
+        <Tile PosX="38" PosY="39" Id="160" Type="1" />
+        <Tile PosX="39" PosY="39" Id="160" Type="1" />
+        <Tile PosX="40" PosY="39" Id="160" Type="1" />
+        <Tile PosX="41" PosY="39" Id="160" Type="1" />
+        <Tile PosX="42" PosY="39" Id="160" Type="1" />
+        <Tile PosX="43" PosY="39" Id="160" Type="1" />
+        <Tile PosX="44" PosY="39" Id="160" Type="1" />
+        <Tile PosX="45" PosY="39" Id="160" Type="1" />
+        <Tile PosX="46" PosY="39" Id="160" Type="1" />
+        <Tile PosX="47" PosY="39" Id="160" Type="1" />
+        <Tile PosX="48" PosY="39" Id="160" Type="1" />
+        <Tile PosX="49" PosY="39" Id="214" Type="1" />
+        <Tile PosX="25" PosY="40" Id="30" Type="2" />
+        <Tile PosX="26" PosY="40" Id="160" Type="1" />
+        <Tile PosX="27" PosY="40" Id="160" Type="1" />
+        <Tile PosX="28" PosY="40" Id="160" Type="1" />
+        <Tile PosX="29" PosY="40" Id="160" Type="1" />
+        <Tile PosX="30" PosY="40" Id="160" Type="1" />
+        <Tile PosX="31" PosY="40" Id="160" Type="1" />
+        <Tile PosX="32" PosY="40" Id="160" Type="1" />
+        <Tile PosX="33" PosY="40" Id="160" Type="1" />
+        <Tile PosX="34" PosY="40" Id="160" Type="1" />
+        <Tile PosX="35" PosY="40" Id="160" Type="1" />
+        <Tile PosX="36" PosY="40" Id="160" Type="1" />
+        <Tile PosX="37" PosY="40" Id="160" Type="1" />
+        <Tile PosX="38" PosY="40" Id="160" Type="1" />
+        <Tile PosX="39" PosY="40" Id="160" Type="1" />
+        <Tile PosX="40" PosY="40" Id="160" Type="1" />
+        <Tile PosX="41" PosY="40" Id="160" Type="1" />
+        <Tile PosX="42" PosY="40" Id="160" Type="1" />
+        <Tile PosX="43" PosY="40" Id="160" Type="1" />
+        <Tile PosX="44" PosY="40" Id="160" Type="1" />
+        <Tile PosX="45" PosY="40" Id="160" Type="1" />
+        <Tile PosX="46" PosY="40" Id="160" Type="1" />
+        <Tile PosX="47" PosY="40" Id="160" Type="1" />
+        <Tile PosX="48" PosY="40" Id="160" Type="1" />
+        <Tile PosX="49" PosY="40" Id="246" Type="1" />
+        <Tile PosX="25" PosY="41" Id="30" Type="2" />
+        <Tile PosX="26" PosY="41" Id="160" Type="1" />
+        <Tile PosX="27" PosY="41" Id="160" Type="1" />
+        <Tile PosX="28" PosY="41" Id="160" Type="1" />
+        <Tile PosX="29" PosY="41" Id="160" Type="1" />
+        <Tile PosX="30" PosY="41" Id="160" Type="1" />
+        <Tile PosX="31" PosY="41" Id="160" Type="1" />
+        <Tile PosX="32" PosY="41" Id="160" Type="1" />
+        <Tile PosX="33" PosY="41" Id="160" Type="1" />
+        <Tile PosX="34" PosY="41" Id="160" Type="1" />
+        <Tile PosX="35" PosY="41" Id="160" Type="1" />
+        <Tile PosX="36" PosY="41" Id="160" Type="1" />
+        <Tile PosX="37" PosY="41" Id="160" Type="1" />
+        <Tile PosX="38" PosY="41" Id="160" Type="1" />
+        <Tile PosX="39" PosY="41" Id="160" Type="1" />
+        <Tile PosX="40" PosY="41" Id="160" Type="1" />
+        <Tile PosX="41" PosY="41" Id="160" Type="1" />
+        <Tile PosX="42" PosY="41" Id="160" Type="1" />
+        <Tile PosX="43" PosY="41" Id="160" Type="1" />
+        <Tile PosX="44" PosY="41" Id="160" Type="1" />
+        <Tile PosX="45" PosY="41" Id="160" Type="1" />
+        <Tile PosX="46" PosY="41" Id="160" Type="1" />
+        <Tile PosX="47" PosY="41" Id="160" Type="1" />
+        <Tile PosX="48" PosY="41" Id="160" Type="1" />
+        <Tile PosX="49" PosY="41" Id="30" Type="2" />
+        <Tile PosX="25" PosY="42" Id="30" Type="2" />
+        <Tile PosX="26" PosY="42" Id="160" Type="1" />
+        <Tile PosX="27" PosY="42" Id="160" Type="1" />
+        <Tile PosX="28" PosY="42" Id="160" Type="1" />
+        <Tile PosX="29" PosY="42" Id="160" Type="1" />
+        <Tile PosX="30" PosY="42" Id="160" Type="1" />
+        <Tile PosX="31" PosY="42" Id="160" Type="1" />
+        <Tile PosX="32" PosY="42" Id="160" Type="1" />
+        <Tile PosX="33" PosY="42" Id="160" Type="1" />
+        <Tile PosX="34" PosY="42" Id="160" Type="1" />
+        <Tile PosX="35" PosY="42" Id="160" Type="1" />
+        <Tile PosX="36" PosY="42" Id="160" Type="1" />
+        <Tile PosX="37" PosY="42" Id="160" Type="1" />
+        <Tile PosX="38" PosY="42" Id="160" Type="1" />
+        <Tile PosX="39" PosY="42" Id="160" Type="1" />
+        <Tile PosX="40" PosY="42" Id="160" Type="1" />
+        <Tile PosX="41" PosY="42" Id="160" Type="1" />
+        <Tile PosX="42" PosY="42" Id="160" Type="1" />
+        <Tile PosX="43" PosY="42" Id="160" Type="1" />
+        <Tile PosX="44" PosY="42" Id="160" Type="1" />
+        <Tile PosX="45" PosY="42" Id="160" Type="1" />
+        <Tile PosX="46" PosY="42" Id="160" Type="1" />
+        <Tile PosX="47" PosY="42" Id="160" Type="1" />
+        <Tile PosX="48" PosY="42" Id="160" Type="1" />
+        <Tile PosX="49" PosY="42" Id="30" Type="2" />
+        <Tile PosX="25" PosY="43" Id="30" Type="2" />
+        <Tile PosX="26" PosY="43" Id="160" Type="1" />
+        <Tile PosX="27" PosY="43" Id="160" Type="1" />
+        <Tile PosX="28" PosY="43" Id="160" Type="1" />
+        <Tile PosX="29" PosY="43" Id="160" Type="1" />
+        <Tile PosX="30" PosY="43" Id="160" Type="1" />
+        <Tile PosX="31" PosY="43" Id="160" Type="1" />
+        <Tile PosX="32" PosY="43" Id="160" Type="1" />
+        <Tile PosX="33" PosY="43" Id="160" Type="1" />
+        <Tile PosX="34" PosY="43" Id="160" Type="1" />
+        <Tile PosX="35" PosY="43" Id="160" Type="1" />
+        <Tile PosX="36" PosY="43" Id="160" Type="1" />
+        <Tile PosX="37" PosY="43" Id="160" Type="1" />
+        <Tile PosX="38" PosY="43" Id="160" Type="1" />
+        <Tile PosX="39" PosY="43" Id="160" Type="1" />
+        <Tile PosX="40" PosY="43" Id="160" Type="1" />
+        <Tile PosX="41" PosY="43" Id="160" Type="1" />
+        <Tile PosX="42" PosY="43" Id="160" Type="1" />
+        <Tile PosX="43" PosY="43" Id="160" Type="1" />
+        <Tile PosX="44" PosY="43" Id="160" Type="1" />
+        <Tile PosX="45" PosY="43" Id="160" Type="1" />
+        <Tile PosX="46" PosY="43" Id="160" Type="1" />
+        <Tile PosX="47" PosY="43" Id="160" Type="1" />
+        <Tile PosX="48" PosY="43" Id="160" Type="1" />
+        <Tile PosX="49" PosY="43" Id="30" Type="2" />
+        <Tile PosX="25" PosY="44" Id="30" Type="2" />
+        <Tile PosX="26" PosY="44" Id="160" Type="1" />
+        <Tile PosX="27" PosY="44" Id="160" Type="1" />
+        <Tile PosX="28" PosY="44" Id="160" Type="1" />
+        <Tile PosX="29" PosY="44" Id="160" Type="1" />
+        <Tile PosX="30" PosY="44" Id="160" Type="1" />
+        <Tile PosX="31" PosY="44" Id="160" Type="1" />
+        <Tile PosX="32" PosY="44" Id="160" Type="1" />
+        <Tile PosX="33" PosY="44" Id="160" Type="1" />
+        <Tile PosX="34" PosY="44" Id="160" Type="1" />
+        <Tile PosX="35" PosY="44" Id="160" Type="1" />
+        <Tile PosX="36" PosY="44" Id="160" Type="1" />
+        <Tile PosX="37" PosY="44" Id="160" Type="1" />
+        <Tile PosX="38" PosY="44" Id="160" Type="1" />
+        <Tile PosX="39" PosY="44" Id="160" Type="1" />
+        <Tile PosX="40" PosY="44" Id="160" Type="1" />
+        <Tile PosX="41" PosY="44" Id="160" Type="1" />
+        <Tile PosX="42" PosY="44" Id="160" Type="1" />
+        <Tile PosX="43" PosY="44" Id="160" Type="1" />
+        <Tile PosX="44" PosY="44" Id="160" Type="1" />
+        <Tile PosX="45" PosY="44" Id="160" Type="1" />
+        <Tile PosX="46" PosY="44" Id="160" Type="1" />
+        <Tile PosX="47" PosY="44" Id="160" Type="1" />
+        <Tile PosX="48" PosY="44" Id="160" Type="1" />
+        <Tile PosX="49" PosY="44" Id="30" Type="2" />
+        <Tile PosX="25" PosY="45" Id="30" Type="2" />
+        <Tile PosX="26" PosY="45" Id="160" Type="1" />
+        <Tile PosX="27" PosY="45" Id="160" Type="1" />
+        <Tile PosX="28" PosY="45" Id="160" Type="1" />
+        <Tile PosX="29" PosY="45" Id="160" Type="1" />
+        <Tile PosX="30" PosY="45" Id="160" Type="1" />
+        <Tile PosX="31" PosY="45" Id="160" Type="1" />
+        <Tile PosX="32" PosY="45" Id="160" Type="1" />
+        <Tile PosX="33" PosY="45" Id="160" Type="1" />
+        <Tile PosX="34" PosY="45" Id="160" Type="1" />
+        <Tile PosX="35" PosY="45" Id="160" Type="1" />
+        <Tile PosX="36" PosY="45" Id="160" Type="1" />
+        <Tile PosX="37" PosY="45" Id="160" Type="1" />
+        <Tile PosX="38" PosY="45" Id="160" Type="1" />
+        <Tile PosX="39" PosY="45" Id="160" Type="1" />
+        <Tile PosX="40" PosY="45" Id="160" Type="1" />
+        <Tile PosX="41" PosY="45" Id="160" Type="1" />
+        <Tile PosX="42" PosY="45" Id="160" Type="1" />
+        <Tile PosX="43" PosY="45" Id="160" Type="1" />
+        <Tile PosX="44" PosY="45" Id="160" Type="1" />
+        <Tile PosX="45" PosY="45" Id="160" Type="1" />
+        <Tile PosX="46" PosY="45" Id="160" Type="1" />
+        <Tile PosX="47" PosY="45" Id="160" Type="1" />
+        <Tile PosX="48" PosY="45" Id="160" Type="1" />
+        <Tile PosX="49" PosY="45" Id="30" Type="2" />
+        <Tile PosX="25" PosY="46" Id="30" Type="2" />
+        <Tile PosX="26" PosY="46" Id="160" Type="1" />
+        <Tile PosX="27" PosY="46" Id="160" Type="1" />
+        <Tile PosX="28" PosY="46" Id="160" Type="1" />
+        <Tile PosX="29" PosY="46" Id="160" Type="1" />
+        <Tile PosX="30" PosY="46" Id="160" Type="1" />
+        <Tile PosX="31" PosY="46" Id="160" Type="1" />
+        <Tile PosX="32" PosY="46" Id="160" Type="1" />
+        <Tile PosX="33" PosY="46" Id="160" Type="1" />
+        <Tile PosX="34" PosY="46" Id="160" Type="1" />
+        <Tile PosX="35" PosY="46" Id="160" Type="1" />
+        <Tile PosX="36" PosY="46" Id="160" Type="1" />
+        <Tile PosX="37" PosY="46" Id="160" Type="1" />
+        <Tile PosX="38" PosY="46" Id="160" Type="1" />
+        <Tile PosX="39" PosY="46" Id="160" Type="1" />
+        <Tile PosX="40" PosY="46" Id="160" Type="1" />
+        <Tile PosX="41" PosY="46" Id="160" Type="1" />
+        <Tile PosX="42" PosY="46" Id="160" Type="1" />
+        <Tile PosX="43" PosY="46" Id="160" Type="1" />
+        <Tile PosX="44" PosY="46" Id="160" Type="1" />
+        <Tile PosX="45" PosY="46" Id="160" Type="1" />
+        <Tile PosX="46" PosY="46" Id="160" Type="1" />
+        <Tile PosX="47" PosY="46" Id="160" Type="1" />
+        <Tile PosX="48" PosY="46" Id="160" Type="1" />
+        <Tile PosX="49" PosY="46" Id="30" Type="2" />
+        <Tile PosX="25" PosY="47" Id="30" Type="2" />
+        <Tile PosX="26" PosY="47" Id="30" Type="2" />
+        <Tile PosX="27" PosY="47" Id="30" Type="2" />
+        <Tile PosX="28" PosY="47" Id="30" Type="2" />
+        <Tile PosX="29" PosY="47" Id="30" Type="2" />
+        <Tile PosX="30" PosY="47" Id="30" Type="2" />
+        <Tile PosX="31" PosY="47" Id="30" Type="2" />
+        <Tile PosX="32" PosY="47" Id="30" Type="2" />
+        <Tile PosX="33" PosY="47" Id="30" Type="2" />
+        <Tile PosX="34" PosY="47" Id="30" Type="2" />
+        <Tile PosX="35" PosY="47" Id="30" Type="2" />
+        <Tile PosX="36" PosY="47" Id="30" Type="2" />
+        <Tile PosX="37" PosY="47" Id="30" Type="2" />
+        <Tile PosX="38" PosY="47" Id="30" Type="2" />
+        <Tile PosX="39" PosY="47" Id="30" Type="2" />
+        <Tile PosX="40" PosY="47" Id="30" Type="2" />
+        <Tile PosX="41" PosY="47" Id="30" Type="2" />
+        <Tile PosX="42" PosY="47" Id="30" Type="2" />
+        <Tile PosX="43" PosY="47" Id="30" Type="2" />
+        <Tile PosX="44" PosY="47" Id="30" Type="2" />
+        <Tile PosX="45" PosY="47" Id="30" Type="2" />
+        <Tile PosX="46" PosY="47" Id="30" Type="2" />
+        <Tile PosX="47" PosY="47" Id="30" Type="2" />
+        <Tile PosX="48" PosY="47" Id="30" Type="2" />
+        <Tile PosX="49" PosY="47" Id="30" Type="2" />
+      </Tile_List>
+      <Respawn_List />
+      <Escapepoint_List />
+      <Spawn_List>
+        <Spawn Name="end" Type="12" SpawnRate="1" SpawnAmount="1" PosX="1590" PosY="1280">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="boss3" Type="20" SpawnRate="1" SpawnAmount="1" PosX="1193" PosY="1375">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+        <Spawn Name="enddoor" Type="13" SpawnRate="1" SpawnAmount="1" PosX="1584" PosY="1280">
+          <HeadPoint PosX="0" PosY="0" />
+          <Waypoint_List />
+        </Spawn>
+      </Spawn_List>
+      <Trigger_List />
+    </Room>
+  </Room_List>
+  <Puzzle_List>
+    <Puzzle Name="lever1" Room="split puzzle room" PosX="2000" PosY="256" Ordered="0" Restart="0" Timer="0">
+      <Door_List>
+        <Door PosX="1579" PosY="448" Vertical="1" Unlocked="0" />
+      </Door_List>
+      <Trap_List />
+      <Lever_List>
+        <Lever PosX="2291" PosY="114" IsOn="0" />
+      </Lever_List>
+      <PressurePoint_List />
+    </Puzzle>
+    <Puzzle Name="lever2" Room="split puzzle room" PosX="2000" PosY="256" Ordered="0" Restart="0" Timer="0">
+      <Door_List>
+        <Door PosX="1216" PosY="492" Vertical="0" Unlocked="0" />
+      </Door_List>
+      <Trap_List />
+      <Lever_List>
+        <Lever PosX="2288" PosY="369" IsOn="0" />
+      </Lever_List>
+      <PressurePoint_List />
+    </Puzzle>
+    <Puzzle Name="lever 3" Room="pride 3 room" PosX="400" PosY="768" Ordered="0" Restart="1" Timer="10">
+      <Door_List>
+        <Door PosX="1216" PosY="1004" Vertical="0" Unlocked="0" />
+      </Door_List>
+      <Trap_List />
+      <Lever_List>
+        <Lever PosX="87" PosY="756" IsOn="0" />
+      </Lever_List>
+      <PressurePoint_List />
+    </Puzzle>
+    <Puzzle Name="pressure 1" Room="boss room" PosX="1200" PosY="1280" Ordered="0" Restart="0" Timer="0">
+      <Door_List />
+      <Trap_List>
+        <Trap PosX="29" PosY="35" Id="160" Type="5" />
+      </Trap_List>
+      <Lever_List />
+      <PressurePoint_List>
+        <PressurePoint PosX="880" PosY="1104" />
+      </PressurePoint_List>
+    </Puzzle>
+    <Puzzle Name="pressure2" Room="boss room" PosX="1200" PosY="1280" Ordered="0" Restart="0" Timer="0">
+      <Door_List />
+      <Trap_List>
+        <Trap PosX="45" PosY="35" Id="160" Type="7" />
+      </Trap_List>
+      <Lever_List />
+      <PressurePoint_List>
+        <PressurePoint PosX="1518" PosY="1102" />
+      </PressurePoint_List>
+    </Puzzle>
+    <Puzzle Name="pressure3" Room="boss room" PosX="1200" PosY="1280" Ordered="0" Restart="0" Timer="0">
+      <Door_List />
+      <Trap_List>
+        <Trap PosX="29" PosY="44" Id="160" Type="6" />
+      </Trap_List>
+      <Lever_List />
+      <PressurePoint_List>
+        <PressurePoint PosX="876" PosY="1455" />
+      </PressurePoint_List>
+    </Puzzle>
+    <Puzzle Name="pressure 4" Room="boss room" PosX="1200" PosY="1280" Ordered="0" Restart="0" Timer="0">
+      <Door_List />
+      <Trap_List>
+        <Trap PosX="45" PosY="44" Id="160" Type="5" />
+      </Trap_List>
+      <Lever_List />
+      <PressurePoint_List>
+        <PressurePoint PosX="1517" PosY="1453" />
+      </PressurePoint_List>
+    </Puzzle>
+  </Puzzle_List>
+  <Challenge_List />
+</Level_Info>

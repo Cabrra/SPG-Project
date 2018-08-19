@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="default.png" />
+    <Width Value="100" />
+    <Height Value="100" />
+    <PositionX Value="200" />
+    <PositionY Value="200" />
+    <ImageSizeWidh Value="128" />
+    <ImageSizeHeight Value="128" />
+    <MaxParticles Value="300" />
+    <FirstWave Value="50" />
+    <SpawnRate Value="0" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="0.129999994617856" />
+      <MaxLife Value="2.801999981379584" />
+      <ColorStartA Value="255" />
+      <ColorStartR Value="0" />
+      <ColorStartG Value="0" />
+      <ColorStartB Value="255" />
+      <ColorEndA Value="27" />
+      <ColorEndR Value="109" />
+      <ColorEndG Value="231" />
+      <ColorEndB Value="76" />
+      <ScaleStart Value="0.0" />
+      <ScaleEnd Value="0.730000012525568" />
+      <RotationStart Value="90" />
+      <RotationEnd Value="0" />
+      <VelocityStartMinX Value="-10.0000000020" />
+      <VelocityStartMaxX Value="1.174999998988288" />
+      <VelocityStartMinY Value="-6.0000000012" />
+      <VelocityStartMaxY Value="3.0000000006" />
+      <VelocityEndMinX Value="4.834999959945216" />
+      <VelocityEndMaxX Value="14.0000000028" />
+      <VelocityEndMinY Value="-5.002" />
+      <VelocityEndMaxY Value="-2.0000000004" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

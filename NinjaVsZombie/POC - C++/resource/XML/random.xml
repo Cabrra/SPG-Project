@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level_Info>
+  <Level Name="randomness" NumOfRooms="1" Boss="rand" Rows="4" Cols="4" Width="32" Height="32" />
+  <Tileset Path="resource\Graphics\ScA_WorldTileset.PNG" Rows="32" Cols="32" Width="32" Height="32" />
+  <Tile_List>
+    <Tile Id="32" Type="3" />
+    <Tile Id="108" Type="2" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="108" Type="2" />
+    <Tile Id="108" Type="2" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+    <Tile Id="34" Type="1" />
+  </Tile_List>
+  <Respawn_List>
+    <Respawn PosX="14" PosY="77" />
+  </Respawn_List>
+  <Spawn_List>
+    <Spawn Name="scott" Type="1" PosX="22" PosY="115">
+      <HeadPoint PosX="-1" PosY="-1" />
+      <Waypoint_List />
+    </Spawn>
+    <Spawn Name="them" Type="3" PosX="101" PosY="67">
+      <HeadPoint PosX="101" PosY="67" />
+      <Waypoint_List>
+        <Waypoint PosX="101" PosY="67">
+          <PrevPoint PosX="72" PosY="78" />
+          <NextPoint PosX="111" PosY="92" />
+        </Waypoint>
+        <Waypoint PosX="111" PosY="92">
+          <PrevPoint PosX="101" PosY="67" />
+          <NextPoint PosX="96" PosY="14" />
+        </Waypoint>
+        <Waypoint PosX="96" PosY="14">
+          <PrevPoint PosX="111" PosY="92" />
+          <NextPoint PosX="72" PosY="78" />
+        </Waypoint>
+        <Waypoint PosX="72" PosY="78">
+          <PrevPoint PosX="96" PosY="14" />
+          <NextPoint PosX="101" PosY="67" />
+        </Waypoint>
+      </Waypoint_List>
+    </Spawn>
+  </Spawn_List>
+  <Trigger_List />
+</Level_Info>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+<<<<<<< HEAD
+    <Musice_Volume Volume_level="30" />
+    <SoundEf_Volume Volume_level="45" />
+=======
+    <Musice_Volume Volume_level="50" />
+    <SoundEf_Volume Volume_level="65" />
+>>>>>>> 28b4544ec53dd3da2ca9c80347adf09d6cf04839
+</Options>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="1">
+  <Animation Name="doorunlockV" Path="vdooranimsheet.png" Looping="false" NumberofFrames="4">
+    <Frame FrameRectX="128" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="144" AnchorpointY="64" Duration="0.5" EventTrigger="" />
+    <Frame FrameRectX="160" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="176" AnchorpointY="64" Duration="0.5" EventTrigger="" />
+    <Frame FrameRectX="192" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="208" AnchorpointY="64" Duration="0.5" EventTrigger="" />
+    <Frame FrameRectX="0" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="64" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="16" AnchorpointY="64" Duration="0.5" EventTrigger="" />
+  </Animation>
+</Animation_info>

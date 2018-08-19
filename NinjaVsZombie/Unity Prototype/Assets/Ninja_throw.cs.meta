@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50f31094e89024a47a3a4cda5a0eec24
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - shuriken: {fileID: 8300000, guid: caacb6c17baeb194abe1fe419c5fa66c, type: 3}
+  - attacksound: {instanceID: 0}
+  - takeDamage: {fileID: 8300000, guid: 2abe8aa235e5de249a69069d95737a46, type: 3}
+  - deathSound: {fileID: 8300000, guid: 8610eff516e6fc142bd35db43492de49, type: 3}
+  - takeDamageEffect: {instanceID: 0}
+  - deathEffect: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - leveluppoint: {instanceID: 0}
+  - leveluppoint2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="1">
+  <Animation Name="Default" Path="resource/Graphics/SGD_Anim_Explosion.png" Looping="false" NumberofFrames="3">
+    <Frame FrameRectX="1" FrameRectY="0" FrameRectWidth="59" FrameRectHeight="44" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="29" AnchorpointY="43" Duration="0.3" EventTrigger="" />
+    <Frame FrameRectX="66" FrameRectY="4" FrameRectWidth="50" FrameRectHeight="39" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="91" AnchorpointY="42" Duration="0.3" EventTrigger="" />
+    <Frame FrameRectX="120" FrameRectY="0" FrameRectWidth="60" FrameRectHeight="45" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="149" AnchorpointY="44" Duration="0.3" EventTrigger="" />
+  </Animation>
+</Animation_info>

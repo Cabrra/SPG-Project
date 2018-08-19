@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="FirePuff.png" />
+    <Width Value="64" />
+    <Height Value="64" />
+    <PositionX Value="-200" />
+    <PositionY Value="-200" />
+    <ImageSizeWidh Value="32" />
+    <ImageSizeHeight Value="32" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="20" />
+    <SpawnRate Value="0.300" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="1" />
+      <MaxLife Value="3" />
+      <ColorStartA Value="125.0" />
+      <ColorStartR Value="255" />
+      <ColorStartG Value="255" />
+      <ColorStartB Value="255" />
+      <ColorEndA Value="255" />
+      <ColorEndR Value="128" />
+      <ColorEndG Value="128" />
+      <ColorEndB Value="128" />
+      <ScaleStart Value="1.29899999780864" />
+      <ScaleEnd Value="3.79899999780864" />
+      <RotationStart Value="22" />
+      <RotationEnd Value="0.904" />
+      <VelocityStartMinX Value="-10" />
+      <VelocityStartMaxX Value="5" />
+      <VelocityStartMinY Value="-45" />
+      <VelocityStartMaxY Value="-25" />
+      <VelocityEndMinX Value="-63" />
+      <VelocityEndMaxX Value="-58" />
+      <VelocityEndMinY Value="-76" />
+      <VelocityEndMaxY Value="-50" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

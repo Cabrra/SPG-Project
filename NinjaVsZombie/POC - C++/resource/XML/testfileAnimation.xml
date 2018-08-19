@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Animation_Info>
+    <Animation Name="Test Animation" Path="resource/Graphics/Player.png" NumofFrames="10">
+        <Frame SourceRecL="-20" SourceRecT="10" SourceRecR="60" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="60" SourceRecT="10" SourceRecR="140" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="140" SourceRecT="10" SourceRecR="220" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="220" SourceRecT="10" SourceRecR="300" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="300" SourceRecT="10" SourceRecR="380" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="380" SourceRecT="10" SourceRecR="460" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="460" SourceRecT="10" SourceRecR="540" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="540" SourceRecT="10" SourceRecR="620" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="620" SourceRecT="10" SourceRecR="700" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.100000" Looping="1" Playing="1" Finished="0" />
+        <Frame SourceRecL="700" SourceRecT="10" SourceRecR="800" SourceRecB="72" PositionX="218" PositionY="233" Duration="0.500000" Looping="1" Playing="1" Finished="0" />
+    </Animation>
+</Animation_Info>

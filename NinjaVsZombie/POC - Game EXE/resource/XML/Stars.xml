@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Particle_Info>
+	<Emiter>
+		<Path value="star.png"/>
+		<Width value="100"/>
+		<Height value="100"/>
+		<PositionX value="500"/> 
+		<PositionY value="500"/>
+		<SpreadX value="55"/>
+		<SpreadY value="55"/>
+		<ImageSizeWidh value="120"/>
+		<ImageSizeHeight value="120"/>
+		<MaxParticles value="1000"/>
+		<FirstWave value="20"/>
+		<SpawnRate value="0.005"/>
+		<Shape value="0"/>
+		<isOuter value="0"/>
+		<Flyweight> 
+			<MinLife value="8.5"/>
+			<MaxLife value="18.2"/>
+			<ColorStartA value="225"/>
+			<ColorStartR value="0"/>
+			<ColorStartG value="0"/>
+			<ColorStartB value="250"/>
+			<ColorEndA value="150"/>
+			<ColorEndR value="220"/>
+			<ColorEndG value="50"/>
+			<ColorEndB value="25"/>
+			<ScaleStart value="0.03"/>
+			<ScaleEnd value="1.5"/>
+			<RotationStart value="90"/>
+			<RotationEnd value="270"/>
+			<VelocityStartMinX value="5.0"/>
+			<VelocityStartMaxX value="10.0"/>
+			<VelocityStartMinY value="-5.0"/>
+			<VelocityStartMaxY value="9.0"/>
+			<VelocityEndMinX value="-20.0"/>
+			<VelocityEndMaxX value="20.0"/>
+			<VelocityEndMinY value="-5.0"/>
+			<VelocityEndMaxY value="8.0"/>
+		</Flyweight>
+	</Emiter>
+</Particle_Info>

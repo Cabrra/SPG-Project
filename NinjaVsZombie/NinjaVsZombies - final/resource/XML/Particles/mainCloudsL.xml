@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="Cloud.png" />
+    <Width Value="-220" />
+    <Height Value="-25" />
+    <PositionX Value="-220" />
+    <PositionY Value="-25" />
+    <ImageSizeWidh Value="64" />
+    <ImageSizeHeight Value="64" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="3" />
+    <SpawnRate Value="7" />
+    <Shape Value="0" />
+    <Flyweight>
+      <MinLife Value="7" />
+      <MaxLife Value="15" />
+      <ColorStartA Value="200" />
+      <ColorStartR Value="192" />
+      <ColorStartG Value="192" />
+      <ColorStartB Value="192" />
+      <ColorEndA Value="0" />
+      <ColorEndR Value="128" />
+      <ColorEndG Value="128" />
+      <ColorEndB Value="128" />
+      <ScaleStart Value="0.9" />
+      <ScaleEnd Value="1.100" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="0" />
+      <VelocityStartMinX Value="10.000" />
+      <VelocityStartMaxX Value="40.000" />
+      <VelocityStartMinY Value="0.000" />
+      <VelocityStartMaxY Value="0.000" />
+      <VelocityEndMinX Value="15" />
+      <VelocityEndMaxX Value="60" />
+      <VelocityEndMinY Value="0" />
+      <VelocityEndMaxY Value="0" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

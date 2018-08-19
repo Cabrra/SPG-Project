@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="1">
+  <Animation Name="Default" Path="ninja.png" Looping="true" NumberofFrames="6">
+    <Frame FrameRectX="9" FrameRectY="9" FrameRectWidth="52" FrameRectHeight="65" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="41" AnchorpointY="36" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="89" FrameRectY="6" FrameRectWidth="53" FrameRectHeight="67" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="121" AnchorpointY="33" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="169" FrameRectY="6" FrameRectWidth="55" FrameRectHeight="69" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="203" AnchorpointY="35" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="249" FrameRectY="7" FrameRectWidth="52" FrameRectHeight="67" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="282" AnchorpointY="35" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="329" FrameRectY="8" FrameRectWidth="52" FrameRectHeight="65" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="362" AnchorpointY="36" Duration="0.2" EventTrigger="" />
+    <Frame FrameRectX="410" FrameRectY="6" FrameRectWidth="52" FrameRectHeight="67" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="442" AnchorpointY="33" Duration="0.7" EventTrigger="FrameTest" />
+  </Animation>
+</Animation_info>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="Blossom.png" />
+    <Width Value="1000" />
+    <Height Value="-70" />
+    <PositionX Value="-150" />
+    <PositionY Value="-60" />
+    <ImageSizeWidh Value="64" />
+    <ImageSizeHeight Value="64" />
+    <MaxParticles Value="300" />
+    <FirstWave Value="15" />
+    <SpawnRate Value="2.3" />
+    <Shape Value="1" />
+    <Flyweight>
+      <MinLife Value="15.000" />
+      <MaxLife Value="25.000" />
+      <ColorStartA Value="195" />
+      <ColorStartR Value="221" />
+      <ColorStartG Value="160" />
+      <ColorStartB Value="221" />
+      <ColorEndA Value="140" />
+      <ColorEndR Value="220" />
+      <ColorEndG Value="20" />
+      <ColorEndB Value="60" />
+      <ScaleStart Value="0.599" />
+      <ScaleEnd Value="0.9" />
+      <RotationStart Value="-45" />
+      <RotationEnd Value="245" />
+      <VelocityStartMinX Value="-20.000" />
+      <VelocityStartMaxX Value="29.000" />
+      <VelocityStartMinY Value="15.000" />
+      <VelocityStartMaxY Value="25.000" />
+      <VelocityEndMinX Value="-50.000" />
+      <VelocityEndMaxX Value="46.574" />
+      <VelocityEndMinY Value="45.0" />
+      <VelocityEndMaxY Value="55.000" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

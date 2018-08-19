@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 50f54d421b910a047b879d370f169307
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hitEffect: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - levelUp: {fileID: 8300000, guid: 5ca08719eeef4394cadacb5cff3b26ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

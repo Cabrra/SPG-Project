@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Level_Info>
+    <Level Name="Test Level" NumOfRooms="1" Boss="None" Rows="5" Cols="5" Width="32" Height="32" />
+    <Tileset Path="resource/Graphics/test_tileset.png" Rows="15" Cols="15" Width="32" Height="32" />
+    <Tile_List>
+        <Tile Id="3" Type="1" />
+        <Tile Id="3" Type="1" />
+        <Tile Id="3" Type="1" />
+        <Tile Id="6" Type="4" />
+        <Tile Id="5" Type="4" />
+        <Tile Id="3" Type="1" />
+        <Tile Id="19" Type="1" />
+        <Tile Id="4" Type="1" />
+        <Tile Id="3" Type="1" />
+        <Tile Id="11" Type="1" />
+        <Tile Id="14" Type="1" />
+        <Tile Id="13" Type="1" />
+        <Tile Id="4" Type="1" />
+        <Tile Id="4" Type="1" />
+        <Tile Id="11" Type="1" />
+        <Tile Id="16" Type="1" />
+        <Tile Id="12" Type="1" />
+        <Tile Id="3" Type="1" />
+        <Tile Id="16" Type="1" />
+        <Tile Id="7" Type="1" />
+        <Tile Id="4" Type="1" />
+        <Tile Id="12" Type="1" />
+        <Tile Id="12" Type="1" />
+        <Tile Id="0" Type="1" />
+        <Tile Id="14" Type="1" />
+    </Tile_List>
+</Level_Info>

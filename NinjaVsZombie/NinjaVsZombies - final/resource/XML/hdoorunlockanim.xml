@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="1">
+  <Animation Name="doorunlockH" Path="hdooranimsheet.png" Looping="false" NumberofFrames="3">
+    <Frame FrameRectX="0" FrameRectY="96" FrameRectWidth="64" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="32" AnchorpointY="114" Duration="0.5" EventTrigger="" />
+    <Frame FrameRectX="0" FrameRectY="64" FrameRectWidth="64" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="32" AnchorpointY="82" Duration="0.5" EventTrigger="" />
+    <Frame FrameRectX="0" FrameRectY="32" FrameRectWidth="64" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="32" AnchorpointY="50" Duration="0.5" EventTrigger="" />
+  </Animation>
+</Animation_info>

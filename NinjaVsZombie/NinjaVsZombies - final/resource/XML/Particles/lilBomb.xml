@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="FakeSmoke.png" />
+    <Width Value="10" />
+    <Height Value="10" />
+    <PositionX Value="-200" />
+    <PositionY Value="-200" />
+    <ImageSizeWidh Value="128" />
+    <ImageSizeHeight Value="128" />
+    <MaxParticles Value="30" />
+    <FirstWave Value="3" />
+    <SpawnRate Value="0.35" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="5" />
+      <MaxLife Value="10" />
+      <ColorStartA Value="255" />
+      <ColorStartR Value="128" />
+      <ColorStartG Value="128" />
+      <ColorStartB Value="128" />
+      <ColorEndA Value="0" />
+      <ColorEndR Value="192" />
+      <ColorEndG Value="192" />
+      <ColorEndB Value="192" />
+      <ScaleStart Value="0.550" />
+      <ScaleEnd Value="0.850" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="0" />
+      <VelocityStartMinX Value="-40" />
+      <VelocityStartMaxX Value="-25" />
+      <VelocityStartMinY Value="-60" />
+      <VelocityStartMaxY Value="-40" />
+      <VelocityEndMinX Value="-80" />
+      <VelocityEndMaxX Value="-30" />
+      <VelocityEndMinY Value="-80" />
+      <VelocityEndMaxY Value="-30" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

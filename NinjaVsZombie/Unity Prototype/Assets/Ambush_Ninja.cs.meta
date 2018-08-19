@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 926d84188b326f341b048b64b63173f3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - leveluppoint: {instanceID: 0}
+  - leveluppoint2: {instanceID: 0}
+  - takeDamage: {fileID: 8300000, guid: 2abe8aa235e5de249a69069d95737a46, type: 3}
+  - deathSound: {fileID: 8300000, guid: 8610eff516e6fc142bd35db43492de49, type: 3}
+  - pizzaTake: {fileID: 8300000, guid: eb4a3322144456d4c8242276234708d4, type: 3}
+  - pizzaDrop: {fileID: 8300000, guid: ef9d48d8373957b4e875c1f3b0e66dbc, type: 3}
+  - takeDamageEffect: {instanceID: 0}
+  - deathEffect: {instanceID: 0}
+  - Pizza: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="Electric Ball.png" />
+    <Width Value="5" />
+    <Height Value="20" />
+    <PositionX Value="-100" />
+    <PositionY Value="-100" />
+    <ImageSizeWidh Value="256" />
+    <ImageSizeHeight Value="256" />
+    <MaxParticles Value="50" />
+    <FirstWave Value="3" />
+    <SpawnRate Value="1.0" />
+    <Shape Value="2" />
+    <Flyweight>
+      <MinLife Value="0.20" />
+      <MaxLife Value="0.25" />
+      <ColorStartA Value="255" />
+      <ColorStartR Value="255" />
+      <ColorStartG Value="255" />
+      <ColorStartB Value="255" />
+      <ColorEndA Value="175" />
+      <ColorEndR Value="0" />
+      <ColorEndG Value="55" />
+      <ColorEndB Value="255" />
+      <ScaleStart Value="0.051" />
+      <ScaleEnd Value="0.051" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="0" />
+      <VelocityStartMinX Value="0" />
+      <VelocityStartMaxX Value="0" />
+      <VelocityStartMinY Value="-20" />
+      <VelocityStartMaxY Value="-10" />
+      <VelocityEndMinX Value="0" />
+      <VelocityEndMaxX Value="0" />
+      <VelocityEndMinY Value="20" />
+      <VelocityEndMaxY Value="25" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation_info NumberofAnimations="2">
+  <Animation Name="Compress" Path="pressurepoint.png" Looping="1" NumberofFrames="4">
+    <Frame FrameRectX="0" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="16" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="32" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="48" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="64" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="80" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="96" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="112" AnchorpointY="16" Duration="2" EventTrigger="Compressed" />
+  </Animation>
+  <Animation Name="Decompress" Path="pressurepoint.png" Looping="1" NumberofFrames="4">
+    <Frame FrameRectX="96" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="112" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="64" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="80" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="32" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="48" AnchorpointY="16" Duration="0.1" EventTrigger="" />
+    <Frame FrameRectX="0" FrameRectY="0" FrameRectWidth="32" FrameRectHeight="32" CollisionRectX="0" CollisionRectY="0" CollisionRectWidth="0" CollisionRectHeight="0" AttackRectX="0" AttackRectY="0" AttackRectWidth="0" AttackRectHeight="0" AnchorpointX="16" AnchorpointY="16" Duration="2" EventTrigger="Decompressed" />
+  </Animation>
+</Animation_info>

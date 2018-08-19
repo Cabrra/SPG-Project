@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particle_Info>
+  <Emiter>
+    <Path Value="fire.png" />
+    <Width Value="20" />
+    <Height Value="20" />
+    <PositionX Value="-100" />
+    <PositionY Value="-100" />
+    <ImageSizeWidh Value="128" />
+    <ImageSizeHeight Value="128" />
+    <MaxParticles Value="100" />
+    <FirstWave Value="15" />
+    <SpawnRate Value="0.25" />
+    <Shape Value="3" />
+    <Flyweight>
+      <MinLife Value="0.5" />
+      <MaxLife Value="0.85" />
+      <ColorStartA Value="255" />
+      <ColorStartR Value="255" />
+      <ColorStartG Value="55" />
+      <ColorStartB Value="55" />
+      <ColorEndA Value="175" />
+      <ColorEndR Value="255" />
+      <ColorEndG Value="255" />
+      <ColorEndB Value="255" />
+      <ScaleStart Value="0.16" />
+      <ScaleEnd Value="0.15" />
+      <RotationStart Value="0" />
+      <RotationEnd Value="0" />
+      <VelocityStartMinX Value="0" />
+      <VelocityStartMaxX Value="0" />
+      <VelocityStartMinY Value="0" />
+      <VelocityStartMaxY Value="0" />
+      <VelocityEndMinX Value="-20" />
+      <VelocityEndMaxX Value="-15" />
+      <VelocityEndMinY Value="-20" />
+      <VelocityEndMaxY Value="-15" />
+    </Flyweight>
+  </Emiter>
+</Particle_Info>
