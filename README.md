@@ -9,6 +9,17 @@ The paper model was designed brainstorming and testing the prototype with a focu
 
 At the end of the 3 months period, we were able to deliver a fully functional game. We also learned how to interact with the artists and how the art pipeline works. Furthermore, due to some issues on estimations and scope, we learnt the proper way to pivot and re-organize the existing resources to gracefully handle the unexpected situations.
 
+Other interesting elements:
+	+ Testing Sessions
+	+ Bug Bashing
+	+ Documentation and task assignments
+	+ Update other's code/bugs
+	+ Post-mortem 
+	+ Stand ups twice a day
+	+ Feature refining
+	+ Published to arcade machine (at Full Sail University)
+	+ RTC requirement compliance
+
 ## Evolution
 
 + Total
