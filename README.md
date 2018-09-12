@@ -24,17 +24,17 @@ Other interesting elements:
 
 + Total
 
-![Evolution](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/NinjaVsZombie/NinjaEvolution.png)
+![Evolution](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/NinjaVsZombie/NinjaEvolution.png?token=AI_RbfQ_aP6DmNIO2-OHDKvCqOBDR9-kks5bok8mwA%3D%3D)
 
 + Alpha
 
-![Ninja POC1](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/NinjaVsZombie/POC1.png)
-![Ninja POC2](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/NinjaVsZombie/POC2.png)
+![Ninja POC1](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/NinjaVsZombie/POC1.png?token=AI_RbW-nZPyoYp0i8IaQoKYLqSlbfadRks5bok8owA%3D%3D)
+![Ninja POC2](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/NinjaVsZombie/POC2.png?token=AI_RbRWr6306l4SGDFqY9KGBsowTyxeiks5bok8pwA%3D%3D)
 
 + Final
 
-![Ninja Final](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/NinjaVsZombie/NinjaMain.png)
-![Ninja Final](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/NinjaVsZombie/NinjaMain2.png)
+![Ninja Final](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/NinjaVsZombie/NinjaMain.png?token=AI_RbdSHfwSHEqk2tdnvUE3yFUBuXBh8ks5bok8qwA%3D%3D)
+![Ninja Final](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/NinjaVsZombie/NinjaMain2.png?token=AI_RbZwQkAaY-o-Yt_rrNB31TJjC-j2hks5bok8swA%3D%3D)
 
 ## Built With
 
